@@ -16,9 +16,6 @@ tickers = client.get_all_tickers()
 file_step_1_pairs_trade = '1_25_step_1_pairs_trade.json'
 
 
-# file_step_1_pairs_trade = 'para_aa.json'
-
-
 def f_file_step_1_pairs_trade():
     with open(file_step_1_pairs_trade) as file_data:
         data_a = json.load(file_data)
@@ -40,7 +37,6 @@ buy_a_buy_b_sell_c = []
 buy_a_sell_b_sell_c = []
 
 # Если в общем словаре "file_step_1_pairs_trade" вторая валюта это "USDT" или "BTC", то добавляем пару в список
-# "all_pairs_usdt"
 for i in f_file_step_1_pairs_trade():
     if (i['quoteAsset']) == "USDT":
         symbol_a = (i['symbol'])
@@ -49,7 +45,6 @@ for i in f_file_step_1_pairs_trade():
         stepSize_a = (i['filters'][2]['stepSize'])
         all_pairs_usdt.append(
             {'symbol_a': symbol_a, 'baseAsset_a': baseAsset_a, 'quoteAsset_a': quoteAsset_a, 'stepSize_a': stepSize_a})
-        # print(symbol_a, stepSize_a)
 
 for ii in f_file_step_1_pairs_trade():
     if (ii['quoteAsset']) == "BTC":

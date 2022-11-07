@@ -20,10 +20,8 @@ for i in tickers:
     if get_all_info_symbol is not None:
         time.sleep(0.2)
         status = get_all_info_symbol['status']
-        # print(get_all_info_symbol)
         if status == 'TRADING':
             aa.append(get_all_info_symbol)
-            # print(aa)
     else:
         print("Нет пары:", get_symbol)
 
