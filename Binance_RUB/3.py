@@ -196,7 +196,7 @@ for i in f_file_pairs_buy_para_b_test():
             f"\t\tif price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_{symbol_a} != 0.0 and qty_bids_a_g_{symbol_a} != 0.0 and price_asks_a_g_{symbol_a} != 0.0 and qty_asks_a_g_{symbol_a} != 0.0 and price_bids_b_g_{symbol_b} != 0.0 and qty_bids_b_g_{symbol_b} != 0.0 and price_asks_b_g_{symbol_b} != 0.0 and qty_asks_b_g_{symbol_b} != 0.0: \n"
             #######################################################################################################################
             "\n"
-            # Вычесляем сколько нужно продать в конце (пара С) BTC при депозите usdt_count
+            # Вычисляем сколько нужно продать в конце (пара С) BTC при депозите usdt_count.
             f"\t\t\tpraice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) \n"
             f"\t\t\tpraice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) \n"
             "\t\t\tpraice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) \n"
@@ -233,7 +233,7 @@ for i in f_file_pairs_buy_para_b_test():
             "\n"
             "\t\t\ttime_test = datetime.datetime.now() \n"
             "\n"
-            "\t\t\tif pribil > 0.0: \n"
+            "\t\t\tif pribil > 0.01: \n"
             # "\t\t\tlocker.acquire() \n"
             "\n"
             "\t\t\t\tprint('1111') \n"
@@ -258,23 +258,23 @@ for i in f_file_pairs_buy_para_b_test():
             # "\t\t\t\tprint(test_a, test_a2, '|', test_b, test_b2, '|', test_c, test_c2) \n"
             "\t\t\t\tprint(all_pribil) \n"
             "\n"
-            # f"\t\t\t\ta = client.order_market_buy(\n"
-            # f"\t\t\t\tsymbol='{symbol_a}',\n"
-            # f"\t\t\t\tquantity=float(price_a)\n"
-            # f"\t\t\t\t)\n"
-            # 
-            # f"\t\t\t\tprint(symbol_a_g_{symbol_a}, price_asks_a_g_{symbol_a}) \n"
-            # 
-            # f"\t\t\t\tb = client.order_market_sell(\n"
-            # f"\t\t\t\tsymbol='{symbol_b}',\n"
-            # f"\t\t\t\tquantity=float(price_b_round_size_down)\n"
-            # f"\t\t\t\t)\n"
-            # 
-            # f"\t\t\t\tc = client.order_market_sell(\n"
-            # "\t\t\t\tsymbol='BTCUSDT',\n"
-            # f"\t\t\t\tquantity=float(price_c_round_size_down)\n"
-            # f"\t\t\t\t)\n"
-            # 
+            f"\t\t\t\ta = client.order_market_buy(\n"
+            f"\t\t\t\tsymbol='{symbol_a}',\n"
+            f"\t\t\t\tquantity=float(price_a)\n"
+            f"\t\t\t\t)\n"
+
+            f"\t\t\t\tprint(symbol_a_g_{symbol_a}, price_asks_a_g_{symbol_a}) \n"
+
+            f"\t\t\t\tb = client.order_market_sell(\n"
+            f"\t\t\t\tsymbol='{symbol_b}',\n"
+            f"\t\t\t\tquantity=float(price_b_round_size_down)\n"
+            f"\t\t\t\t)\n"
+
+            f"\t\t\t\tc = client.order_market_sell(\n"
+            "\t\t\t\tsymbol='BTCUSDT',\n"
+            f"\t\t\t\tquantity=float(price_c_round_size_down)\n"
+            f"\t\t\t\t)\n"
+
 
             # "\t\t\t\ttime_test = datetime.datetime.now()\n"
             # f"\t\t\t\tprint(symbol_a_g_{symbol_a}, price_asks_a_g_{symbol_a}, time_test) \n"

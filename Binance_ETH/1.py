@@ -25,5 +25,5 @@ for i in tickers:
     else:
         print("Нет пары:", get_symbol)
 
-with open('1_25_step_1_pairs_trade.json', 'w') as file1:
+with open('../Binance_ETH/1_25_step_1_pairs_trade.json', 'w') as file1:
     json.dump(aa, file1, indent=2)

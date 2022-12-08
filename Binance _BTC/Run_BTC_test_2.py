@@ -175,7 +175,7 @@ def loop_ETHUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -303,7 +303,7 @@ def loop_BNBUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -431,7 +431,7 @@ def loop_NEOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -559,7 +559,7 @@ def loop_LTCUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -687,7 +687,7 @@ def loop_QTUMUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -815,7 +815,7 @@ def loop_ADAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -943,7 +943,7 @@ def loop_XRPUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -1071,7 +1071,7 @@ def loop_EOSUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -1199,7 +1199,7 @@ def loop_IOTAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -1327,7 +1327,7 @@ def loop_XLMUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -1455,7 +1455,7 @@ def loop_ONTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -1583,7 +1583,7 @@ def loop_TRXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -1711,7 +1711,7 @@ def loop_ETCUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -1839,7 +1839,7 @@ def loop_ICXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -1967,7 +1967,7 @@ def loop_NULSUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -2095,7 +2095,7 @@ def loop_VETUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -2223,7 +2223,7 @@ def loop_LINKUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -2351,7 +2351,7 @@ def loop_WAVESUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -2479,7 +2479,7 @@ def loop_ONGUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -2607,7 +2607,7 @@ def loop_ZILUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -2735,7 +2735,7 @@ def loop_ZRXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -2863,7 +2863,7 @@ def loop_FETUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -2991,7 +2991,7 @@ def loop_BATUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -3119,7 +3119,7 @@ def loop_XMRUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -3247,7 +3247,7 @@ def loop_ZECUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -3375,7 +3375,7 @@ def loop_IOSTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -3503,7 +3503,7 @@ def loop_CELRUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -3631,7 +3631,7 @@ def loop_DASHUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -3759,7 +3759,7 @@ def loop_OMGUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -3887,7 +3887,7 @@ def loop_THETAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -4015,7 +4015,7 @@ def loop_ENJUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -4039,134 +4039,6 @@ def loop_ENJUSDT_Trade():
 				time.sleep(1) 
 
 Thread(target=loop_ENJUSDT_Trade).start() 
-
-streammithusdt = 'mithusdt@bookTicker'
-streammithbtc  = 'mithbtc@bookTicker'
-
-symbol_a_g_MITHUSDT = 'MITHUSDT' 
-price_bids_a_g_MITHUSDT = float(0.0) 
-qty_bids_a_g_MITHUSDT = float(0.0) 
-price_asks_a_g_MITHUSDT = float(0.0) 
-qty_asks_a_g_MITHUSDT = float(0.0) 
-
-stepSize_MITHUSDT = 0.10000000 
-
-symbol_b_g_MITHBTC = 'MITHBTC' 
-price_bids_b_g_MITHBTC = float(0.0) 
-qty_bids_b_g_MITHBTC = float(0.0) 
-price_asks_b_g_MITHBTC = float(0.0) 
-qty_asks_b_g_MITHBTC = float(0.0) 
-
-stepSize_MITHBTC = 1.00000000 
-
-def on_message_MITHUSDT(ws, message): 
-	data = json.loads(message) 
-
-	if data['stream'] == streammithusdt :
-		symbol_a_l_MITHUSDT = data['data']['s'] 
-		price_bids_a_l_MITHUSDT = data['data']['b'] 
-		qty_bids_a_l_MITHUSDT = data['data']['B'] 
-		price_asks_a_l_MITHUSDT = data['data']['a'] 
-		qty_asks_a_l_MITHUSDT = data['data']['A'] 
-
-		global symbol_a_g_MITHUSDT 
-		global price_bids_a_g_MITHUSDT 
-		global qty_bids_a_g_MITHUSDT 
-		global price_asks_a_g_MITHUSDT 
-		global qty_asks_a_g_MITHUSDT 
-
-		symbol_a_g_MITHUSDT = symbol_a_l_MITHUSDT 
-		price_bids_a_g_MITHUSDT = price_bids_a_l_MITHUSDT 
-		qty_bids_a_g_MITHUSDT = qty_bids_a_l_MITHUSDT 
-		price_asks_a_g_MITHUSDT = price_asks_a_l_MITHUSDT 
-		qty_asks_a_g_MITHUSDT = qty_asks_a_l_MITHUSDT 
-
-	if data['stream'] == streammithbtc :
-		data = json.loads(message) 
-
-		symbol_b_l_MITHBTC = data['data']['s'] 
-		price_bids_b_l_MITHBTC = data['data']['b'] 
-		qty_bids_b_l_MITHBTC = data['data']['B']
-		price_asks_b_l_MITHBTC = data['data']['a'] 
-		qty_asks_b_l_MITHBTC = data['data']['A'] 
-
-		global symbol_b_g_MITHBTC 
-		global price_bids_b_g_MITHBTC 
-		global qty_bids_b_g_MITHBTC 
-		global price_asks_b_g_MITHBTC 
-		global qty_asks_b_g_MITHBTC 
-
-		symbol_b_g_MITHBTC = symbol_b_l_MITHBTC 
-		price_bids_b_g_MITHBTC = price_bids_b_l_MITHBTC 
-		qty_bids_b_g_MITHBTC = qty_bids_b_l_MITHBTC 
-		price_asks_b_g_MITHBTC = price_asks_b_l_MITHBTC 
-		qty_asks_b_g_MITHBTC = qty_asks_b_l_MITHBTC 
-
-
-def loop_MITHUSDT():
-	socket1 = f'wss://stream.binance.com:9443/stream?streams={streammithusdt}/{streammithbtc}' 
-
-	ws = websocket.WebSocketApp(socket1, 
-	on_message=on_message_MITHUSDT 
-	) 
-
-	ws.run_forever() 
-
-Thread(target=loop_MITHUSDT).start()
-
-def loop_MITHUSDT_Trade(): 
-	while True: 
-		time.sleep(0.1)
-
-
-		if price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_MITHUSDT != 0.0 and qty_bids_a_g_MITHUSDT != 0.0 and price_asks_a_g_MITHUSDT != 0.0 and qty_asks_a_g_MITHUSDT != 0.0 and price_bids_b_g_MITHBTC != 0.0 and qty_bids_b_g_MITHBTC != 0.0 and price_asks_b_g_MITHBTC != 0.0 and qty_asks_b_g_MITHBTC != 0.0: 
-
-			praice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) 
-			praice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) 
-			praice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) 
-
-			praice_pair_b_raschet = float(praice_pair_c_raschet_size_up_round) / float(price_bids_b_g_MITHBTC) 
-			praice_pair_b_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet, stepSize_MITHBTC)) 
-			praice_pair_b_raschet_size_up_round = round(praice_pair_b_raschet_size_up, 14) 
-
-			price_pair_a_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet_size_up_round, stepSize_MITHUSDT)) 
-			price_pair_a_raschet = price_pair_a_raschet_size_up * float(price_asks_a_g_MITHUSDT) 
-			praice_pair_a_raschet_round = round(price_pair_a_raschet, 14) 
-	
-			price_a = round(price_pair_a_raschet_size_up, 14) 
-
-			price_b_round_size_down = float(f_minqty_size_down(price_a, stepSize_MITHBTC)) 
-			price_b = price_b_round_size_down * float(price_bids_b_g_MITHBTC) 
-			price_b_round = round(price_b, 14) 
-
-			price_c_round_size_down = float(f_minqty_size_down(price_b_round, stepSize_BTCUSDT)) 
-			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
-			price_c_round = round(price_c, 7) 
-
-			a = 0.225 / 100 
-			b = price_c_round * a 
-			itog_minus_proc = price_c_round - b 
-
-			pribil = itog_minus_proc - praice_pair_a_raschet_round 
-
-			time_test = datetime.datetime.now() 
-
-			if pribil > 0.0: 
-
-				print('1111') 
-				global all_pribil 
-				all_pribil = float(all_pribil) + float(pribil) 
-
-				print('############################################################################################################') 
-				print('Kupili:', symbol_a_g_MITHUSDT, 'V kolichestve:', price_a, 'Po cene:', price_asks_a_g_MITHUSDT, 'potratili:', praice_pair_a_raschet_round, time_test) 
-				print('Prodali:', symbol_b_g_MITHBTC, 'V kolichestve:', price_b_round, 'Po cene:', price_bids_b_g_MITHBTC) 
-				print('Prodali:', symbol_c_g_BTCUSDT, 'V kolichestve:', price_c_round_size_down, 'Po cene:', price_bids_c_g_BTCUSDT) 
-				print('Potratili:', praice_pair_a_raschet_round, 'Poluchili:', price_c_round, 'Minus Com = :', itog_minus_proc, 'Pribil:', pribil) 
-				print(all_pribil) 
-
-				time.sleep(1) 
-
-Thread(target=loop_MITHUSDT_Trade).start() 
 
 streammaticusdt = 'maticusdt@bookTicker'
 streammaticbtc  = 'maticbtc@bookTicker'
@@ -4271,7 +4143,7 @@ def loop_MATICUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -4399,7 +4271,7 @@ def loop_ATOMUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -4527,7 +4399,7 @@ def loop_TFUELUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -4655,7 +4527,7 @@ def loop_ONEUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -4783,7 +4655,7 @@ def loop_FTMUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -4911,7 +4783,7 @@ def loop_ALGOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -4935,134 +4807,6 @@ def loop_ALGOUSDT_Trade():
 				time.sleep(1) 
 
 Thread(target=loop_ALGOUSDT_Trade).start() 
-
-streamgtousdt = 'gtousdt@bookTicker'
-streamgtobtc  = 'gtobtc@bookTicker'
-
-symbol_a_g_GTOUSDT = 'GTOUSDT' 
-price_bids_a_g_GTOUSDT = float(0.0) 
-qty_bids_a_g_GTOUSDT = float(0.0) 
-price_asks_a_g_GTOUSDT = float(0.0) 
-qty_asks_a_g_GTOUSDT = float(0.0) 
-
-stepSize_GTOUSDT = 0.10000000 
-
-symbol_b_g_GTOBTC = 'GTOBTC' 
-price_bids_b_g_GTOBTC = float(0.0) 
-qty_bids_b_g_GTOBTC = float(0.0) 
-price_asks_b_g_GTOBTC = float(0.0) 
-qty_asks_b_g_GTOBTC = float(0.0) 
-
-stepSize_GTOBTC = 1.00000000 
-
-def on_message_GTOUSDT(ws, message): 
-	data = json.loads(message) 
-
-	if data['stream'] == streamgtousdt :
-		symbol_a_l_GTOUSDT = data['data']['s'] 
-		price_bids_a_l_GTOUSDT = data['data']['b'] 
-		qty_bids_a_l_GTOUSDT = data['data']['B'] 
-		price_asks_a_l_GTOUSDT = data['data']['a'] 
-		qty_asks_a_l_GTOUSDT = data['data']['A'] 
-
-		global symbol_a_g_GTOUSDT 
-		global price_bids_a_g_GTOUSDT 
-		global qty_bids_a_g_GTOUSDT 
-		global price_asks_a_g_GTOUSDT 
-		global qty_asks_a_g_GTOUSDT 
-
-		symbol_a_g_GTOUSDT = symbol_a_l_GTOUSDT 
-		price_bids_a_g_GTOUSDT = price_bids_a_l_GTOUSDT 
-		qty_bids_a_g_GTOUSDT = qty_bids_a_l_GTOUSDT 
-		price_asks_a_g_GTOUSDT = price_asks_a_l_GTOUSDT 
-		qty_asks_a_g_GTOUSDT = qty_asks_a_l_GTOUSDT 
-
-	if data['stream'] == streamgtobtc :
-		data = json.loads(message) 
-
-		symbol_b_l_GTOBTC = data['data']['s'] 
-		price_bids_b_l_GTOBTC = data['data']['b'] 
-		qty_bids_b_l_GTOBTC = data['data']['B']
-		price_asks_b_l_GTOBTC = data['data']['a'] 
-		qty_asks_b_l_GTOBTC = data['data']['A'] 
-
-		global symbol_b_g_GTOBTC 
-		global price_bids_b_g_GTOBTC 
-		global qty_bids_b_g_GTOBTC 
-		global price_asks_b_g_GTOBTC 
-		global qty_asks_b_g_GTOBTC 
-
-		symbol_b_g_GTOBTC = symbol_b_l_GTOBTC 
-		price_bids_b_g_GTOBTC = price_bids_b_l_GTOBTC 
-		qty_bids_b_g_GTOBTC = qty_bids_b_l_GTOBTC 
-		price_asks_b_g_GTOBTC = price_asks_b_l_GTOBTC 
-		qty_asks_b_g_GTOBTC = qty_asks_b_l_GTOBTC 
-
-
-def loop_GTOUSDT():
-	socket1 = f'wss://stream.binance.com:9443/stream?streams={streamgtousdt}/{streamgtobtc}' 
-
-	ws = websocket.WebSocketApp(socket1, 
-	on_message=on_message_GTOUSDT 
-	) 
-
-	ws.run_forever() 
-
-Thread(target=loop_GTOUSDT).start()
-
-def loop_GTOUSDT_Trade(): 
-	while True: 
-		time.sleep(0.1)
-
-
-		if price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_GTOUSDT != 0.0 and qty_bids_a_g_GTOUSDT != 0.0 and price_asks_a_g_GTOUSDT != 0.0 and qty_asks_a_g_GTOUSDT != 0.0 and price_bids_b_g_GTOBTC != 0.0 and qty_bids_b_g_GTOBTC != 0.0 and price_asks_b_g_GTOBTC != 0.0 and qty_asks_b_g_GTOBTC != 0.0: 
-
-			praice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) 
-			praice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) 
-			praice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) 
-
-			praice_pair_b_raschet = float(praice_pair_c_raschet_size_up_round) / float(price_bids_b_g_GTOBTC) 
-			praice_pair_b_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet, stepSize_GTOBTC)) 
-			praice_pair_b_raschet_size_up_round = round(praice_pair_b_raschet_size_up, 14) 
-
-			price_pair_a_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet_size_up_round, stepSize_GTOUSDT)) 
-			price_pair_a_raschet = price_pair_a_raschet_size_up * float(price_asks_a_g_GTOUSDT) 
-			praice_pair_a_raschet_round = round(price_pair_a_raschet, 14) 
-	
-			price_a = round(price_pair_a_raschet_size_up, 14) 
-
-			price_b_round_size_down = float(f_minqty_size_down(price_a, stepSize_GTOBTC)) 
-			price_b = price_b_round_size_down * float(price_bids_b_g_GTOBTC) 
-			price_b_round = round(price_b, 14) 
-
-			price_c_round_size_down = float(f_minqty_size_down(price_b_round, stepSize_BTCUSDT)) 
-			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
-			price_c_round = round(price_c, 7) 
-
-			a = 0.225 / 100 
-			b = price_c_round * a 
-			itog_minus_proc = price_c_round - b 
-
-			pribil = itog_minus_proc - praice_pair_a_raschet_round 
-
-			time_test = datetime.datetime.now() 
-
-			if pribil > 0.0: 
-
-				print('1111') 
-				global all_pribil 
-				all_pribil = float(all_pribil) + float(pribil) 
-
-				print('############################################################################################################') 
-				print('Kupili:', symbol_a_g_GTOUSDT, 'V kolichestve:', price_a, 'Po cene:', price_asks_a_g_GTOUSDT, 'potratili:', praice_pair_a_raschet_round, time_test) 
-				print('Prodali:', symbol_b_g_GTOBTC, 'V kolichestve:', price_b_round, 'Po cene:', price_bids_b_g_GTOBTC) 
-				print('Prodali:', symbol_c_g_BTCUSDT, 'V kolichestve:', price_c_round_size_down, 'Po cene:', price_bids_c_g_BTCUSDT) 
-				print('Potratili:', praice_pair_a_raschet_round, 'Poluchili:', price_c_round, 'Minus Com = :', itog_minus_proc, 'Pribil:', pribil) 
-				print(all_pribil) 
-
-				time.sleep(1) 
-
-Thread(target=loop_GTOUSDT_Trade).start() 
 
 streamdogeusdt = 'dogeusdt@bookTicker'
 streamdogebtc  = 'dogebtc@bookTicker'
@@ -5167,7 +4911,7 @@ def loop_DOGEUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -5295,7 +5039,7 @@ def loop_DUSKUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -5423,7 +5167,7 @@ def loop_ANKRUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -5551,7 +5295,7 @@ def loop_COSUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -5575,134 +5319,6 @@ def loop_COSUSDT_Trade():
 				time.sleep(1) 
 
 Thread(target=loop_COSUSDT_Trade).start() 
-
-streammtlusdt = 'mtlusdt@bookTicker'
-streammtlbtc  = 'mtlbtc@bookTicker'
-
-symbol_a_g_MTLUSDT = 'MTLUSDT' 
-price_bids_a_g_MTLUSDT = float(0.0) 
-qty_bids_a_g_MTLUSDT = float(0.0) 
-price_asks_a_g_MTLUSDT = float(0.0) 
-qty_asks_a_g_MTLUSDT = float(0.0) 
-
-stepSize_MTLUSDT = 0.10000000 
-
-symbol_b_g_MTLBTC = 'MTLBTC' 
-price_bids_b_g_MTLBTC = float(0.0) 
-qty_bids_b_g_MTLBTC = float(0.0) 
-price_asks_b_g_MTLBTC = float(0.0) 
-qty_asks_b_g_MTLBTC = float(0.0) 
-
-stepSize_MTLBTC = 0.10000000 
-
-def on_message_MTLUSDT(ws, message): 
-	data = json.loads(message) 
-
-	if data['stream'] == streammtlusdt :
-		symbol_a_l_MTLUSDT = data['data']['s'] 
-		price_bids_a_l_MTLUSDT = data['data']['b'] 
-		qty_bids_a_l_MTLUSDT = data['data']['B'] 
-		price_asks_a_l_MTLUSDT = data['data']['a'] 
-		qty_asks_a_l_MTLUSDT = data['data']['A'] 
-
-		global symbol_a_g_MTLUSDT 
-		global price_bids_a_g_MTLUSDT 
-		global qty_bids_a_g_MTLUSDT 
-		global price_asks_a_g_MTLUSDT 
-		global qty_asks_a_g_MTLUSDT 
-
-		symbol_a_g_MTLUSDT = symbol_a_l_MTLUSDT 
-		price_bids_a_g_MTLUSDT = price_bids_a_l_MTLUSDT 
-		qty_bids_a_g_MTLUSDT = qty_bids_a_l_MTLUSDT 
-		price_asks_a_g_MTLUSDT = price_asks_a_l_MTLUSDT 
-		qty_asks_a_g_MTLUSDT = qty_asks_a_l_MTLUSDT 
-
-	if data['stream'] == streammtlbtc :
-		data = json.loads(message) 
-
-		symbol_b_l_MTLBTC = data['data']['s'] 
-		price_bids_b_l_MTLBTC = data['data']['b'] 
-		qty_bids_b_l_MTLBTC = data['data']['B']
-		price_asks_b_l_MTLBTC = data['data']['a'] 
-		qty_asks_b_l_MTLBTC = data['data']['A'] 
-
-		global symbol_b_g_MTLBTC 
-		global price_bids_b_g_MTLBTC 
-		global qty_bids_b_g_MTLBTC 
-		global price_asks_b_g_MTLBTC 
-		global qty_asks_b_g_MTLBTC 
-
-		symbol_b_g_MTLBTC = symbol_b_l_MTLBTC 
-		price_bids_b_g_MTLBTC = price_bids_b_l_MTLBTC 
-		qty_bids_b_g_MTLBTC = qty_bids_b_l_MTLBTC 
-		price_asks_b_g_MTLBTC = price_asks_b_l_MTLBTC 
-		qty_asks_b_g_MTLBTC = qty_asks_b_l_MTLBTC 
-
-
-def loop_MTLUSDT():
-	socket1 = f'wss://stream.binance.com:9443/stream?streams={streammtlusdt}/{streammtlbtc}' 
-
-	ws = websocket.WebSocketApp(socket1, 
-	on_message=on_message_MTLUSDT 
-	) 
-
-	ws.run_forever() 
-
-Thread(target=loop_MTLUSDT).start()
-
-def loop_MTLUSDT_Trade(): 
-	while True: 
-		time.sleep(0.1)
-
-
-		if price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_MTLUSDT != 0.0 and qty_bids_a_g_MTLUSDT != 0.0 and price_asks_a_g_MTLUSDT != 0.0 and qty_asks_a_g_MTLUSDT != 0.0 and price_bids_b_g_MTLBTC != 0.0 and qty_bids_b_g_MTLBTC != 0.0 and price_asks_b_g_MTLBTC != 0.0 and qty_asks_b_g_MTLBTC != 0.0: 
-
-			praice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) 
-			praice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) 
-			praice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) 
-
-			praice_pair_b_raschet = float(praice_pair_c_raschet_size_up_round) / float(price_bids_b_g_MTLBTC) 
-			praice_pair_b_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet, stepSize_MTLBTC)) 
-			praice_pair_b_raschet_size_up_round = round(praice_pair_b_raschet_size_up, 14) 
-
-			price_pair_a_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet_size_up_round, stepSize_MTLUSDT)) 
-			price_pair_a_raschet = price_pair_a_raschet_size_up * float(price_asks_a_g_MTLUSDT) 
-			praice_pair_a_raschet_round = round(price_pair_a_raschet, 14) 
-	
-			price_a = round(price_pair_a_raschet_size_up, 14) 
-
-			price_b_round_size_down = float(f_minqty_size_down(price_a, stepSize_MTLBTC)) 
-			price_b = price_b_round_size_down * float(price_bids_b_g_MTLBTC) 
-			price_b_round = round(price_b, 14) 
-
-			price_c_round_size_down = float(f_minqty_size_down(price_b_round, stepSize_BTCUSDT)) 
-			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
-			price_c_round = round(price_c, 7) 
-
-			a = 0.225 / 100 
-			b = price_c_round * a 
-			itog_minus_proc = price_c_round - b 
-
-			pribil = itog_minus_proc - praice_pair_a_raschet_round 
-
-			time_test = datetime.datetime.now() 
-
-			if pribil > 0.0: 
-
-				print('1111') 
-				global all_pribil 
-				all_pribil = float(all_pribil) + float(pribil) 
-
-				print('############################################################################################################') 
-				print('Kupili:', symbol_a_g_MTLUSDT, 'V kolichestve:', price_a, 'Po cene:', price_asks_a_g_MTLUSDT, 'potratili:', praice_pair_a_raschet_round, time_test) 
-				print('Prodali:', symbol_b_g_MTLBTC, 'V kolichestve:', price_b_round, 'Po cene:', price_bids_b_g_MTLBTC) 
-				print('Prodali:', symbol_c_g_BTCUSDT, 'V kolichestve:', price_c_round_size_down, 'Po cene:', price_bids_c_g_BTCUSDT) 
-				print('Potratili:', praice_pair_a_raschet_round, 'Poluchili:', price_c_round, 'Minus Com = :', itog_minus_proc, 'Pribil:', pribil) 
-				print(all_pribil) 
-
-				time.sleep(1) 
-
-Thread(target=loop_MTLUSDT_Trade).start() 
 
 streamtomousdt = 'tomousdt@bookTicker'
 streamtomobtc  = 'tomobtc@bookTicker'
@@ -5807,7 +5423,7 @@ def loop_TOMOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -5831,134 +5447,6 @@ def loop_TOMOUSDT_Trade():
 				time.sleep(1) 
 
 Thread(target=loop_TOMOUSDT_Trade).start() 
-
-streamperlusdt = 'perlusdt@bookTicker'
-streamperlbtc  = 'perlbtc@bookTicker'
-
-symbol_a_g_PERLUSDT = 'PERLUSDT' 
-price_bids_a_g_PERLUSDT = float(0.0) 
-qty_bids_a_g_PERLUSDT = float(0.0) 
-price_asks_a_g_PERLUSDT = float(0.0) 
-qty_asks_a_g_PERLUSDT = float(0.0) 
-
-stepSize_PERLUSDT = 0.10000000 
-
-symbol_b_g_PERLBTC = 'PERLBTC' 
-price_bids_b_g_PERLBTC = float(0.0) 
-qty_bids_b_g_PERLBTC = float(0.0) 
-price_asks_b_g_PERLBTC = float(0.0) 
-qty_asks_b_g_PERLBTC = float(0.0) 
-
-stepSize_PERLBTC = 1.00000000 
-
-def on_message_PERLUSDT(ws, message): 
-	data = json.loads(message) 
-
-	if data['stream'] == streamperlusdt :
-		symbol_a_l_PERLUSDT = data['data']['s'] 
-		price_bids_a_l_PERLUSDT = data['data']['b'] 
-		qty_bids_a_l_PERLUSDT = data['data']['B'] 
-		price_asks_a_l_PERLUSDT = data['data']['a'] 
-		qty_asks_a_l_PERLUSDT = data['data']['A'] 
-
-		global symbol_a_g_PERLUSDT 
-		global price_bids_a_g_PERLUSDT 
-		global qty_bids_a_g_PERLUSDT 
-		global price_asks_a_g_PERLUSDT 
-		global qty_asks_a_g_PERLUSDT 
-
-		symbol_a_g_PERLUSDT = symbol_a_l_PERLUSDT 
-		price_bids_a_g_PERLUSDT = price_bids_a_l_PERLUSDT 
-		qty_bids_a_g_PERLUSDT = qty_bids_a_l_PERLUSDT 
-		price_asks_a_g_PERLUSDT = price_asks_a_l_PERLUSDT 
-		qty_asks_a_g_PERLUSDT = qty_asks_a_l_PERLUSDT 
-
-	if data['stream'] == streamperlbtc :
-		data = json.loads(message) 
-
-		symbol_b_l_PERLBTC = data['data']['s'] 
-		price_bids_b_l_PERLBTC = data['data']['b'] 
-		qty_bids_b_l_PERLBTC = data['data']['B']
-		price_asks_b_l_PERLBTC = data['data']['a'] 
-		qty_asks_b_l_PERLBTC = data['data']['A'] 
-
-		global symbol_b_g_PERLBTC 
-		global price_bids_b_g_PERLBTC 
-		global qty_bids_b_g_PERLBTC 
-		global price_asks_b_g_PERLBTC 
-		global qty_asks_b_g_PERLBTC 
-
-		symbol_b_g_PERLBTC = symbol_b_l_PERLBTC 
-		price_bids_b_g_PERLBTC = price_bids_b_l_PERLBTC 
-		qty_bids_b_g_PERLBTC = qty_bids_b_l_PERLBTC 
-		price_asks_b_g_PERLBTC = price_asks_b_l_PERLBTC 
-		qty_asks_b_g_PERLBTC = qty_asks_b_l_PERLBTC 
-
-
-def loop_PERLUSDT():
-	socket1 = f'wss://stream.binance.com:9443/stream?streams={streamperlusdt}/{streamperlbtc}' 
-
-	ws = websocket.WebSocketApp(socket1, 
-	on_message=on_message_PERLUSDT 
-	) 
-
-	ws.run_forever() 
-
-Thread(target=loop_PERLUSDT).start()
-
-def loop_PERLUSDT_Trade(): 
-	while True: 
-		time.sleep(0.1)
-
-
-		if price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_PERLUSDT != 0.0 and qty_bids_a_g_PERLUSDT != 0.0 and price_asks_a_g_PERLUSDT != 0.0 and qty_asks_a_g_PERLUSDT != 0.0 and price_bids_b_g_PERLBTC != 0.0 and qty_bids_b_g_PERLBTC != 0.0 and price_asks_b_g_PERLBTC != 0.0 and qty_asks_b_g_PERLBTC != 0.0: 
-
-			praice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) 
-			praice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) 
-			praice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) 
-
-			praice_pair_b_raschet = float(praice_pair_c_raschet_size_up_round) / float(price_bids_b_g_PERLBTC) 
-			praice_pair_b_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet, stepSize_PERLBTC)) 
-			praice_pair_b_raschet_size_up_round = round(praice_pair_b_raschet_size_up, 14) 
-
-			price_pair_a_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet_size_up_round, stepSize_PERLUSDT)) 
-			price_pair_a_raschet = price_pair_a_raschet_size_up * float(price_asks_a_g_PERLUSDT) 
-			praice_pair_a_raschet_round = round(price_pair_a_raschet, 14) 
-	
-			price_a = round(price_pair_a_raschet_size_up, 14) 
-
-			price_b_round_size_down = float(f_minqty_size_down(price_a, stepSize_PERLBTC)) 
-			price_b = price_b_round_size_down * float(price_bids_b_g_PERLBTC) 
-			price_b_round = round(price_b, 14) 
-
-			price_c_round_size_down = float(f_minqty_size_down(price_b_round, stepSize_BTCUSDT)) 
-			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
-			price_c_round = round(price_c, 7) 
-
-			a = 0.225 / 100 
-			b = price_c_round * a 
-			itog_minus_proc = price_c_round - b 
-
-			pribil = itog_minus_proc - praice_pair_a_raschet_round 
-
-			time_test = datetime.datetime.now() 
-
-			if pribil > 0.0: 
-
-				print('1111') 
-				global all_pribil 
-				all_pribil = float(all_pribil) + float(pribil) 
-
-				print('############################################################################################################') 
-				print('Kupili:', symbol_a_g_PERLUSDT, 'V kolichestve:', price_a, 'Po cene:', price_asks_a_g_PERLUSDT, 'potratili:', praice_pair_a_raschet_round, time_test) 
-				print('Prodali:', symbol_b_g_PERLBTC, 'V kolichestve:', price_b_round, 'Po cene:', price_bids_b_g_PERLBTC) 
-				print('Prodali:', symbol_c_g_BTCUSDT, 'V kolichestve:', price_c_round_size_down, 'Po cene:', price_bids_c_g_BTCUSDT) 
-				print('Potratili:', praice_pair_a_raschet_round, 'Poluchili:', price_c_round, 'Minus Com = :', itog_minus_proc, 'Pribil:', pribil) 
-				print(all_pribil) 
-
-				time.sleep(1) 
-
-Thread(target=loop_PERLUSDT_Trade).start() 
 
 streamdockusdt = 'dockusdt@bookTicker'
 streamdockbtc  = 'dockbtc@bookTicker'
@@ -6063,7 +5551,7 @@ def loop_DOCKUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -6191,7 +5679,7 @@ def loop_WANUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -6319,7 +5807,7 @@ def loop_CVCUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -6447,7 +5935,7 @@ def loop_CHZUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -6575,7 +6063,7 @@ def loop_BANDUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -6599,134 +6087,6 @@ def loop_BANDUSDT_Trade():
 				time.sleep(1) 
 
 Thread(target=loop_BANDUSDT_Trade).start() 
-
-streambeamusdt = 'beamusdt@bookTicker'
-streambeambtc  = 'beambtc@bookTicker'
-
-symbol_a_g_BEAMUSDT = 'BEAMUSDT' 
-price_bids_a_g_BEAMUSDT = float(0.0) 
-qty_bids_a_g_BEAMUSDT = float(0.0) 
-price_asks_a_g_BEAMUSDT = float(0.0) 
-qty_asks_a_g_BEAMUSDT = float(0.0) 
-
-stepSize_BEAMUSDT = 1.00000000 
-
-symbol_b_g_BEAMBTC = 'BEAMBTC' 
-price_bids_b_g_BEAMBTC = float(0.0) 
-qty_bids_b_g_BEAMBTC = float(0.0) 
-price_asks_b_g_BEAMBTC = float(0.0) 
-qty_asks_b_g_BEAMBTC = float(0.0) 
-
-stepSize_BEAMBTC = 1.00000000 
-
-def on_message_BEAMUSDT(ws, message): 
-	data = json.loads(message) 
-
-	if data['stream'] == streambeamusdt :
-		symbol_a_l_BEAMUSDT = data['data']['s'] 
-		price_bids_a_l_BEAMUSDT = data['data']['b'] 
-		qty_bids_a_l_BEAMUSDT = data['data']['B'] 
-		price_asks_a_l_BEAMUSDT = data['data']['a'] 
-		qty_asks_a_l_BEAMUSDT = data['data']['A'] 
-
-		global symbol_a_g_BEAMUSDT 
-		global price_bids_a_g_BEAMUSDT 
-		global qty_bids_a_g_BEAMUSDT 
-		global price_asks_a_g_BEAMUSDT 
-		global qty_asks_a_g_BEAMUSDT 
-
-		symbol_a_g_BEAMUSDT = symbol_a_l_BEAMUSDT 
-		price_bids_a_g_BEAMUSDT = price_bids_a_l_BEAMUSDT 
-		qty_bids_a_g_BEAMUSDT = qty_bids_a_l_BEAMUSDT 
-		price_asks_a_g_BEAMUSDT = price_asks_a_l_BEAMUSDT 
-		qty_asks_a_g_BEAMUSDT = qty_asks_a_l_BEAMUSDT 
-
-	if data['stream'] == streambeambtc :
-		data = json.loads(message) 
-
-		symbol_b_l_BEAMBTC = data['data']['s'] 
-		price_bids_b_l_BEAMBTC = data['data']['b'] 
-		qty_bids_b_l_BEAMBTC = data['data']['B']
-		price_asks_b_l_BEAMBTC = data['data']['a'] 
-		qty_asks_b_l_BEAMBTC = data['data']['A'] 
-
-		global symbol_b_g_BEAMBTC 
-		global price_bids_b_g_BEAMBTC 
-		global qty_bids_b_g_BEAMBTC 
-		global price_asks_b_g_BEAMBTC 
-		global qty_asks_b_g_BEAMBTC 
-
-		symbol_b_g_BEAMBTC = symbol_b_l_BEAMBTC 
-		price_bids_b_g_BEAMBTC = price_bids_b_l_BEAMBTC 
-		qty_bids_b_g_BEAMBTC = qty_bids_b_l_BEAMBTC 
-		price_asks_b_g_BEAMBTC = price_asks_b_l_BEAMBTC 
-		qty_asks_b_g_BEAMBTC = qty_asks_b_l_BEAMBTC 
-
-
-def loop_BEAMUSDT():
-	socket1 = f'wss://stream.binance.com:9443/stream?streams={streambeamusdt}/{streambeambtc}' 
-
-	ws = websocket.WebSocketApp(socket1, 
-	on_message=on_message_BEAMUSDT 
-	) 
-
-	ws.run_forever() 
-
-Thread(target=loop_BEAMUSDT).start()
-
-def loop_BEAMUSDT_Trade(): 
-	while True: 
-		time.sleep(0.1)
-
-
-		if price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_BEAMUSDT != 0.0 and qty_bids_a_g_BEAMUSDT != 0.0 and price_asks_a_g_BEAMUSDT != 0.0 and qty_asks_a_g_BEAMUSDT != 0.0 and price_bids_b_g_BEAMBTC != 0.0 and qty_bids_b_g_BEAMBTC != 0.0 and price_asks_b_g_BEAMBTC != 0.0 and qty_asks_b_g_BEAMBTC != 0.0: 
-
-			praice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) 
-			praice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) 
-			praice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) 
-
-			praice_pair_b_raschet = float(praice_pair_c_raschet_size_up_round) / float(price_bids_b_g_BEAMBTC) 
-			praice_pair_b_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet, stepSize_BEAMBTC)) 
-			praice_pair_b_raschet_size_up_round = round(praice_pair_b_raschet_size_up, 14) 
-
-			price_pair_a_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet_size_up_round, stepSize_BEAMUSDT)) 
-			price_pair_a_raschet = price_pair_a_raschet_size_up * float(price_asks_a_g_BEAMUSDT) 
-			praice_pair_a_raschet_round = round(price_pair_a_raschet, 14) 
-	
-			price_a = round(price_pair_a_raschet_size_up, 14) 
-
-			price_b_round_size_down = float(f_minqty_size_down(price_a, stepSize_BEAMBTC)) 
-			price_b = price_b_round_size_down * float(price_bids_b_g_BEAMBTC) 
-			price_b_round = round(price_b, 14) 
-
-			price_c_round_size_down = float(f_minqty_size_down(price_b_round, stepSize_BTCUSDT)) 
-			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
-			price_c_round = round(price_c, 7) 
-
-			a = 0.225 / 100 
-			b = price_c_round * a 
-			itog_minus_proc = price_c_round - b 
-
-			pribil = itog_minus_proc - praice_pair_a_raschet_round 
-
-			time_test = datetime.datetime.now() 
-
-			if pribil > 0.0: 
-
-				print('1111') 
-				global all_pribil 
-				all_pribil = float(all_pribil) + float(pribil) 
-
-				print('############################################################################################################') 
-				print('Kupili:', symbol_a_g_BEAMUSDT, 'V kolichestve:', price_a, 'Po cene:', price_asks_a_g_BEAMUSDT, 'potratili:', praice_pair_a_raschet_round, time_test) 
-				print('Prodali:', symbol_b_g_BEAMBTC, 'V kolichestve:', price_b_round, 'Po cene:', price_bids_b_g_BEAMBTC) 
-				print('Prodali:', symbol_c_g_BTCUSDT, 'V kolichestve:', price_c_round_size_down, 'Po cene:', price_bids_c_g_BTCUSDT) 
-				print('Potratili:', praice_pair_a_raschet_round, 'Poluchili:', price_c_round, 'Minus Com = :', itog_minus_proc, 'Pribil:', pribil) 
-				print(all_pribil) 
-
-				time.sleep(1) 
-
-Thread(target=loop_BEAMUSDT_Trade).start() 
 
 streamxtzusdt = 'xtzusdt@bookTicker'
 streamxtzbtc  = 'xtzbtc@bookTicker'
@@ -6831,7 +6191,7 @@ def loop_XTZUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -6959,7 +6319,7 @@ def loop_RENUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -7087,7 +6447,7 @@ def loop_RVNUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -7215,7 +6575,7 @@ def loop_HBARUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -7343,7 +6703,7 @@ def loop_NKNUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -7471,7 +6831,7 @@ def loop_STXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -7599,7 +6959,7 @@ def loop_KAVAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -7727,7 +7087,7 @@ def loop_ARPAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -7855,7 +7215,7 @@ def loop_IOTXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -7983,7 +7343,7 @@ def loop_RLCUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -8111,7 +7471,7 @@ def loop_CTXCUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -8239,7 +7599,7 @@ def loop_BCHUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -8367,7 +7727,7 @@ def loop_VITEUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -8391,134 +7751,6 @@ def loop_VITEUSDT_Trade():
 				time.sleep(1) 
 
 Thread(target=loop_VITEUSDT_Trade).start() 
-
-streamfttusdt = 'fttusdt@bookTicker'
-streamfttbtc  = 'fttbtc@bookTicker'
-
-symbol_a_g_FTTUSDT = 'FTTUSDT' 
-price_bids_a_g_FTTUSDT = float(0.0) 
-qty_bids_a_g_FTTUSDT = float(0.0) 
-price_asks_a_g_FTTUSDT = float(0.0) 
-qty_asks_a_g_FTTUSDT = float(0.0) 
-
-stepSize_FTTUSDT = 0.01000000 
-
-symbol_b_g_FTTBTC = 'FTTBTC' 
-price_bids_b_g_FTTBTC = float(0.0) 
-qty_bids_b_g_FTTBTC = float(0.0) 
-price_asks_b_g_FTTBTC = float(0.0) 
-qty_asks_b_g_FTTBTC = float(0.0) 
-
-stepSize_FTTBTC = 0.01000000 
-
-def on_message_FTTUSDT(ws, message): 
-	data = json.loads(message) 
-
-	if data['stream'] == streamfttusdt :
-		symbol_a_l_FTTUSDT = data['data']['s'] 
-		price_bids_a_l_FTTUSDT = data['data']['b'] 
-		qty_bids_a_l_FTTUSDT = data['data']['B'] 
-		price_asks_a_l_FTTUSDT = data['data']['a'] 
-		qty_asks_a_l_FTTUSDT = data['data']['A'] 
-
-		global symbol_a_g_FTTUSDT 
-		global price_bids_a_g_FTTUSDT 
-		global qty_bids_a_g_FTTUSDT 
-		global price_asks_a_g_FTTUSDT 
-		global qty_asks_a_g_FTTUSDT 
-
-		symbol_a_g_FTTUSDT = symbol_a_l_FTTUSDT 
-		price_bids_a_g_FTTUSDT = price_bids_a_l_FTTUSDT 
-		qty_bids_a_g_FTTUSDT = qty_bids_a_l_FTTUSDT 
-		price_asks_a_g_FTTUSDT = price_asks_a_l_FTTUSDT 
-		qty_asks_a_g_FTTUSDT = qty_asks_a_l_FTTUSDT 
-
-	if data['stream'] == streamfttbtc :
-		data = json.loads(message) 
-
-		symbol_b_l_FTTBTC = data['data']['s'] 
-		price_bids_b_l_FTTBTC = data['data']['b'] 
-		qty_bids_b_l_FTTBTC = data['data']['B']
-		price_asks_b_l_FTTBTC = data['data']['a'] 
-		qty_asks_b_l_FTTBTC = data['data']['A'] 
-
-		global symbol_b_g_FTTBTC 
-		global price_bids_b_g_FTTBTC 
-		global qty_bids_b_g_FTTBTC 
-		global price_asks_b_g_FTTBTC 
-		global qty_asks_b_g_FTTBTC 
-
-		symbol_b_g_FTTBTC = symbol_b_l_FTTBTC 
-		price_bids_b_g_FTTBTC = price_bids_b_l_FTTBTC 
-		qty_bids_b_g_FTTBTC = qty_bids_b_l_FTTBTC 
-		price_asks_b_g_FTTBTC = price_asks_b_l_FTTBTC 
-		qty_asks_b_g_FTTBTC = qty_asks_b_l_FTTBTC 
-
-
-def loop_FTTUSDT():
-	socket1 = f'wss://stream.binance.com:9443/stream?streams={streamfttusdt}/{streamfttbtc}' 
-
-	ws = websocket.WebSocketApp(socket1, 
-	on_message=on_message_FTTUSDT 
-	) 
-
-	ws.run_forever() 
-
-Thread(target=loop_FTTUSDT).start()
-
-def loop_FTTUSDT_Trade(): 
-	while True: 
-		time.sleep(0.1)
-
-
-		if price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_FTTUSDT != 0.0 and qty_bids_a_g_FTTUSDT != 0.0 and price_asks_a_g_FTTUSDT != 0.0 and qty_asks_a_g_FTTUSDT != 0.0 and price_bids_b_g_FTTBTC != 0.0 and qty_bids_b_g_FTTBTC != 0.0 and price_asks_b_g_FTTBTC != 0.0 and qty_asks_b_g_FTTBTC != 0.0: 
-
-			praice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) 
-			praice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) 
-			praice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) 
-
-			praice_pair_b_raschet = float(praice_pair_c_raschet_size_up_round) / float(price_bids_b_g_FTTBTC) 
-			praice_pair_b_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet, stepSize_FTTBTC)) 
-			praice_pair_b_raschet_size_up_round = round(praice_pair_b_raschet_size_up, 14) 
-
-			price_pair_a_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet_size_up_round, stepSize_FTTUSDT)) 
-			price_pair_a_raschet = price_pair_a_raschet_size_up * float(price_asks_a_g_FTTUSDT) 
-			praice_pair_a_raschet_round = round(price_pair_a_raschet, 14) 
-	
-			price_a = round(price_pair_a_raschet_size_up, 14) 
-
-			price_b_round_size_down = float(f_minqty_size_down(price_a, stepSize_FTTBTC)) 
-			price_b = price_b_round_size_down * float(price_bids_b_g_FTTBTC) 
-			price_b_round = round(price_b, 14) 
-
-			price_c_round_size_down = float(f_minqty_size_down(price_b_round, stepSize_BTCUSDT)) 
-			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
-			price_c_round = round(price_c, 7) 
-
-			a = 0.225 / 100 
-			b = price_c_round * a 
-			itog_minus_proc = price_c_round - b 
-
-			pribil = itog_minus_proc - praice_pair_a_raschet_round 
-
-			time_test = datetime.datetime.now() 
-
-			if pribil > 0.0: 
-
-				print('1111') 
-				global all_pribil 
-				all_pribil = float(all_pribil) + float(pribil) 
-
-				print('############################################################################################################') 
-				print('Kupili:', symbol_a_g_FTTUSDT, 'V kolichestve:', price_a, 'Po cene:', price_asks_a_g_FTTUSDT, 'potratili:', praice_pair_a_raschet_round, time_test) 
-				print('Prodali:', symbol_b_g_FTTBTC, 'V kolichestve:', price_b_round, 'Po cene:', price_bids_b_g_FTTBTC) 
-				print('Prodali:', symbol_c_g_BTCUSDT, 'V kolichestve:', price_c_round_size_down, 'Po cene:', price_bids_c_g_BTCUSDT) 
-				print('Potratili:', praice_pair_a_raschet_round, 'Poluchili:', price_c_round, 'Minus Com = :', itog_minus_proc, 'Pribil:', pribil) 
-				print(all_pribil) 
-
-				time.sleep(1) 
-
-Thread(target=loop_FTTUSDT_Trade).start() 
 
 streamognusdt = 'ognusdt@bookTicker'
 streamognbtc  = 'ognbtc@bookTicker'
@@ -8623,7 +7855,7 @@ def loop_OGNUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -8751,7 +7983,7 @@ def loop_DREPUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -8879,7 +8111,7 @@ def loop_WRXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -9007,7 +8239,7 @@ def loop_BTSUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -9135,7 +8367,7 @@ def loop_LSKUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -9263,7 +8495,7 @@ def loop_BNTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -9391,7 +8623,7 @@ def loop_LTOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -9519,7 +8751,7 @@ def loop_AIONUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -9647,7 +8879,7 @@ def loop_COTIUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -9775,7 +9007,7 @@ def loop_STPTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -9903,7 +9135,7 @@ def loop_WTCUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -10031,7 +9263,7 @@ def loop_DATAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -10159,7 +9391,7 @@ def loop_SOLUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -10287,7 +9519,7 @@ def loop_CTSIUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -10415,7 +9647,7 @@ def loop_HIVEUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -10543,7 +9775,7 @@ def loop_CHRUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -10671,7 +9903,7 @@ def loop_ARDRUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -10799,7 +10031,7 @@ def loop_MDTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -10927,7 +10159,7 @@ def loop_STMXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -11055,7 +10287,7 @@ def loop_KNCUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -11079,134 +10311,6 @@ def loop_KNCUSDT_Trade():
 				time.sleep(1) 
 
 Thread(target=loop_KNCUSDT_Trade).start() 
-
-streamrepusdt = 'repusdt@bookTicker'
-streamrepbtc  = 'repbtc@bookTicker'
-
-symbol_a_g_REPUSDT = 'REPUSDT' 
-price_bids_a_g_REPUSDT = float(0.0) 
-qty_bids_a_g_REPUSDT = float(0.0) 
-price_asks_a_g_REPUSDT = float(0.0) 
-qty_asks_a_g_REPUSDT = float(0.0) 
-
-stepSize_REPUSDT = 0.01000000 
-
-symbol_b_g_REPBTC = 'REPBTC' 
-price_bids_b_g_REPBTC = float(0.0) 
-qty_bids_b_g_REPBTC = float(0.0) 
-price_asks_b_g_REPBTC = float(0.0) 
-qty_asks_b_g_REPBTC = float(0.0) 
-
-stepSize_REPBTC = 0.01000000 
-
-def on_message_REPUSDT(ws, message): 
-	data = json.loads(message) 
-
-	if data['stream'] == streamrepusdt :
-		symbol_a_l_REPUSDT = data['data']['s'] 
-		price_bids_a_l_REPUSDT = data['data']['b'] 
-		qty_bids_a_l_REPUSDT = data['data']['B'] 
-		price_asks_a_l_REPUSDT = data['data']['a'] 
-		qty_asks_a_l_REPUSDT = data['data']['A'] 
-
-		global symbol_a_g_REPUSDT 
-		global price_bids_a_g_REPUSDT 
-		global qty_bids_a_g_REPUSDT 
-		global price_asks_a_g_REPUSDT 
-		global qty_asks_a_g_REPUSDT 
-
-		symbol_a_g_REPUSDT = symbol_a_l_REPUSDT 
-		price_bids_a_g_REPUSDT = price_bids_a_l_REPUSDT 
-		qty_bids_a_g_REPUSDT = qty_bids_a_l_REPUSDT 
-		price_asks_a_g_REPUSDT = price_asks_a_l_REPUSDT 
-		qty_asks_a_g_REPUSDT = qty_asks_a_l_REPUSDT 
-
-	if data['stream'] == streamrepbtc :
-		data = json.loads(message) 
-
-		symbol_b_l_REPBTC = data['data']['s'] 
-		price_bids_b_l_REPBTC = data['data']['b'] 
-		qty_bids_b_l_REPBTC = data['data']['B']
-		price_asks_b_l_REPBTC = data['data']['a'] 
-		qty_asks_b_l_REPBTC = data['data']['A'] 
-
-		global symbol_b_g_REPBTC 
-		global price_bids_b_g_REPBTC 
-		global qty_bids_b_g_REPBTC 
-		global price_asks_b_g_REPBTC 
-		global qty_asks_b_g_REPBTC 
-
-		symbol_b_g_REPBTC = symbol_b_l_REPBTC 
-		price_bids_b_g_REPBTC = price_bids_b_l_REPBTC 
-		qty_bids_b_g_REPBTC = qty_bids_b_l_REPBTC 
-		price_asks_b_g_REPBTC = price_asks_b_l_REPBTC 
-		qty_asks_b_g_REPBTC = qty_asks_b_l_REPBTC 
-
-
-def loop_REPUSDT():
-	socket1 = f'wss://stream.binance.com:9443/stream?streams={streamrepusdt}/{streamrepbtc}' 
-
-	ws = websocket.WebSocketApp(socket1, 
-	on_message=on_message_REPUSDT 
-	) 
-
-	ws.run_forever() 
-
-Thread(target=loop_REPUSDT).start()
-
-def loop_REPUSDT_Trade(): 
-	while True: 
-		time.sleep(0.1)
-
-
-		if price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_REPUSDT != 0.0 and qty_bids_a_g_REPUSDT != 0.0 and price_asks_a_g_REPUSDT != 0.0 and qty_asks_a_g_REPUSDT != 0.0 and price_bids_b_g_REPBTC != 0.0 and qty_bids_b_g_REPBTC != 0.0 and price_asks_b_g_REPBTC != 0.0 and qty_asks_b_g_REPBTC != 0.0: 
-
-			praice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) 
-			praice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) 
-			praice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) 
-
-			praice_pair_b_raschet = float(praice_pair_c_raschet_size_up_round) / float(price_bids_b_g_REPBTC) 
-			praice_pair_b_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet, stepSize_REPBTC)) 
-			praice_pair_b_raschet_size_up_round = round(praice_pair_b_raschet_size_up, 14) 
-
-			price_pair_a_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet_size_up_round, stepSize_REPUSDT)) 
-			price_pair_a_raschet = price_pair_a_raschet_size_up * float(price_asks_a_g_REPUSDT) 
-			praice_pair_a_raschet_round = round(price_pair_a_raschet, 14) 
-	
-			price_a = round(price_pair_a_raschet_size_up, 14) 
-
-			price_b_round_size_down = float(f_minqty_size_down(price_a, stepSize_REPBTC)) 
-			price_b = price_b_round_size_down * float(price_bids_b_g_REPBTC) 
-			price_b_round = round(price_b, 14) 
-
-			price_c_round_size_down = float(f_minqty_size_down(price_b_round, stepSize_BTCUSDT)) 
-			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
-			price_c_round = round(price_c, 7) 
-
-			a = 0.225 / 100 
-			b = price_c_round * a 
-			itog_minus_proc = price_c_round - b 
-
-			pribil = itog_minus_proc - praice_pair_a_raschet_round 
-
-			time_test = datetime.datetime.now() 
-
-			if pribil > 0.0: 
-
-				print('1111') 
-				global all_pribil 
-				all_pribil = float(all_pribil) + float(pribil) 
-
-				print('############################################################################################################') 
-				print('Kupili:', symbol_a_g_REPUSDT, 'V kolichestve:', price_a, 'Po cene:', price_asks_a_g_REPUSDT, 'potratili:', praice_pair_a_raschet_round, time_test) 
-				print('Prodali:', symbol_b_g_REPBTC, 'V kolichestve:', price_b_round, 'Po cene:', price_bids_b_g_REPBTC) 
-				print('Prodali:', symbol_c_g_BTCUSDT, 'V kolichestve:', price_c_round_size_down, 'Po cene:', price_bids_c_g_BTCUSDT) 
-				print('Potratili:', praice_pair_a_raschet_round, 'Poluchili:', price_c_round, 'Minus Com = :', itog_minus_proc, 'Pribil:', pribil) 
-				print(all_pribil) 
-
-				time.sleep(1) 
-
-Thread(target=loop_REPUSDT_Trade).start() 
 
 streamlrcusdt = 'lrcusdt@bookTicker'
 streamlrcbtc  = 'lrcbtc@bookTicker'
@@ -11311,7 +10415,7 @@ def loop_LRCUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -11335,134 +10439,6 @@ def loop_LRCUSDT_Trade():
 				time.sleep(1) 
 
 Thread(target=loop_LRCUSDT_Trade).start() 
-
-streampntusdt = 'pntusdt@bookTicker'
-streampntbtc  = 'pntbtc@bookTicker'
-
-symbol_a_g_PNTUSDT = 'PNTUSDT' 
-price_bids_a_g_PNTUSDT = float(0.0) 
-qty_bids_a_g_PNTUSDT = float(0.0) 
-price_asks_a_g_PNTUSDT = float(0.0) 
-qty_asks_a_g_PNTUSDT = float(0.0) 
-
-stepSize_PNTUSDT = 1.00000000 
-
-symbol_b_g_PNTBTC = 'PNTBTC' 
-price_bids_b_g_PNTBTC = float(0.0) 
-qty_bids_b_g_PNTBTC = float(0.0) 
-price_asks_b_g_PNTBTC = float(0.0) 
-qty_asks_b_g_PNTBTC = float(0.0) 
-
-stepSize_PNTBTC = 1.00000000 
-
-def on_message_PNTUSDT(ws, message): 
-	data = json.loads(message) 
-
-	if data['stream'] == streampntusdt :
-		symbol_a_l_PNTUSDT = data['data']['s'] 
-		price_bids_a_l_PNTUSDT = data['data']['b'] 
-		qty_bids_a_l_PNTUSDT = data['data']['B'] 
-		price_asks_a_l_PNTUSDT = data['data']['a'] 
-		qty_asks_a_l_PNTUSDT = data['data']['A'] 
-
-		global symbol_a_g_PNTUSDT 
-		global price_bids_a_g_PNTUSDT 
-		global qty_bids_a_g_PNTUSDT 
-		global price_asks_a_g_PNTUSDT 
-		global qty_asks_a_g_PNTUSDT 
-
-		symbol_a_g_PNTUSDT = symbol_a_l_PNTUSDT 
-		price_bids_a_g_PNTUSDT = price_bids_a_l_PNTUSDT 
-		qty_bids_a_g_PNTUSDT = qty_bids_a_l_PNTUSDT 
-		price_asks_a_g_PNTUSDT = price_asks_a_l_PNTUSDT 
-		qty_asks_a_g_PNTUSDT = qty_asks_a_l_PNTUSDT 
-
-	if data['stream'] == streampntbtc :
-		data = json.loads(message) 
-
-		symbol_b_l_PNTBTC = data['data']['s'] 
-		price_bids_b_l_PNTBTC = data['data']['b'] 
-		qty_bids_b_l_PNTBTC = data['data']['B']
-		price_asks_b_l_PNTBTC = data['data']['a'] 
-		qty_asks_b_l_PNTBTC = data['data']['A'] 
-
-		global symbol_b_g_PNTBTC 
-		global price_bids_b_g_PNTBTC 
-		global qty_bids_b_g_PNTBTC 
-		global price_asks_b_g_PNTBTC 
-		global qty_asks_b_g_PNTBTC 
-
-		symbol_b_g_PNTBTC = symbol_b_l_PNTBTC 
-		price_bids_b_g_PNTBTC = price_bids_b_l_PNTBTC 
-		qty_bids_b_g_PNTBTC = qty_bids_b_l_PNTBTC 
-		price_asks_b_g_PNTBTC = price_asks_b_l_PNTBTC 
-		qty_asks_b_g_PNTBTC = qty_asks_b_l_PNTBTC 
-
-
-def loop_PNTUSDT():
-	socket1 = f'wss://stream.binance.com:9443/stream?streams={streampntusdt}/{streampntbtc}' 
-
-	ws = websocket.WebSocketApp(socket1, 
-	on_message=on_message_PNTUSDT 
-	) 
-
-	ws.run_forever() 
-
-Thread(target=loop_PNTUSDT).start()
-
-def loop_PNTUSDT_Trade(): 
-	while True: 
-		time.sleep(0.1)
-
-
-		if price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_PNTUSDT != 0.0 and qty_bids_a_g_PNTUSDT != 0.0 and price_asks_a_g_PNTUSDT != 0.0 and qty_asks_a_g_PNTUSDT != 0.0 and price_bids_b_g_PNTBTC != 0.0 and qty_bids_b_g_PNTBTC != 0.0 and price_asks_b_g_PNTBTC != 0.0 and qty_asks_b_g_PNTBTC != 0.0: 
-
-			praice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) 
-			praice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) 
-			praice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) 
-
-			praice_pair_b_raschet = float(praice_pair_c_raschet_size_up_round) / float(price_bids_b_g_PNTBTC) 
-			praice_pair_b_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet, stepSize_PNTBTC)) 
-			praice_pair_b_raschet_size_up_round = round(praice_pair_b_raschet_size_up, 14) 
-
-			price_pair_a_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet_size_up_round, stepSize_PNTUSDT)) 
-			price_pair_a_raschet = price_pair_a_raschet_size_up * float(price_asks_a_g_PNTUSDT) 
-			praice_pair_a_raschet_round = round(price_pair_a_raschet, 14) 
-	
-			price_a = round(price_pair_a_raschet_size_up, 14) 
-
-			price_b_round_size_down = float(f_minqty_size_down(price_a, stepSize_PNTBTC)) 
-			price_b = price_b_round_size_down * float(price_bids_b_g_PNTBTC) 
-			price_b_round = round(price_b, 14) 
-
-			price_c_round_size_down = float(f_minqty_size_down(price_b_round, stepSize_BTCUSDT)) 
-			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
-			price_c_round = round(price_c, 7) 
-
-			a = 0.225 / 100 
-			b = price_c_round * a 
-			itog_minus_proc = price_c_round - b 
-
-			pribil = itog_minus_proc - praice_pair_a_raschet_round 
-
-			time_test = datetime.datetime.now() 
-
-			if pribil > 0.0: 
-
-				print('1111') 
-				global all_pribil 
-				all_pribil = float(all_pribil) + float(pribil) 
-
-				print('############################################################################################################') 
-				print('Kupili:', symbol_a_g_PNTUSDT, 'V kolichestve:', price_a, 'Po cene:', price_asks_a_g_PNTUSDT, 'potratili:', praice_pair_a_raschet_round, time_test) 
-				print('Prodali:', symbol_b_g_PNTBTC, 'V kolichestve:', price_b_round, 'Po cene:', price_bids_b_g_PNTBTC) 
-				print('Prodali:', symbol_c_g_BTCUSDT, 'V kolichestve:', price_c_round_size_down, 'Po cene:', price_bids_c_g_BTCUSDT) 
-				print('Potratili:', praice_pair_a_raschet_round, 'Poluchili:', price_c_round, 'Minus Com = :', itog_minus_proc, 'Pribil:', pribil) 
-				print(all_pribil) 
-
-				time.sleep(1) 
-
-Thread(target=loop_PNTUSDT_Trade).start() 
 
 streamcompusdt = 'compusdt@bookTicker'
 streamcompbtc  = 'compbtc@bookTicker'
@@ -11567,7 +10543,7 @@ def loop_COMPUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -11695,7 +10671,7 @@ def loop_ZENUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -11823,7 +10799,7 @@ def loop_SNXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -11951,7 +10927,7 @@ def loop_DGBUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -12079,7 +11055,7 @@ def loop_SXPUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -12207,7 +11183,7 @@ def loop_MKRUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -12335,7 +11311,7 @@ def loop_DCRUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -12463,7 +11439,7 @@ def loop_STORJUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -12591,7 +11567,7 @@ def loop_MANAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -12719,7 +11695,7 @@ def loop_YFIUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -12847,7 +11823,7 @@ def loop_BALUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -12975,7 +11951,7 @@ def loop_BLZUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -13103,7 +12079,7 @@ def loop_IRISUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -13231,7 +12207,7 @@ def loop_KMDUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -13359,7 +12335,7 @@ def loop_JSTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -13383,134 +12359,6 @@ def loop_JSTUSDT_Trade():
 				time.sleep(1) 
 
 Thread(target=loop_JSTUSDT_Trade).start() 
-
-streamsrmusdt = 'srmusdt@bookTicker'
-streamsrmbtc  = 'srmbtc@bookTicker'
-
-symbol_a_g_SRMUSDT = 'SRMUSDT' 
-price_bids_a_g_SRMUSDT = float(0.0) 
-qty_bids_a_g_SRMUSDT = float(0.0) 
-price_asks_a_g_SRMUSDT = float(0.0) 
-qty_asks_a_g_SRMUSDT = float(0.0) 
-
-stepSize_SRMUSDT = 0.10000000 
-
-symbol_b_g_SRMBTC = 'SRMBTC' 
-price_bids_b_g_SRMBTC = float(0.0) 
-qty_bids_b_g_SRMBTC = float(0.0) 
-price_asks_b_g_SRMBTC = float(0.0) 
-qty_asks_b_g_SRMBTC = float(0.0) 
-
-stepSize_SRMBTC = 0.10000000 
-
-def on_message_SRMUSDT(ws, message): 
-	data = json.loads(message) 
-
-	if data['stream'] == streamsrmusdt :
-		symbol_a_l_SRMUSDT = data['data']['s'] 
-		price_bids_a_l_SRMUSDT = data['data']['b'] 
-		qty_bids_a_l_SRMUSDT = data['data']['B'] 
-		price_asks_a_l_SRMUSDT = data['data']['a'] 
-		qty_asks_a_l_SRMUSDT = data['data']['A'] 
-
-		global symbol_a_g_SRMUSDT 
-		global price_bids_a_g_SRMUSDT 
-		global qty_bids_a_g_SRMUSDT 
-		global price_asks_a_g_SRMUSDT 
-		global qty_asks_a_g_SRMUSDT 
-
-		symbol_a_g_SRMUSDT = symbol_a_l_SRMUSDT 
-		price_bids_a_g_SRMUSDT = price_bids_a_l_SRMUSDT 
-		qty_bids_a_g_SRMUSDT = qty_bids_a_l_SRMUSDT 
-		price_asks_a_g_SRMUSDT = price_asks_a_l_SRMUSDT 
-		qty_asks_a_g_SRMUSDT = qty_asks_a_l_SRMUSDT 
-
-	if data['stream'] == streamsrmbtc :
-		data = json.loads(message) 
-
-		symbol_b_l_SRMBTC = data['data']['s'] 
-		price_bids_b_l_SRMBTC = data['data']['b'] 
-		qty_bids_b_l_SRMBTC = data['data']['B']
-		price_asks_b_l_SRMBTC = data['data']['a'] 
-		qty_asks_b_l_SRMBTC = data['data']['A'] 
-
-		global symbol_b_g_SRMBTC 
-		global price_bids_b_g_SRMBTC 
-		global qty_bids_b_g_SRMBTC 
-		global price_asks_b_g_SRMBTC 
-		global qty_asks_b_g_SRMBTC 
-
-		symbol_b_g_SRMBTC = symbol_b_l_SRMBTC 
-		price_bids_b_g_SRMBTC = price_bids_b_l_SRMBTC 
-		qty_bids_b_g_SRMBTC = qty_bids_b_l_SRMBTC 
-		price_asks_b_g_SRMBTC = price_asks_b_l_SRMBTC 
-		qty_asks_b_g_SRMBTC = qty_asks_b_l_SRMBTC 
-
-
-def loop_SRMUSDT():
-	socket1 = f'wss://stream.binance.com:9443/stream?streams={streamsrmusdt}/{streamsrmbtc}' 
-
-	ws = websocket.WebSocketApp(socket1, 
-	on_message=on_message_SRMUSDT 
-	) 
-
-	ws.run_forever() 
-
-Thread(target=loop_SRMUSDT).start()
-
-def loop_SRMUSDT_Trade(): 
-	while True: 
-		time.sleep(0.1)
-
-
-		if price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_SRMUSDT != 0.0 and qty_bids_a_g_SRMUSDT != 0.0 and price_asks_a_g_SRMUSDT != 0.0 and qty_asks_a_g_SRMUSDT != 0.0 and price_bids_b_g_SRMBTC != 0.0 and qty_bids_b_g_SRMBTC != 0.0 and price_asks_b_g_SRMBTC != 0.0 and qty_asks_b_g_SRMBTC != 0.0: 
-
-			praice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) 
-			praice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) 
-			praice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) 
-
-			praice_pair_b_raschet = float(praice_pair_c_raschet_size_up_round) / float(price_bids_b_g_SRMBTC) 
-			praice_pair_b_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet, stepSize_SRMBTC)) 
-			praice_pair_b_raschet_size_up_round = round(praice_pair_b_raschet_size_up, 14) 
-
-			price_pair_a_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet_size_up_round, stepSize_SRMUSDT)) 
-			price_pair_a_raschet = price_pair_a_raschet_size_up * float(price_asks_a_g_SRMUSDT) 
-			praice_pair_a_raschet_round = round(price_pair_a_raschet, 14) 
-	
-			price_a = round(price_pair_a_raschet_size_up, 14) 
-
-			price_b_round_size_down = float(f_minqty_size_down(price_a, stepSize_SRMBTC)) 
-			price_b = price_b_round_size_down * float(price_bids_b_g_SRMBTC) 
-			price_b_round = round(price_b, 14) 
-
-			price_c_round_size_down = float(f_minqty_size_down(price_b_round, stepSize_BTCUSDT)) 
-			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
-			price_c_round = round(price_c, 7) 
-
-			a = 0.225 / 100 
-			b = price_c_round * a 
-			itog_minus_proc = price_c_round - b 
-
-			pribil = itog_minus_proc - praice_pair_a_raschet_round 
-
-			time_test = datetime.datetime.now() 
-
-			if pribil > 0.0: 
-
-				print('1111') 
-				global all_pribil 
-				all_pribil = float(all_pribil) + float(pribil) 
-
-				print('############################################################################################################') 
-				print('Kupili:', symbol_a_g_SRMUSDT, 'V kolichestve:', price_a, 'Po cene:', price_asks_a_g_SRMUSDT, 'potratili:', praice_pair_a_raschet_round, time_test) 
-				print('Prodali:', symbol_b_g_SRMBTC, 'V kolichestve:', price_b_round, 'Po cene:', price_bids_b_g_SRMBTC) 
-				print('Prodali:', symbol_c_g_BTCUSDT, 'V kolichestve:', price_c_round_size_down, 'Po cene:', price_bids_c_g_BTCUSDT) 
-				print('Potratili:', praice_pair_a_raschet_round, 'Poluchili:', price_c_round, 'Minus Com = :', itog_minus_proc, 'Pribil:', pribil) 
-				print(all_pribil) 
-
-				time.sleep(1) 
-
-Thread(target=loop_SRMUSDT_Trade).start() 
 
 streamantusdt = 'antusdt@bookTicker'
 streamantbtc  = 'antbtc@bookTicker'
@@ -13615,7 +12463,7 @@ def loop_ANTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -13743,7 +12591,7 @@ def loop_CRVUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -13871,7 +12719,7 @@ def loop_SANDUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -13999,7 +12847,7 @@ def loop_OCEANUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -14127,7 +12975,7 @@ def loop_NMRUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -14255,7 +13103,7 @@ def loop_DOTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -14383,7 +13231,7 @@ def loop_PAXGUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -14511,7 +13359,7 @@ def loop_TRBUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -14639,7 +13487,7 @@ def loop_SUSHIUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -14767,7 +13615,7 @@ def loop_YFIIUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -14895,7 +13743,7 @@ def loop_KSMUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -15023,7 +13871,7 @@ def loop_EGLDUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -15151,7 +13999,7 @@ def loop_DIAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -15279,7 +14127,7 @@ def loop_RUNEUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -15407,7 +14255,7 @@ def loop_FIOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -15535,7 +14383,7 @@ def loop_UMAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -15663,7 +14511,7 @@ def loop_BELUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -15791,7 +14639,7 @@ def loop_WINGUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -15919,7 +14767,7 @@ def loop_UNIUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -16047,7 +14895,7 @@ def loop_OXTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -16175,7 +15023,7 @@ def loop_AVAXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -16303,7 +15151,7 @@ def loop_FLMUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -16431,7 +15279,7 @@ def loop_ORNUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -16559,7 +15407,7 @@ def loop_UTKUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -16687,7 +15535,7 @@ def loop_XVSUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -16815,7 +15663,7 @@ def loop_ALPHAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -16943,7 +15791,7 @@ def loop_AAVEUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -17071,7 +15919,7 @@ def loop_NEARUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -17199,7 +16047,7 @@ def loop_FILUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -17327,7 +16175,7 @@ def loop_INJUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -17455,7 +16303,7 @@ def loop_AUDIOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -17583,7 +16431,7 @@ def loop_CTKUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -17711,7 +16559,7 @@ def loop_AXSUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -17839,7 +16687,7 @@ def loop_HARDUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -17967,7 +16815,7 @@ def loop_STRAXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -18095,7 +16943,7 @@ def loop_UNFIUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -18223,7 +17071,7 @@ def loop_ROSEUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -18351,7 +17199,7 @@ def loop_AVAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -18375,134 +17223,6 @@ def loop_AVAUSDT_Trade():
 				time.sleep(1) 
 
 Thread(target=loop_AVAUSDT_Trade).start() 
-
-streamxemusdt = 'xemusdt@bookTicker'
-streamxembtc  = 'xembtc@bookTicker'
-
-symbol_a_g_XEMUSDT = 'XEMUSDT' 
-price_bids_a_g_XEMUSDT = float(0.0) 
-qty_bids_a_g_XEMUSDT = float(0.0) 
-price_asks_a_g_XEMUSDT = float(0.0) 
-qty_asks_a_g_XEMUSDT = float(0.0) 
-
-stepSize_XEMUSDT = 1.00000000 
-
-symbol_b_g_XEMBTC = 'XEMBTC' 
-price_bids_b_g_XEMBTC = float(0.0) 
-qty_bids_b_g_XEMBTC = float(0.0) 
-price_asks_b_g_XEMBTC = float(0.0) 
-qty_asks_b_g_XEMBTC = float(0.0) 
-
-stepSize_XEMBTC = 1.00000000 
-
-def on_message_XEMUSDT(ws, message): 
-	data = json.loads(message) 
-
-	if data['stream'] == streamxemusdt :
-		symbol_a_l_XEMUSDT = data['data']['s'] 
-		price_bids_a_l_XEMUSDT = data['data']['b'] 
-		qty_bids_a_l_XEMUSDT = data['data']['B'] 
-		price_asks_a_l_XEMUSDT = data['data']['a'] 
-		qty_asks_a_l_XEMUSDT = data['data']['A'] 
-
-		global symbol_a_g_XEMUSDT 
-		global price_bids_a_g_XEMUSDT 
-		global qty_bids_a_g_XEMUSDT 
-		global price_asks_a_g_XEMUSDT 
-		global qty_asks_a_g_XEMUSDT 
-
-		symbol_a_g_XEMUSDT = symbol_a_l_XEMUSDT 
-		price_bids_a_g_XEMUSDT = price_bids_a_l_XEMUSDT 
-		qty_bids_a_g_XEMUSDT = qty_bids_a_l_XEMUSDT 
-		price_asks_a_g_XEMUSDT = price_asks_a_l_XEMUSDT 
-		qty_asks_a_g_XEMUSDT = qty_asks_a_l_XEMUSDT 
-
-	if data['stream'] == streamxembtc :
-		data = json.loads(message) 
-
-		symbol_b_l_XEMBTC = data['data']['s'] 
-		price_bids_b_l_XEMBTC = data['data']['b'] 
-		qty_bids_b_l_XEMBTC = data['data']['B']
-		price_asks_b_l_XEMBTC = data['data']['a'] 
-		qty_asks_b_l_XEMBTC = data['data']['A'] 
-
-		global symbol_b_g_XEMBTC 
-		global price_bids_b_g_XEMBTC 
-		global qty_bids_b_g_XEMBTC 
-		global price_asks_b_g_XEMBTC 
-		global qty_asks_b_g_XEMBTC 
-
-		symbol_b_g_XEMBTC = symbol_b_l_XEMBTC 
-		price_bids_b_g_XEMBTC = price_bids_b_l_XEMBTC 
-		qty_bids_b_g_XEMBTC = qty_bids_b_l_XEMBTC 
-		price_asks_b_g_XEMBTC = price_asks_b_l_XEMBTC 
-		qty_asks_b_g_XEMBTC = qty_asks_b_l_XEMBTC 
-
-
-def loop_XEMUSDT():
-	socket1 = f'wss://stream.binance.com:9443/stream?streams={streamxemusdt}/{streamxembtc}' 
-
-	ws = websocket.WebSocketApp(socket1, 
-	on_message=on_message_XEMUSDT 
-	) 
-
-	ws.run_forever() 
-
-Thread(target=loop_XEMUSDT).start()
-
-def loop_XEMUSDT_Trade(): 
-	while True: 
-		time.sleep(0.1)
-
-
-		if price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_XEMUSDT != 0.0 and qty_bids_a_g_XEMUSDT != 0.0 and price_asks_a_g_XEMUSDT != 0.0 and qty_asks_a_g_XEMUSDT != 0.0 and price_bids_b_g_XEMBTC != 0.0 and qty_bids_b_g_XEMBTC != 0.0 and price_asks_b_g_XEMBTC != 0.0 and qty_asks_b_g_XEMBTC != 0.0: 
-
-			praice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) 
-			praice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) 
-			praice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) 
-
-			praice_pair_b_raschet = float(praice_pair_c_raschet_size_up_round) / float(price_bids_b_g_XEMBTC) 
-			praice_pair_b_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet, stepSize_XEMBTC)) 
-			praice_pair_b_raschet_size_up_round = round(praice_pair_b_raschet_size_up, 14) 
-
-			price_pair_a_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet_size_up_round, stepSize_XEMUSDT)) 
-			price_pair_a_raschet = price_pair_a_raschet_size_up * float(price_asks_a_g_XEMUSDT) 
-			praice_pair_a_raschet_round = round(price_pair_a_raschet, 14) 
-	
-			price_a = round(price_pair_a_raschet_size_up, 14) 
-
-			price_b_round_size_down = float(f_minqty_size_down(price_a, stepSize_XEMBTC)) 
-			price_b = price_b_round_size_down * float(price_bids_b_g_XEMBTC) 
-			price_b_round = round(price_b, 14) 
-
-			price_c_round_size_down = float(f_minqty_size_down(price_b_round, stepSize_BTCUSDT)) 
-			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
-			price_c_round = round(price_c, 7) 
-
-			a = 0.225 / 100 
-			b = price_c_round * a 
-			itog_minus_proc = price_c_round - b 
-
-			pribil = itog_minus_proc - praice_pair_a_raschet_round 
-
-			time_test = datetime.datetime.now() 
-
-			if pribil > 0.0: 
-
-				print('1111') 
-				global all_pribil 
-				all_pribil = float(all_pribil) + float(pribil) 
-
-				print('############################################################################################################') 
-				print('Kupili:', symbol_a_g_XEMUSDT, 'V kolichestve:', price_a, 'Po cene:', price_asks_a_g_XEMUSDT, 'potratili:', praice_pair_a_raschet_round, time_test) 
-				print('Prodali:', symbol_b_g_XEMBTC, 'V kolichestve:', price_b_round, 'Po cene:', price_bids_b_g_XEMBTC) 
-				print('Prodali:', symbol_c_g_BTCUSDT, 'V kolichestve:', price_c_round_size_down, 'Po cene:', price_bids_c_g_BTCUSDT) 
-				print('Potratili:', praice_pair_a_raschet_round, 'Poluchili:', price_c_round, 'Minus Com = :', itog_minus_proc, 'Pribil:', pribil) 
-				print(all_pribil) 
-
-				time.sleep(1) 
-
-Thread(target=loop_XEMUSDT_Trade).start() 
 
 streamsklusdt = 'sklusdt@bookTicker'
 streamsklbtc  = 'sklbtc@bookTicker'
@@ -18607,7 +17327,7 @@ def loop_SKLUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -18735,7 +17455,7 @@ def loop_GRTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -18863,7 +17583,7 @@ def loop_JUVUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -18991,7 +17711,7 @@ def loop_PSGUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -19119,7 +17839,7 @@ def loop_1INCHUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -19247,7 +17967,7 @@ def loop_OGUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -19375,7 +18095,7 @@ def loop_ATMUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -19503,7 +18223,7 @@ def loop_ASRUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -19631,7 +18351,7 @@ def loop_CELOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -19759,7 +18479,7 @@ def loop_RIFUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -19783,134 +18503,6 @@ def loop_RIFUSDT_Trade():
 				time.sleep(1) 
 
 Thread(target=loop_RIFUSDT_Trade).start() 
-
-streambtcstusdt = 'btcstusdt@bookTicker'
-streambtcstbtc  = 'btcstbtc@bookTicker'
-
-symbol_a_g_BTCSTUSDT = 'BTCSTUSDT' 
-price_bids_a_g_BTCSTUSDT = float(0.0) 
-qty_bids_a_g_BTCSTUSDT = float(0.0) 
-price_asks_a_g_BTCSTUSDT = float(0.0) 
-qty_asks_a_g_BTCSTUSDT = float(0.0) 
-
-stepSize_BTCSTUSDT = 0.01000000 
-
-symbol_b_g_BTCSTBTC = 'BTCSTBTC' 
-price_bids_b_g_BTCSTBTC = float(0.0) 
-qty_bids_b_g_BTCSTBTC = float(0.0) 
-price_asks_b_g_BTCSTBTC = float(0.0) 
-qty_asks_b_g_BTCSTBTC = float(0.0) 
-
-stepSize_BTCSTBTC = 0.01000000 
-
-def on_message_BTCSTUSDT(ws, message): 
-	data = json.loads(message) 
-
-	if data['stream'] == streambtcstusdt :
-		symbol_a_l_BTCSTUSDT = data['data']['s'] 
-		price_bids_a_l_BTCSTUSDT = data['data']['b'] 
-		qty_bids_a_l_BTCSTUSDT = data['data']['B'] 
-		price_asks_a_l_BTCSTUSDT = data['data']['a'] 
-		qty_asks_a_l_BTCSTUSDT = data['data']['A'] 
-
-		global symbol_a_g_BTCSTUSDT 
-		global price_bids_a_g_BTCSTUSDT 
-		global qty_bids_a_g_BTCSTUSDT 
-		global price_asks_a_g_BTCSTUSDT 
-		global qty_asks_a_g_BTCSTUSDT 
-
-		symbol_a_g_BTCSTUSDT = symbol_a_l_BTCSTUSDT 
-		price_bids_a_g_BTCSTUSDT = price_bids_a_l_BTCSTUSDT 
-		qty_bids_a_g_BTCSTUSDT = qty_bids_a_l_BTCSTUSDT 
-		price_asks_a_g_BTCSTUSDT = price_asks_a_l_BTCSTUSDT 
-		qty_asks_a_g_BTCSTUSDT = qty_asks_a_l_BTCSTUSDT 
-
-	if data['stream'] == streambtcstbtc :
-		data = json.loads(message) 
-
-		symbol_b_l_BTCSTBTC = data['data']['s'] 
-		price_bids_b_l_BTCSTBTC = data['data']['b'] 
-		qty_bids_b_l_BTCSTBTC = data['data']['B']
-		price_asks_b_l_BTCSTBTC = data['data']['a'] 
-		qty_asks_b_l_BTCSTBTC = data['data']['A'] 
-
-		global symbol_b_g_BTCSTBTC 
-		global price_bids_b_g_BTCSTBTC 
-		global qty_bids_b_g_BTCSTBTC 
-		global price_asks_b_g_BTCSTBTC 
-		global qty_asks_b_g_BTCSTBTC 
-
-		symbol_b_g_BTCSTBTC = symbol_b_l_BTCSTBTC 
-		price_bids_b_g_BTCSTBTC = price_bids_b_l_BTCSTBTC 
-		qty_bids_b_g_BTCSTBTC = qty_bids_b_l_BTCSTBTC 
-		price_asks_b_g_BTCSTBTC = price_asks_b_l_BTCSTBTC 
-		qty_asks_b_g_BTCSTBTC = qty_asks_b_l_BTCSTBTC 
-
-
-def loop_BTCSTUSDT():
-	socket1 = f'wss://stream.binance.com:9443/stream?streams={streambtcstusdt}/{streambtcstbtc}' 
-
-	ws = websocket.WebSocketApp(socket1, 
-	on_message=on_message_BTCSTUSDT 
-	) 
-
-	ws.run_forever() 
-
-Thread(target=loop_BTCSTUSDT).start()
-
-def loop_BTCSTUSDT_Trade(): 
-	while True: 
-		time.sleep(0.1)
-
-
-		if price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_BTCSTUSDT != 0.0 and qty_bids_a_g_BTCSTUSDT != 0.0 and price_asks_a_g_BTCSTUSDT != 0.0 and qty_asks_a_g_BTCSTUSDT != 0.0 and price_bids_b_g_BTCSTBTC != 0.0 and qty_bids_b_g_BTCSTBTC != 0.0 and price_asks_b_g_BTCSTBTC != 0.0 and qty_asks_b_g_BTCSTBTC != 0.0: 
-
-			praice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) 
-			praice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) 
-			praice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) 
-
-			praice_pair_b_raschet = float(praice_pair_c_raschet_size_up_round) / float(price_bids_b_g_BTCSTBTC) 
-			praice_pair_b_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet, stepSize_BTCSTBTC)) 
-			praice_pair_b_raschet_size_up_round = round(praice_pair_b_raschet_size_up, 14) 
-
-			price_pair_a_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet_size_up_round, stepSize_BTCSTUSDT)) 
-			price_pair_a_raschet = price_pair_a_raschet_size_up * float(price_asks_a_g_BTCSTUSDT) 
-			praice_pair_a_raschet_round = round(price_pair_a_raschet, 14) 
-	
-			price_a = round(price_pair_a_raschet_size_up, 14) 
-
-			price_b_round_size_down = float(f_minqty_size_down(price_a, stepSize_BTCSTBTC)) 
-			price_b = price_b_round_size_down * float(price_bids_b_g_BTCSTBTC) 
-			price_b_round = round(price_b, 14) 
-
-			price_c_round_size_down = float(f_minqty_size_down(price_b_round, stepSize_BTCUSDT)) 
-			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
-			price_c_round = round(price_c, 7) 
-
-			a = 0.225 / 100 
-			b = price_c_round * a 
-			itog_minus_proc = price_c_round - b 
-
-			pribil = itog_minus_proc - praice_pair_a_raschet_round 
-
-			time_test = datetime.datetime.now() 
-
-			if pribil > 0.0: 
-
-				print('1111') 
-				global all_pribil 
-				all_pribil = float(all_pribil) + float(pribil) 
-
-				print('############################################################################################################') 
-				print('Kupili:', symbol_a_g_BTCSTUSDT, 'V kolichestve:', price_a, 'Po cene:', price_asks_a_g_BTCSTUSDT, 'potratili:', praice_pair_a_raschet_round, time_test) 
-				print('Prodali:', symbol_b_g_BTCSTBTC, 'V kolichestve:', price_b_round, 'Po cene:', price_bids_b_g_BTCSTBTC) 
-				print('Prodali:', symbol_c_g_BTCUSDT, 'V kolichestve:', price_c_round_size_down, 'Po cene:', price_bids_c_g_BTCUSDT) 
-				print('Potratili:', praice_pair_a_raschet_round, 'Poluchili:', price_c_round, 'Minus Com = :', itog_minus_proc, 'Pribil:', pribil) 
-				print(all_pribil) 
-
-				time.sleep(1) 
-
-Thread(target=loop_BTCSTUSDT_Trade).start() 
 
 streamtruusdt = 'truusdt@bookTicker'
 streamtrubtc  = 'trubtc@bookTicker'
@@ -20015,7 +18607,7 @@ def loop_TRUUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -20143,7 +18735,7 @@ def loop_TWTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -20271,7 +18863,7 @@ def loop_FIROUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -20399,7 +18991,7 @@ def loop_LITUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -20527,7 +19119,7 @@ def loop_SFPUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -20655,7 +19247,7 @@ def loop_DODOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -20783,7 +19375,7 @@ def loop_CAKEUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -20911,7 +19503,7 @@ def loop_ACMUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -21039,7 +19631,7 @@ def loop_BADGERUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -21167,7 +19759,7 @@ def loop_FISUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -21295,7 +19887,7 @@ def loop_OMUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -21423,7 +20015,7 @@ def loop_PONDUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -21551,7 +20143,7 @@ def loop_DEGOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -21679,7 +20271,7 @@ def loop_ALICEUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -21807,7 +20399,7 @@ def loop_LINAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -21935,7 +20527,7 @@ def loop_PERPUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -22063,7 +20655,7 @@ def loop_SUPERUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -22191,7 +20783,7 @@ def loop_CFXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -22319,7 +20911,7 @@ def loop_AUTOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -22447,7 +21039,7 @@ def loop_TKOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -22575,7 +21167,7 @@ def loop_TLMUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -22703,7 +21295,7 @@ def loop_MIRUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -22831,7 +21423,7 @@ def loop_BARUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -22959,7 +21551,7 @@ def loop_FORTHUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -23087,7 +21679,7 @@ def loop_BAKEUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -23215,7 +21807,7 @@ def loop_ICPUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -23343,7 +21935,7 @@ def loop_ARUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -23471,7 +22063,7 @@ def loop_POLSUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -23599,7 +22191,7 @@ def loop_MDXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -23727,7 +22319,7 @@ def loop_LPTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -23855,7 +22447,7 @@ def loop_ATAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -23983,7 +22575,7 @@ def loop_GTCUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -24111,7 +22703,7 @@ def loop_TORNUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -24239,7 +22831,7 @@ def loop_KLAYUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -24367,7 +22959,7 @@ def loop_PHAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -24495,7 +23087,7 @@ def loop_BONDUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -24623,7 +23215,7 @@ def loop_MLNUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -24751,7 +23343,7 @@ def loop_C98USDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -24879,7 +23471,7 @@ def loop_CLVUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -25007,7 +23599,7 @@ def loop_QNTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -25135,7 +23727,7 @@ def loop_FLOWUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -25263,7 +23855,7 @@ def loop_TVKUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -25391,7 +23983,7 @@ def loop_MINAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -25519,7 +24111,7 @@ def loop_FARMUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -25647,7 +24239,7 @@ def loop_ALPACAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -25775,7 +24367,7 @@ def loop_QUICKUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -25903,7 +24495,7 @@ def loop_MBOXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -26031,7 +24623,7 @@ def loop_FORUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -26159,7 +24751,7 @@ def loop_REQUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -26287,7 +24879,7 @@ def loop_WAXPUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -26415,7 +25007,7 @@ def loop_ELFUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -26543,7 +25135,7 @@ def loop_DYDXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -26671,7 +25263,7 @@ def loop_IDEXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -26695,6 +25287,134 @@ def loop_IDEXUSDT_Trade():
 				time.sleep(1) 
 
 Thread(target=loop_IDEXUSDT_Trade).start() 
+
+streamvidtusdt = 'vidtusdt@bookTicker'
+streamvidtbtc  = 'vidtbtc@bookTicker'
+
+symbol_a_g_VIDTUSDT = 'VIDTUSDT' 
+price_bids_a_g_VIDTUSDT = float(0.0) 
+qty_bids_a_g_VIDTUSDT = float(0.0) 
+price_asks_a_g_VIDTUSDT = float(0.0) 
+qty_asks_a_g_VIDTUSDT = float(0.0) 
+
+stepSize_VIDTUSDT = 1.00000000 
+
+symbol_b_g_VIDTBTC = 'VIDTBTC' 
+price_bids_b_g_VIDTBTC = float(0.0) 
+qty_bids_b_g_VIDTBTC = float(0.0) 
+price_asks_b_g_VIDTBTC = float(0.0) 
+qty_asks_b_g_VIDTBTC = float(0.0) 
+
+stepSize_VIDTBTC = 1.00000000 
+
+def on_message_VIDTUSDT(ws, message): 
+	data = json.loads(message) 
+
+	if data['stream'] == streamvidtusdt :
+		symbol_a_l_VIDTUSDT = data['data']['s'] 
+		price_bids_a_l_VIDTUSDT = data['data']['b'] 
+		qty_bids_a_l_VIDTUSDT = data['data']['B'] 
+		price_asks_a_l_VIDTUSDT = data['data']['a'] 
+		qty_asks_a_l_VIDTUSDT = data['data']['A'] 
+
+		global symbol_a_g_VIDTUSDT 
+		global price_bids_a_g_VIDTUSDT 
+		global qty_bids_a_g_VIDTUSDT 
+		global price_asks_a_g_VIDTUSDT 
+		global qty_asks_a_g_VIDTUSDT 
+
+		symbol_a_g_VIDTUSDT = symbol_a_l_VIDTUSDT 
+		price_bids_a_g_VIDTUSDT = price_bids_a_l_VIDTUSDT 
+		qty_bids_a_g_VIDTUSDT = qty_bids_a_l_VIDTUSDT 
+		price_asks_a_g_VIDTUSDT = price_asks_a_l_VIDTUSDT 
+		qty_asks_a_g_VIDTUSDT = qty_asks_a_l_VIDTUSDT 
+
+	if data['stream'] == streamvidtbtc :
+		data = json.loads(message) 
+
+		symbol_b_l_VIDTBTC = data['data']['s'] 
+		price_bids_b_l_VIDTBTC = data['data']['b'] 
+		qty_bids_b_l_VIDTBTC = data['data']['B']
+		price_asks_b_l_VIDTBTC = data['data']['a'] 
+		qty_asks_b_l_VIDTBTC = data['data']['A'] 
+
+		global symbol_b_g_VIDTBTC 
+		global price_bids_b_g_VIDTBTC 
+		global qty_bids_b_g_VIDTBTC 
+		global price_asks_b_g_VIDTBTC 
+		global qty_asks_b_g_VIDTBTC 
+
+		symbol_b_g_VIDTBTC = symbol_b_l_VIDTBTC 
+		price_bids_b_g_VIDTBTC = price_bids_b_l_VIDTBTC 
+		qty_bids_b_g_VIDTBTC = qty_bids_b_l_VIDTBTC 
+		price_asks_b_g_VIDTBTC = price_asks_b_l_VIDTBTC 
+		qty_asks_b_g_VIDTBTC = qty_asks_b_l_VIDTBTC 
+
+
+def loop_VIDTUSDT():
+	socket1 = f'wss://stream.binance.com:9443/stream?streams={streamvidtusdt}/{streamvidtbtc}' 
+
+	ws = websocket.WebSocketApp(socket1, 
+	on_message=on_message_VIDTUSDT 
+	) 
+
+	ws.run_forever() 
+
+Thread(target=loop_VIDTUSDT).start()
+
+def loop_VIDTUSDT_Trade(): 
+	while True: 
+		time.sleep(0.1)
+
+
+		if price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_VIDTUSDT != 0.0 and qty_bids_a_g_VIDTUSDT != 0.0 and price_asks_a_g_VIDTUSDT != 0.0 and qty_asks_a_g_VIDTUSDT != 0.0 and price_bids_b_g_VIDTBTC != 0.0 and qty_bids_b_g_VIDTBTC != 0.0 and price_asks_b_g_VIDTBTC != 0.0 and qty_asks_b_g_VIDTBTC != 0.0: 
+
+			praice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) 
+			praice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) 
+			praice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) 
+
+			praice_pair_b_raschet = float(praice_pair_c_raschet_size_up_round) / float(price_bids_b_g_VIDTBTC) 
+			praice_pair_b_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet, stepSize_VIDTBTC)) 
+			praice_pair_b_raschet_size_up_round = round(praice_pair_b_raschet_size_up, 14) 
+
+			price_pair_a_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet_size_up_round, stepSize_VIDTUSDT)) 
+			price_pair_a_raschet = price_pair_a_raschet_size_up * float(price_asks_a_g_VIDTUSDT) 
+			praice_pair_a_raschet_round = round(price_pair_a_raschet, 14) 
+	
+			price_a = round(price_pair_a_raschet_size_up, 14) 
+
+			price_b_round_size_down = float(f_minqty_size_down(price_a, stepSize_VIDTBTC)) 
+			price_b = price_b_round_size_down * float(price_bids_b_g_VIDTBTC) 
+			price_b_round = round(price_b, 14) 
+
+			price_c_round_size_down = float(f_minqty_size_down(price_b_round, stepSize_BTCUSDT)) 
+			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
+			price_c_round = round(price_c, 7) 
+
+			a = 0.15 / 100 
+			b = price_c_round * a 
+			itog_minus_proc = price_c_round - b 
+
+			pribil = itog_minus_proc - praice_pair_a_raschet_round 
+
+			time_test = datetime.datetime.now() 
+
+			if pribil > 0.0: 
+
+				print('1111') 
+				global all_pribil 
+				all_pribil = float(all_pribil) + float(pribil) 
+
+				print('############################################################################################################') 
+				print('Kupili:', symbol_a_g_VIDTUSDT, 'V kolichestve:', price_a, 'Po cene:', price_asks_a_g_VIDTUSDT, 'potratili:', praice_pair_a_raschet_round, time_test) 
+				print('Prodali:', symbol_b_g_VIDTBTC, 'V kolichestve:', price_b_round, 'Po cene:', price_bids_b_g_VIDTBTC) 
+				print('Prodali:', symbol_c_g_BTCUSDT, 'V kolichestve:', price_c_round_size_down, 'Po cene:', price_bids_c_g_BTCUSDT) 
+				print('Potratili:', praice_pair_a_raschet_round, 'Poluchili:', price_c_round, 'Minus Com = :', itog_minus_proc, 'Pribil:', pribil) 
+				print(all_pribil) 
+
+				time.sleep(1) 
+
+Thread(target=loop_VIDTUSDT_Trade).start() 
 
 streamgalausdt = 'galausdt@bookTicker'
 streamgalabtc  = 'galabtc@bookTicker'
@@ -26799,7 +25519,7 @@ def loop_GALAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -26927,7 +25647,7 @@ def loop_ILVUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -27055,7 +25775,7 @@ def loop_YGGUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -27183,7 +25903,7 @@ def loop_SYSUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -27311,7 +26031,7 @@ def loop_FIDAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -27439,7 +26159,7 @@ def loop_FRONTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -27567,7 +26287,7 @@ def loop_AGLDUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -27695,7 +26415,7 @@ def loop_RADUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -27823,7 +26543,7 @@ def loop_BETAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -27951,7 +26671,7 @@ def loop_RAREUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -28079,7 +26799,7 @@ def loop_LAZIOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -28207,7 +26927,7 @@ def loop_CHESSUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -28335,7 +27055,7 @@ def loop_ADXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -28463,7 +27183,7 @@ def loop_AUCTIONUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -28591,7 +27311,7 @@ def loop_DARUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -28719,7 +27439,7 @@ def loop_BNXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -28847,7 +27567,7 @@ def loop_MOVRUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -28975,7 +27695,7 @@ def loop_CITYUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -29103,7 +27823,7 @@ def loop_ENSUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -29231,7 +27951,7 @@ def loop_QIUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -29359,7 +28079,7 @@ def loop_PORTOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -29487,7 +28207,7 @@ def loop_POWRUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -29511,134 +28231,6 @@ def loop_POWRUSDT_Trade():
 				time.sleep(1) 
 
 Thread(target=loop_POWRUSDT_Trade).start() 
-
-streamvgxusdt = 'vgxusdt@bookTicker'
-streamvgxbtc  = 'vgxbtc@bookTicker'
-
-symbol_a_g_VGXUSDT = 'VGXUSDT' 
-price_bids_a_g_VGXUSDT = float(0.0) 
-qty_bids_a_g_VGXUSDT = float(0.0) 
-price_asks_a_g_VGXUSDT = float(0.0) 
-qty_asks_a_g_VGXUSDT = float(0.0) 
-
-stepSize_VGXUSDT = 0.10000000 
-
-symbol_b_g_VGXBTC = 'VGXBTC' 
-price_bids_b_g_VGXBTC = float(0.0) 
-qty_bids_b_g_VGXBTC = float(0.0) 
-price_asks_b_g_VGXBTC = float(0.0) 
-qty_asks_b_g_VGXBTC = float(0.0) 
-
-stepSize_VGXBTC = 0.10000000 
-
-def on_message_VGXUSDT(ws, message): 
-	data = json.loads(message) 
-
-	if data['stream'] == streamvgxusdt :
-		symbol_a_l_VGXUSDT = data['data']['s'] 
-		price_bids_a_l_VGXUSDT = data['data']['b'] 
-		qty_bids_a_l_VGXUSDT = data['data']['B'] 
-		price_asks_a_l_VGXUSDT = data['data']['a'] 
-		qty_asks_a_l_VGXUSDT = data['data']['A'] 
-
-		global symbol_a_g_VGXUSDT 
-		global price_bids_a_g_VGXUSDT 
-		global qty_bids_a_g_VGXUSDT 
-		global price_asks_a_g_VGXUSDT 
-		global qty_asks_a_g_VGXUSDT 
-
-		symbol_a_g_VGXUSDT = symbol_a_l_VGXUSDT 
-		price_bids_a_g_VGXUSDT = price_bids_a_l_VGXUSDT 
-		qty_bids_a_g_VGXUSDT = qty_bids_a_l_VGXUSDT 
-		price_asks_a_g_VGXUSDT = price_asks_a_l_VGXUSDT 
-		qty_asks_a_g_VGXUSDT = qty_asks_a_l_VGXUSDT 
-
-	if data['stream'] == streamvgxbtc :
-		data = json.loads(message) 
-
-		symbol_b_l_VGXBTC = data['data']['s'] 
-		price_bids_b_l_VGXBTC = data['data']['b'] 
-		qty_bids_b_l_VGXBTC = data['data']['B']
-		price_asks_b_l_VGXBTC = data['data']['a'] 
-		qty_asks_b_l_VGXBTC = data['data']['A'] 
-
-		global symbol_b_g_VGXBTC 
-		global price_bids_b_g_VGXBTC 
-		global qty_bids_b_g_VGXBTC 
-		global price_asks_b_g_VGXBTC 
-		global qty_asks_b_g_VGXBTC 
-
-		symbol_b_g_VGXBTC = symbol_b_l_VGXBTC 
-		price_bids_b_g_VGXBTC = price_bids_b_l_VGXBTC 
-		qty_bids_b_g_VGXBTC = qty_bids_b_l_VGXBTC 
-		price_asks_b_g_VGXBTC = price_asks_b_l_VGXBTC 
-		qty_asks_b_g_VGXBTC = qty_asks_b_l_VGXBTC 
-
-
-def loop_VGXUSDT():
-	socket1 = f'wss://stream.binance.com:9443/stream?streams={streamvgxusdt}/{streamvgxbtc}' 
-
-	ws = websocket.WebSocketApp(socket1, 
-	on_message=on_message_VGXUSDT 
-	) 
-
-	ws.run_forever() 
-
-Thread(target=loop_VGXUSDT).start()
-
-def loop_VGXUSDT_Trade(): 
-	while True: 
-		time.sleep(0.1)
-
-
-		if price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_VGXUSDT != 0.0 and qty_bids_a_g_VGXUSDT != 0.0 and price_asks_a_g_VGXUSDT != 0.0 and qty_asks_a_g_VGXUSDT != 0.0 and price_bids_b_g_VGXBTC != 0.0 and qty_bids_b_g_VGXBTC != 0.0 and price_asks_b_g_VGXBTC != 0.0 and qty_asks_b_g_VGXBTC != 0.0: 
-
-			praice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) 
-			praice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) 
-			praice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) 
-
-			praice_pair_b_raschet = float(praice_pair_c_raschet_size_up_round) / float(price_bids_b_g_VGXBTC) 
-			praice_pair_b_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet, stepSize_VGXBTC)) 
-			praice_pair_b_raschet_size_up_round = round(praice_pair_b_raschet_size_up, 14) 
-
-			price_pair_a_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet_size_up_round, stepSize_VGXUSDT)) 
-			price_pair_a_raschet = price_pair_a_raschet_size_up * float(price_asks_a_g_VGXUSDT) 
-			praice_pair_a_raschet_round = round(price_pair_a_raschet, 14) 
-	
-			price_a = round(price_pair_a_raschet_size_up, 14) 
-
-			price_b_round_size_down = float(f_minqty_size_down(price_a, stepSize_VGXBTC)) 
-			price_b = price_b_round_size_down * float(price_bids_b_g_VGXBTC) 
-			price_b_round = round(price_b, 14) 
-
-			price_c_round_size_down = float(f_minqty_size_down(price_b_round, stepSize_BTCUSDT)) 
-			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
-			price_c_round = round(price_c, 7) 
-
-			a = 0.225 / 100 
-			b = price_c_round * a 
-			itog_minus_proc = price_c_round - b 
-
-			pribil = itog_minus_proc - praice_pair_a_raschet_round 
-
-			time_test = datetime.datetime.now() 
-
-			if pribil > 0.0: 
-
-				print('1111') 
-				global all_pribil 
-				all_pribil = float(all_pribil) + float(pribil) 
-
-				print('############################################################################################################') 
-				print('Kupili:', symbol_a_g_VGXUSDT, 'V kolichestve:', price_a, 'Po cene:', price_asks_a_g_VGXUSDT, 'potratili:', praice_pair_a_raschet_round, time_test) 
-				print('Prodali:', symbol_b_g_VGXBTC, 'V kolichestve:', price_b_round, 'Po cene:', price_bids_b_g_VGXBTC) 
-				print('Prodali:', symbol_c_g_BTCUSDT, 'V kolichestve:', price_c_round_size_down, 'Po cene:', price_bids_c_g_BTCUSDT) 
-				print('Potratili:', praice_pair_a_raschet_round, 'Poluchili:', price_c_round, 'Minus Com = :', itog_minus_proc, 'Pribil:', pribil) 
-				print(all_pribil) 
-
-				time.sleep(1) 
-
-Thread(target=loop_VGXUSDT_Trade).start() 
 
 streamjasmyusdt = 'jasmyusdt@bookTicker'
 streamjasmybtc  = 'jasmybtc@bookTicker'
@@ -29743,7 +28335,7 @@ def loop_JASMYUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -29871,7 +28463,7 @@ def loop_AMPUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -29999,7 +28591,7 @@ def loop_PLAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -30127,7 +28719,7 @@ def loop_PYRUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -30255,7 +28847,7 @@ def loop_RNDRUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -30383,7 +28975,7 @@ def loop_ALCXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -30511,7 +29103,7 @@ def loop_SANTOSUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -30639,7 +29231,7 @@ def loop_MCUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -30767,7 +29359,7 @@ def loop_BICOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -30895,7 +29487,7 @@ def loop_FLUXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -31023,7 +29615,7 @@ def loop_FXSUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -31151,7 +29743,7 @@ def loop_VOXELUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -31279,7 +29871,7 @@ def loop_HIGHUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -31407,7 +29999,7 @@ def loop_CVXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -31535,7 +30127,7 @@ def loop_PEOPLEUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -31663,7 +30255,7 @@ def loop_JOEUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -31791,7 +30383,7 @@ def loop_ACHUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -31919,7 +30511,7 @@ def loop_IMXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -32047,7 +30639,7 @@ def loop_GLMRUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -32175,7 +30767,7 @@ def loop_LOKAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -32303,7 +30895,7 @@ def loop_SCRTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -32431,7 +31023,7 @@ def loop_API3USDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -32559,7 +31151,7 @@ def loop_ACAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -32687,7 +31279,7 @@ def loop_ANCUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -32815,7 +31407,7 @@ def loop_XNOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -32943,7 +31535,7 @@ def loop_WOOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -33071,7 +31663,7 @@ def loop_ALPINEUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -33199,7 +31791,7 @@ def loop_ASTRUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -33327,7 +31919,7 @@ def loop_GMTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -33455,7 +32047,7 @@ def loop_KDAUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -33583,7 +32175,7 @@ def loop_APEUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -33711,7 +32303,7 @@ def loop_MULTIUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -33839,7 +32431,7 @@ def loop_STEEMUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -33967,7 +32559,7 @@ def loop_MOBUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -34095,7 +32687,7 @@ def loop_NEXOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -34223,7 +32815,7 @@ def loop_GALUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -34351,7 +32943,7 @@ def loop_LDOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -34479,7 +33071,7 @@ def loop_OPUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -34607,7 +33199,7 @@ def loop_STGUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -34735,7 +33327,7 @@ def loop_GMXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -34863,7 +33455,7 @@ def loop_NEBLUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -34991,7 +33583,7 @@ def loop_POLYXUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -35119,7 +33711,7 @@ def loop_APTUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -35247,7 +33839,7 @@ def loop_OSMOUSDT_Trade():
 			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
 			price_c_round = round(price_c, 7) 
 
-			a = 0.225 / 100 
+			a = 0.15 / 100 
 			b = price_c_round * a 
 			itog_minus_proc = price_c_round - b 
 
@@ -35271,4 +33863,388 @@ def loop_OSMOUSDT_Trade():
 				time.sleep(1) 
 
 Thread(target=loop_OSMOUSDT_Trade).start() 
+
+streamhftusdt = 'hftusdt@bookTicker'
+streamhftbtc  = 'hftbtc@bookTicker'
+
+symbol_a_g_HFTUSDT = 'HFTUSDT' 
+price_bids_a_g_HFTUSDT = float(0.0) 
+qty_bids_a_g_HFTUSDT = float(0.0) 
+price_asks_a_g_HFTUSDT = float(0.0) 
+qty_asks_a_g_HFTUSDT = float(0.0) 
+
+stepSize_HFTUSDT = 0.10000000 
+
+symbol_b_g_HFTBTC = 'HFTBTC' 
+price_bids_b_g_HFTBTC = float(0.0) 
+qty_bids_b_g_HFTBTC = float(0.0) 
+price_asks_b_g_HFTBTC = float(0.0) 
+qty_asks_b_g_HFTBTC = float(0.0) 
+
+stepSize_HFTBTC = 0.10000000 
+
+def on_message_HFTUSDT(ws, message): 
+	data = json.loads(message) 
+
+	if data['stream'] == streamhftusdt :
+		symbol_a_l_HFTUSDT = data['data']['s'] 
+		price_bids_a_l_HFTUSDT = data['data']['b'] 
+		qty_bids_a_l_HFTUSDT = data['data']['B'] 
+		price_asks_a_l_HFTUSDT = data['data']['a'] 
+		qty_asks_a_l_HFTUSDT = data['data']['A'] 
+
+		global symbol_a_g_HFTUSDT 
+		global price_bids_a_g_HFTUSDT 
+		global qty_bids_a_g_HFTUSDT 
+		global price_asks_a_g_HFTUSDT 
+		global qty_asks_a_g_HFTUSDT 
+
+		symbol_a_g_HFTUSDT = symbol_a_l_HFTUSDT 
+		price_bids_a_g_HFTUSDT = price_bids_a_l_HFTUSDT 
+		qty_bids_a_g_HFTUSDT = qty_bids_a_l_HFTUSDT 
+		price_asks_a_g_HFTUSDT = price_asks_a_l_HFTUSDT 
+		qty_asks_a_g_HFTUSDT = qty_asks_a_l_HFTUSDT 
+
+	if data['stream'] == streamhftbtc :
+		data = json.loads(message) 
+
+		symbol_b_l_HFTBTC = data['data']['s'] 
+		price_bids_b_l_HFTBTC = data['data']['b'] 
+		qty_bids_b_l_HFTBTC = data['data']['B']
+		price_asks_b_l_HFTBTC = data['data']['a'] 
+		qty_asks_b_l_HFTBTC = data['data']['A'] 
+
+		global symbol_b_g_HFTBTC 
+		global price_bids_b_g_HFTBTC 
+		global qty_bids_b_g_HFTBTC 
+		global price_asks_b_g_HFTBTC 
+		global qty_asks_b_g_HFTBTC 
+
+		symbol_b_g_HFTBTC = symbol_b_l_HFTBTC 
+		price_bids_b_g_HFTBTC = price_bids_b_l_HFTBTC 
+		qty_bids_b_g_HFTBTC = qty_bids_b_l_HFTBTC 
+		price_asks_b_g_HFTBTC = price_asks_b_l_HFTBTC 
+		qty_asks_b_g_HFTBTC = qty_asks_b_l_HFTBTC 
+
+
+def loop_HFTUSDT():
+	socket1 = f'wss://stream.binance.com:9443/stream?streams={streamhftusdt}/{streamhftbtc}' 
+
+	ws = websocket.WebSocketApp(socket1, 
+	on_message=on_message_HFTUSDT 
+	) 
+
+	ws.run_forever() 
+
+Thread(target=loop_HFTUSDT).start()
+
+def loop_HFTUSDT_Trade(): 
+	while True: 
+		time.sleep(0.1)
+
+
+		if price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_HFTUSDT != 0.0 and qty_bids_a_g_HFTUSDT != 0.0 and price_asks_a_g_HFTUSDT != 0.0 and qty_asks_a_g_HFTUSDT != 0.0 and price_bids_b_g_HFTBTC != 0.0 and qty_bids_b_g_HFTBTC != 0.0 and price_asks_b_g_HFTBTC != 0.0 and qty_asks_b_g_HFTBTC != 0.0: 
+
+			praice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) 
+			praice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) 
+			praice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) 
+
+			praice_pair_b_raschet = float(praice_pair_c_raschet_size_up_round) / float(price_bids_b_g_HFTBTC) 
+			praice_pair_b_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet, stepSize_HFTBTC)) 
+			praice_pair_b_raschet_size_up_round = round(praice_pair_b_raschet_size_up, 14) 
+
+			price_pair_a_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet_size_up_round, stepSize_HFTUSDT)) 
+			price_pair_a_raschet = price_pair_a_raschet_size_up * float(price_asks_a_g_HFTUSDT) 
+			praice_pair_a_raschet_round = round(price_pair_a_raschet, 14) 
+	
+			price_a = round(price_pair_a_raschet_size_up, 14) 
+
+			price_b_round_size_down = float(f_minqty_size_down(price_a, stepSize_HFTBTC)) 
+			price_b = price_b_round_size_down * float(price_bids_b_g_HFTBTC) 
+			price_b_round = round(price_b, 14) 
+
+			price_c_round_size_down = float(f_minqty_size_down(price_b_round, stepSize_BTCUSDT)) 
+			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
+			price_c_round = round(price_c, 7) 
+
+			a = 0.15 / 100 
+			b = price_c_round * a 
+			itog_minus_proc = price_c_round - b 
+
+			pribil = itog_minus_proc - praice_pair_a_raschet_round 
+
+			time_test = datetime.datetime.now() 
+
+			if pribil > 0.0: 
+
+				print('1111') 
+				global all_pribil 
+				all_pribil = float(all_pribil) + float(pribil) 
+
+				print('############################################################################################################') 
+				print('Kupili:', symbol_a_g_HFTUSDT, 'V kolichestve:', price_a, 'Po cene:', price_asks_a_g_HFTUSDT, 'potratili:', praice_pair_a_raschet_round, time_test) 
+				print('Prodali:', symbol_b_g_HFTBTC, 'V kolichestve:', price_b_round, 'Po cene:', price_bids_b_g_HFTBTC) 
+				print('Prodali:', symbol_c_g_BTCUSDT, 'V kolichestve:', price_c_round_size_down, 'Po cene:', price_bids_c_g_BTCUSDT) 
+				print('Potratili:', praice_pair_a_raschet_round, 'Poluchili:', price_c_round, 'Minus Com = :', itog_minus_proc, 'Pribil:', pribil) 
+				print(all_pribil) 
+
+				time.sleep(1) 
+
+Thread(target=loop_HFTUSDT_Trade).start() 
+
+streamphbusdt = 'phbusdt@bookTicker'
+streamphbbtc  = 'phbbtc@bookTicker'
+
+symbol_a_g_PHBUSDT = 'PHBUSDT' 
+price_bids_a_g_PHBUSDT = float(0.0) 
+qty_bids_a_g_PHBUSDT = float(0.0) 
+price_asks_a_g_PHBUSDT = float(0.0) 
+qty_asks_a_g_PHBUSDT = float(0.0) 
+
+stepSize_PHBUSDT = 1.00000000 
+
+symbol_b_g_PHBBTC = 'PHBBTC' 
+price_bids_b_g_PHBBTC = float(0.0) 
+qty_bids_b_g_PHBBTC = float(0.0) 
+price_asks_b_g_PHBBTC = float(0.0) 
+qty_asks_b_g_PHBBTC = float(0.0) 
+
+stepSize_PHBBTC = 0.10000000 
+
+def on_message_PHBUSDT(ws, message): 
+	data = json.loads(message) 
+
+	if data['stream'] == streamphbusdt :
+		symbol_a_l_PHBUSDT = data['data']['s'] 
+		price_bids_a_l_PHBUSDT = data['data']['b'] 
+		qty_bids_a_l_PHBUSDT = data['data']['B'] 
+		price_asks_a_l_PHBUSDT = data['data']['a'] 
+		qty_asks_a_l_PHBUSDT = data['data']['A'] 
+
+		global symbol_a_g_PHBUSDT 
+		global price_bids_a_g_PHBUSDT 
+		global qty_bids_a_g_PHBUSDT 
+		global price_asks_a_g_PHBUSDT 
+		global qty_asks_a_g_PHBUSDT 
+
+		symbol_a_g_PHBUSDT = symbol_a_l_PHBUSDT 
+		price_bids_a_g_PHBUSDT = price_bids_a_l_PHBUSDT 
+		qty_bids_a_g_PHBUSDT = qty_bids_a_l_PHBUSDT 
+		price_asks_a_g_PHBUSDT = price_asks_a_l_PHBUSDT 
+		qty_asks_a_g_PHBUSDT = qty_asks_a_l_PHBUSDT 
+
+	if data['stream'] == streamphbbtc :
+		data = json.loads(message) 
+
+		symbol_b_l_PHBBTC = data['data']['s'] 
+		price_bids_b_l_PHBBTC = data['data']['b'] 
+		qty_bids_b_l_PHBBTC = data['data']['B']
+		price_asks_b_l_PHBBTC = data['data']['a'] 
+		qty_asks_b_l_PHBBTC = data['data']['A'] 
+
+		global symbol_b_g_PHBBTC 
+		global price_bids_b_g_PHBBTC 
+		global qty_bids_b_g_PHBBTC 
+		global price_asks_b_g_PHBBTC 
+		global qty_asks_b_g_PHBBTC 
+
+		symbol_b_g_PHBBTC = symbol_b_l_PHBBTC 
+		price_bids_b_g_PHBBTC = price_bids_b_l_PHBBTC 
+		qty_bids_b_g_PHBBTC = qty_bids_b_l_PHBBTC 
+		price_asks_b_g_PHBBTC = price_asks_b_l_PHBBTC 
+		qty_asks_b_g_PHBBTC = qty_asks_b_l_PHBBTC 
+
+
+def loop_PHBUSDT():
+	socket1 = f'wss://stream.binance.com:9443/stream?streams={streamphbusdt}/{streamphbbtc}' 
+
+	ws = websocket.WebSocketApp(socket1, 
+	on_message=on_message_PHBUSDT 
+	) 
+
+	ws.run_forever() 
+
+Thread(target=loop_PHBUSDT).start()
+
+def loop_PHBUSDT_Trade(): 
+	while True: 
+		time.sleep(0.1)
+
+
+		if price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_PHBUSDT != 0.0 and qty_bids_a_g_PHBUSDT != 0.0 and price_asks_a_g_PHBUSDT != 0.0 and qty_asks_a_g_PHBUSDT != 0.0 and price_bids_b_g_PHBBTC != 0.0 and qty_bids_b_g_PHBBTC != 0.0 and price_asks_b_g_PHBBTC != 0.0 and qty_asks_b_g_PHBBTC != 0.0: 
+
+			praice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) 
+			praice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) 
+			praice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) 
+
+			praice_pair_b_raschet = float(praice_pair_c_raschet_size_up_round) / float(price_bids_b_g_PHBBTC) 
+			praice_pair_b_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet, stepSize_PHBBTC)) 
+			praice_pair_b_raschet_size_up_round = round(praice_pair_b_raschet_size_up, 14) 
+
+			price_pair_a_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet_size_up_round, stepSize_PHBUSDT)) 
+			price_pair_a_raschet = price_pair_a_raschet_size_up * float(price_asks_a_g_PHBUSDT) 
+			praice_pair_a_raschet_round = round(price_pair_a_raschet, 14) 
+	
+			price_a = round(price_pair_a_raschet_size_up, 14) 
+
+			price_b_round_size_down = float(f_minqty_size_down(price_a, stepSize_PHBBTC)) 
+			price_b = price_b_round_size_down * float(price_bids_b_g_PHBBTC) 
+			price_b_round = round(price_b, 14) 
+
+			price_c_round_size_down = float(f_minqty_size_down(price_b_round, stepSize_BTCUSDT)) 
+			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
+			price_c_round = round(price_c, 7) 
+
+			a = 0.15 / 100 
+			b = price_c_round * a 
+			itog_minus_proc = price_c_round - b 
+
+			pribil = itog_minus_proc - praice_pair_a_raschet_round 
+
+			time_test = datetime.datetime.now() 
+
+			if pribil > 0.0: 
+
+				print('1111') 
+				global all_pribil 
+				all_pribil = float(all_pribil) + float(pribil) 
+
+				print('############################################################################################################') 
+				print('Kupili:', symbol_a_g_PHBUSDT, 'V kolichestve:', price_a, 'Po cene:', price_asks_a_g_PHBUSDT, 'potratili:', praice_pair_a_raschet_round, time_test) 
+				print('Prodali:', symbol_b_g_PHBBTC, 'V kolichestve:', price_b_round, 'Po cene:', price_bids_b_g_PHBBTC) 
+				print('Prodali:', symbol_c_g_BTCUSDT, 'V kolichestve:', price_c_round_size_down, 'Po cene:', price_bids_c_g_BTCUSDT) 
+				print('Potratili:', praice_pair_a_raschet_round, 'Poluchili:', price_c_round, 'Minus Com = :', itog_minus_proc, 'Pribil:', pribil) 
+				print(all_pribil) 
+
+				time.sleep(1) 
+
+Thread(target=loop_PHBUSDT_Trade).start() 
+
+streamhookusdt = 'hookusdt@bookTicker'
+streamhookbtc  = 'hookbtc@bookTicker'
+
+symbol_a_g_HOOKUSDT = 'HOOKUSDT' 
+price_bids_a_g_HOOKUSDT = float(0.0) 
+qty_bids_a_g_HOOKUSDT = float(0.0) 
+price_asks_a_g_HOOKUSDT = float(0.0) 
+qty_asks_a_g_HOOKUSDT = float(0.0) 
+
+stepSize_HOOKUSDT = 0.10000000 
+
+symbol_b_g_HOOKBTC = 'HOOKBTC' 
+price_bids_b_g_HOOKBTC = float(0.0) 
+qty_bids_b_g_HOOKBTC = float(0.0) 
+price_asks_b_g_HOOKBTC = float(0.0) 
+qty_asks_b_g_HOOKBTC = float(0.0) 
+
+stepSize_HOOKBTC = 0.10000000 
+
+def on_message_HOOKUSDT(ws, message): 
+	data = json.loads(message) 
+
+	if data['stream'] == streamhookusdt :
+		symbol_a_l_HOOKUSDT = data['data']['s'] 
+		price_bids_a_l_HOOKUSDT = data['data']['b'] 
+		qty_bids_a_l_HOOKUSDT = data['data']['B'] 
+		price_asks_a_l_HOOKUSDT = data['data']['a'] 
+		qty_asks_a_l_HOOKUSDT = data['data']['A'] 
+
+		global symbol_a_g_HOOKUSDT 
+		global price_bids_a_g_HOOKUSDT 
+		global qty_bids_a_g_HOOKUSDT 
+		global price_asks_a_g_HOOKUSDT 
+		global qty_asks_a_g_HOOKUSDT 
+
+		symbol_a_g_HOOKUSDT = symbol_a_l_HOOKUSDT 
+		price_bids_a_g_HOOKUSDT = price_bids_a_l_HOOKUSDT 
+		qty_bids_a_g_HOOKUSDT = qty_bids_a_l_HOOKUSDT 
+		price_asks_a_g_HOOKUSDT = price_asks_a_l_HOOKUSDT 
+		qty_asks_a_g_HOOKUSDT = qty_asks_a_l_HOOKUSDT 
+
+	if data['stream'] == streamhookbtc :
+		data = json.loads(message) 
+
+		symbol_b_l_HOOKBTC = data['data']['s'] 
+		price_bids_b_l_HOOKBTC = data['data']['b'] 
+		qty_bids_b_l_HOOKBTC = data['data']['B']
+		price_asks_b_l_HOOKBTC = data['data']['a'] 
+		qty_asks_b_l_HOOKBTC = data['data']['A'] 
+
+		global symbol_b_g_HOOKBTC 
+		global price_bids_b_g_HOOKBTC 
+		global qty_bids_b_g_HOOKBTC 
+		global price_asks_b_g_HOOKBTC 
+		global qty_asks_b_g_HOOKBTC 
+
+		symbol_b_g_HOOKBTC = symbol_b_l_HOOKBTC 
+		price_bids_b_g_HOOKBTC = price_bids_b_l_HOOKBTC 
+		qty_bids_b_g_HOOKBTC = qty_bids_b_l_HOOKBTC 
+		price_asks_b_g_HOOKBTC = price_asks_b_l_HOOKBTC 
+		qty_asks_b_g_HOOKBTC = qty_asks_b_l_HOOKBTC 
+
+
+def loop_HOOKUSDT():
+	socket1 = f'wss://stream.binance.com:9443/stream?streams={streamhookusdt}/{streamhookbtc}' 
+
+	ws = websocket.WebSocketApp(socket1, 
+	on_message=on_message_HOOKUSDT 
+	) 
+
+	ws.run_forever() 
+
+Thread(target=loop_HOOKUSDT).start()
+
+def loop_HOOKUSDT_Trade(): 
+	while True: 
+		time.sleep(0.1)
+
+
+		if price_bids_c_g_BTCUSDT != 0.0 and qty_bids_c_g_BTCUSDT != 0.0 and price_asks_c_g_BTCUSDT != 0.0 and qty_asks_c_g_BTCUSDT != 0.0 and price_bids_a_g_HOOKUSDT != 0.0 and qty_bids_a_g_HOOKUSDT != 0.0 and price_asks_a_g_HOOKUSDT != 0.0 and qty_asks_a_g_HOOKUSDT != 0.0 and price_bids_b_g_HOOKBTC != 0.0 and qty_bids_b_g_HOOKBTC != 0.0 and price_asks_b_g_HOOKBTC != 0.0 and qty_asks_b_g_HOOKBTC != 0.0: 
+
+			praice_pair_c_raschet = usdt_count / float(price_bids_c_g_BTCUSDT) 
+			praice_pair_c_raschet_size_up = float(f_minqty_size_up(praice_pair_c_raschet, stepSize_BTCUSDT)) 
+			praice_pair_c_raschet_size_up_round = round(praice_pair_c_raschet_size_up, 14) 
+
+			praice_pair_b_raschet = float(praice_pair_c_raschet_size_up_round) / float(price_bids_b_g_HOOKBTC) 
+			praice_pair_b_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet, stepSize_HOOKBTC)) 
+			praice_pair_b_raschet_size_up_round = round(praice_pair_b_raschet_size_up, 14) 
+
+			price_pair_a_raschet_size_up = float(f_minqty_size_up(praice_pair_b_raschet_size_up_round, stepSize_HOOKUSDT)) 
+			price_pair_a_raschet = price_pair_a_raschet_size_up * float(price_asks_a_g_HOOKUSDT) 
+			praice_pair_a_raschet_round = round(price_pair_a_raschet, 14) 
+	
+			price_a = round(price_pair_a_raschet_size_up, 14) 
+
+			price_b_round_size_down = float(f_minqty_size_down(price_a, stepSize_HOOKBTC)) 
+			price_b = price_b_round_size_down * float(price_bids_b_g_HOOKBTC) 
+			price_b_round = round(price_b, 14) 
+
+			price_c_round_size_down = float(f_minqty_size_down(price_b_round, stepSize_BTCUSDT)) 
+			price_c = price_c_round_size_down * float(price_bids_c_g_BTCUSDT) 
+			price_c_round = round(price_c, 7) 
+
+			a = 0.15 / 100 
+			b = price_c_round * a 
+			itog_minus_proc = price_c_round - b 
+
+			pribil = itog_minus_proc - praice_pair_a_raschet_round 
+
+			time_test = datetime.datetime.now() 
+
+			if pribil > 0.0: 
+
+				print('1111') 
+				global all_pribil 
+				all_pribil = float(all_pribil) + float(pribil) 
+
+				print('############################################################################################################') 
+				print('Kupili:', symbol_a_g_HOOKUSDT, 'V kolichestve:', price_a, 'Po cene:', price_asks_a_g_HOOKUSDT, 'potratili:', praice_pair_a_raschet_round, time_test) 
+				print('Prodali:', symbol_b_g_HOOKBTC, 'V kolichestve:', price_b_round, 'Po cene:', price_bids_b_g_HOOKBTC) 
+				print('Prodali:', symbol_c_g_BTCUSDT, 'V kolichestve:', price_c_round_size_down, 'Po cene:', price_bids_c_g_BTCUSDT) 
+				print('Potratili:', praice_pair_a_raschet_round, 'Poluchili:', price_c_round, 'Minus Com = :', itog_minus_proc, 'Pribil:', pribil) 
+				print(all_pribil) 
+
+				time.sleep(1) 
+
+Thread(target=loop_HOOKUSDT_Trade).start() 
 

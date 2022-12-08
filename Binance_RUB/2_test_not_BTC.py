@@ -13,7 +13,7 @@ main_currency = 'USDT'
 
 tickers = client.get_all_tickers()
 
-file_step_1_pairs_trade = '1_25_step_1_pairs_trade.json'
+file_step_1_pairs_trade = '../Binance_RUB/1_25_step_1_pairs_trade.json'
 
 
 def f_file_step_1_pairs_trade():
@@ -47,7 +47,16 @@ for i in f_file_step_1_pairs_trade():
             {'symbol_a': symbol_a, 'baseAsset_a': baseAsset_a, 'quoteAsset_a': quoteAsset_a, 'stepSize_a': stepSize_a})
 
 for ii in f_file_step_1_pairs_trade():
-    if (ii['quoteAsset']) == "BTC":
+    if ii['quoteAsset'] != "BTC" and ii['quoteAsset'] != "USDT" :
+        symbol_b = (ii['symbol'])
+        baseAsset_b = (ii['baseAsset'])
+        quoteAsset_b = (ii['quoteAsset'])
+        stepSize_b = (ii['filters'][2]['stepSize'])
+        all_pairs_btc.append(
+            {'symbol_b': symbol_b, 'baseAsset_b': baseAsset_b, 'quoteAsset_b': quoteAsset_b, 'stepSize_b': stepSize_b})
+
+for iii in f_file_step_1_pairs_trade():
+    if iii['quoteAsset'] != "BTC" and ii['quoteAsset'] != "USDT" :
         symbol_b = (ii['symbol'])
         baseAsset_b = (ii['baseAsset'])
         quoteAsset_b = (ii['quoteAsset'])
@@ -65,5 +74,5 @@ for t in all_pairs_usdt:
 
             break
 
-with open('1_pairs_buy_para_b_test.json', 'w') as file3:
+with open('../Binance_RUB/1_pairs_buy_para_b_test_2.json', 'w') as file3:
     json.dump(pairs_buy_para_b, file3, indent=2)
