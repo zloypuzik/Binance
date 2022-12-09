@@ -4,17 +4,21 @@ import json
 
 file_step_1_pairs_trade = '../Binance_ETH/1_25_step_1_pairs_trade.json'
 
+
 def f_file_step_1_pairs_trade():
     with open(file_step_1_pairs_trade) as file_data:
         data_a = json.load(file_data)
 
     return data_a
 
+
 ########################################################################################################
 
-main_currency = 'ETH'
+main_currency = 'USDT'
 
-all_pairs_c = ['BUSD', 'USDT', 'BNB', 'BTC', 'ETH', 'XRP', 'TRX', 'DOGE', 'DOT', 'AUD', 'BIDR', 'BRL', 'EUR', 'GBR', 'RUB', 'TRY', 'DAI', 'UAH', 'ZAR', 'VAI', 'IDRT', 'NGN', 'PLN']  # Валюта, за которую можно купить или продать другую валюту.
+all_pairs_c = ['BUSD', 'USDT', 'BNB', 'BTC', 'ETH', 'XRP', 'TRX', 'DOGE', 'DOT', 'AUD', 'BIDR', 'BRL', 'EUR', 'GBR',
+               'RUB', 'TRY', 'DAI', 'UAH', 'ZAR', 'VAI', 'IDRT', 'NGN',
+               'PLN']  # Валюта, за которую можно купить или продать другую валюту.
 
 ########################################################################################################
 # Проверяем кем является 'main_currency' относительно других основных монет
@@ -39,7 +43,7 @@ for test2 in f_file_step_1_pairs_trade():
 # Пример: BNB/ETH
 
 ########################################################################################################
-# Если в общем словаре "file_step_1_pairs_trade" вторая валюта это 'main_currency', то добавляем пару в список 'all_pairs_a'
+# Если в общем словаре "file_step_1_pairs_trade" вторая валюта это 'main_currency', то добавляем пару 'A' в список 'all_pairs_a'
 ########################################################################################################
 
 count_pairs_a = 0
@@ -57,14 +61,12 @@ for i in f_file_step_1_pairs_trade():
 
 print('Найдено:', count_pairs_a, 'валют,', 'торгуемые с', main_currency)
 
-
 ########################################################################################################
-# Ищем все пары которые торгуются с 'main_currency' (из первого круга) и добавляем пару в список 'all_pairs_b'
+# Ищем все пары которые торгуются с 'main_currency' (из первого круга) и добавляем пару 'B' в список 'all_pairs_b'
 ########################################################################################################
 
 count_pairs_b = 0
 all_pairs_b = []
-
 
 for ii in f_file_step_1_pairs_trade():
     for iii in all_pairs_a:
@@ -74,14 +76,13 @@ for ii in f_file_step_1_pairs_trade():
             quoteAsset_b = (ii['quoteAsset'])
             stepSize_b = (ii['filters'][1]['stepSize'])
             all_pairs_b.append(
-                {'symbol_b': symbol_b, 'baseAsset_b': baseAsset_b, 'quoteAsset_b': quoteAsset_b, 'stepSize_b': stepSize_b})
+                {'symbol_b': symbol_b, 'baseAsset_b': baseAsset_b, 'quoteAsset_b': quoteAsset_b,
+                 'stepSize_b': stepSize_b})
             count_pairs_b += 1
 
 print('Найдено:', count_pairs_b, 'возможных пар, для торговли второго круга')
 
 ########################################################################################################
-
-
 
 count_pairs_c = 0
 pairs_buy_para_b = []
@@ -89,35 +90,49 @@ pairs_buy_para_b = []
 for t in all_pairs_a:
     for tt in all_pairs_b:
         if t['baseAsset_a'] == tt['baseAsset_b']:
-
-
-
             pairs_buy_para_b.append(
                 {'symbol_a': t['symbol_a'], 'baseAsset_a': t['baseAsset_a'], 'quoteAsset_a': t['quoteAsset_a'],
                  'stepSize_a': t['stepSize_a'], 'symbol_b': tt['symbol_b'], 'baseAsset_b': tt['baseAsset_b'],
                  'quoteAsset_b': tt['quoteAsset_b'], 'stepSize_b': tt['stepSize_b']})
             count_pairs_c += 1
 
-# for t in all_pairs_a:
-#     for tt in all_pairs_b:
-#         if t['baseAsset_a'] == tt['baseAsset_b']:
-#             pairs_buy_para_b.append(
-#                 {'symbol_a': t['symbol_a'], 'baseAsset_a': t['baseAsset_a'], 'quoteAsset_a': t['quoteAsset_a'],
-#                  'stepSize_a': t['stepSize_a'], 'symbol_b': tt['symbol_b'], 'baseAsset_b': tt['baseAsset_b'],
-#                  'quoteAsset_b': tt['quoteAsset_b'], 'stepSize_b': tt['stepSize_b']})
-#             count_pairs_c += 1
+########################################################################################################
 
-print(count_pairs_c)
-#print(pairs_buy_para_b)
-# for test in pairs_buy_para_b:
-#     print(test)
+count_pairs_cc = 0
+pairs_buy_para_c = []
 
-# for test2 in f_file_step_1_pairs_trade():
-#     for test22 in pairs_buy_para_b:
-#         if test2['baseAsset'] == test22['quoteAsset_b']:
-#             print(test2['symbol'])
-#         else:
-#             print('###############', test2['symbol'])
+for y in pairs_buy_para_b:
+    for yy in main_currency_quoteAsset_b:
+        if y['quoteAsset_b'] == yy:
+            symbol_c = main_currency + y['quoteAsset_b']
+            for u in f_file_step_1_pairs_trade():
+                if u['symbol'] == symbol_c:
+                    stepSize_c = u['filters'][1]['stepSize']
+
+                    pairs_buy_para_c.append(
+                        {'symbol_a': y['symbol_a'], 'baseAsset_a': y['baseAsset_a'], 'quoteAsset_a': y['quoteAsset_a'],
+                         'stepSize_a': y['stepSize_a'], 'symbol_b': y['symbol_b'], 'baseAsset_b': y['baseAsset_b'],
+                         'quoteAsset_b': y['quoteAsset_b'], 'stepSize_b': y['stepSize_b'], 'symbol_c': symbol_c,
+                         'baseAsset_c': main_currency, 'quoteAsset_c': y['quoteAsset_b'], 'stepSize_c': stepSize_c})
+
+            count_pairs_cc += 1
+
+    for yyy in quoteAsset_b_main_currency:
+        if y['quoteAsset_b'] == yyy:
+            symbol_c = y['quoteAsset_b'] + main_currency
+            for u in f_file_step_1_pairs_trade():
+                if u['symbol'] == symbol_c:
+                    stepSize_c = u['filters'][1]['stepSize']
+
+                    pairs_buy_para_c.append(
+                        {'symbol_a': y['symbol_a'], 'baseAsset_a': y['baseAsset_a'], 'quoteAsset_a': y['quoteAsset_a'],
+                         'stepSize_a': y['stepSize_a'], 'symbol_b': y['symbol_b'], 'baseAsset_b': y['baseAsset_b'],
+                         'quoteAsset_b': y['quoteAsset_b'], 'stepSize_b': y['stepSize_b'], 'symbol_c': symbol_c,
+                         'baseAsset_c': y['quoteAsset_b'], 'quoteAsset_c': main_currency, 'stepSize_c': stepSize_c})
+
+            count_pairs_cc += 1
+
+print('Найдено:', count_pairs_cc, 'пар для торговли')
 
 with open('1_pairs_buy_para_b_test.json', 'w') as file3:
-    json.dump(pairs_buy_para_b, file3, indent=2)
+    json.dump(pairs_buy_para_c, file3, indent=2)
