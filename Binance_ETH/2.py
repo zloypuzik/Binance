@@ -14,7 +14,7 @@ def f_file_step_1_pairs_trade():
 
 ########################################################################################################
 
-main_currency = 'USDT'
+main_currency = 'ETH'
 
 all_pairs_c = ['BUSD', 'USDT', 'BNB', 'BTC', 'ETH', 'XRP', 'TRX', 'DOGE', 'DOT', 'AUD', 'BIDR', 'BRL', 'EUR', 'GBR',
                'RUB', 'TRY', 'DAI', 'UAH', 'ZAR', 'VAI', 'IDRT', 'NGN',

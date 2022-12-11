@@ -1,0 +1,16 @@
+[
+  {
+    "symbol_a": "QTUMETH",
+    "baseAsset_a": "QTUM",
+    "quoteAsset_a": "ETH",
+    "stepSize_a": "0.10000000",
+    "symbol_b": "QTUMBTC",
+    "baseAsset_b": "QTUM",
+    "quoteAsset_b": "BTC",
+    "stepSize_b": "0.10000000",
+    "symbol_c": "ETHBTC",
+    "baseAsset_c": "ETH",
+    "quoteAsset_c": "BTC",
+    "stepSize_c": "0.00010000"
+  }
+]

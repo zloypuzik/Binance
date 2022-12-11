@@ -42,10 +42,12 @@ price_asks_c_g_BTCUSDT = float(0.0)
 qty_asks_c_g_BTCUSDT = float(0.0)
 stepSize_BTCUSDT = '0.00001000'
 
+# if __name__ == '__main__':
+
 def on_message_BTCUSDT(ws, message):
 	#locker.acquire()
 	data = json.loads(message)
-
+	#print(data)
 	symbol_c_l_BTCUSDT = 'BTCUSDT'
 	price_bids_c_l_BTCUSDT = data['bids'][0][0]
 	qty_bids_c_l_BTCUSDT = data['bids'][0][1]
@@ -64,6 +66,7 @@ def on_message_BTCUSDT(ws, message):
 	price_asks_c_g_BTCUSDT = price_asks_c_l_BTCUSDT
 	qty_asks_c_g_BTCUSDT= qty_asks_c_l_BTCUSDT
 	#locker.release()
+	return data
 
 def loop_BTCUSDT():
 	socket1 = f'wss://stream.binance.com:9443/ws/btcusdt@depth5@100ms'

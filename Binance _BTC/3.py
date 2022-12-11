@@ -94,6 +94,7 @@ with open(all_pairs_btc, 'a') as file3:
         "\n"
         f"Thread(target=loop_BTCUSDT).start() \n"
         "\n"
+        "#####################################################################"
     )
 
 for i in f_file_pairs_buy_para_b_test():
