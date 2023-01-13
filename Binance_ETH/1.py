@@ -20,7 +20,8 @@ for i in tickers:
     if get_all_info_symbol is not None:
         time.sleep(0.2)
         status = get_all_info_symbol['status']
-        if status == 'TRADING':
+        spot_trading = get_all_info_symbol['isSpotTradingAllowed']
+        if status == 'TRADING' and spot_trading == True:
             aa.append(get_all_info_symbol)
     else:
         print("Нет пары:", get_symbol)

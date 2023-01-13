@@ -35,9 +35,56 @@
 
 #(a / b - 1) * 100
 
-a = float(0.01)
-b = float(0.00999648)
+# a = float(0.01)
+# b = float(0.00999648)
+#
+# c = (a / b - 1) * 100
+#
+# print(c,'%')
 
-c = (a / b - 1) * 100
+import json
 
-print(c,'%')
+########################################################################################################
+
+file_step_1_pairs_trade = '../Binance_ETH/1_25_step_1_pairs_trade.json'
+
+
+def f_file_step_1_pairs_trade():
+    with open(file_step_1_pairs_trade) as file_data:
+        data_a = json.load(file_data)
+
+    return data_a
+
+for i in f_file_step_1_pairs_trade():
+    symbol_a = (i['symbol'])
+    baseAsset_a = (i['baseAsset'])
+    for ch_stepsize in i['filters']:
+        if ch_stepsize['filterType'] == 'LOT_SIZE':
+            a = ch_stepsize['stepSize']
+            print(a)
+            break
+    #print(i['filters'])
+    # for ii in i['filters'][8]:
+    #     if 'stepSize':
+    #         print(i['filters'][1])
+    #print(type(i['filters'][1]))
+
+    # if i['filters'][1]['stepSize']:
+    #     print('sd')
+    # else:
+    #     print('asd')
+    #print(i['filters'][1]['stepSize'])
+    #for ii in i['filters'][1]:
+        #a = ii['stepSize']
+        #if ii['stepSize'] == '1.00000000':
+
+        #print(ii)
+    # else:
+    #     print('asd')
+    # else:
+    #     print('asd')
+    # elif i['filters'][2]['stepSize'] == True:
+    #     print("asda", i)
+    #stepSize_a = (i['filters'][1]['stepSize'])
+    #print(i['filters'][1])
+    # print(i['filters'][2]['stepSize'])

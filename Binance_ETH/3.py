@@ -15,9 +15,11 @@ def f_file_step_1_pairs_trade():
 # Определяем главную валюту
 ########################################################################################################
 
-for main_currency in f_file_step_1_pairs_trade():
-    if main_currency['quoteAsset_a'] != '':
-        main_currency = main_currency['quoteAsset_a']
+main_currency = []
+
+for check_main_currency in f_file_step_1_pairs_trade():
+    if check_main_currency['quoteAsset_a'] != '':
+        main_currency = check_main_currency['quoteAsset_a']
         break
 
 ########################################################################################################
@@ -64,9 +66,7 @@ with open(all_pairs_btc, 'a') as file3:
         "\tdef adjust_to_step(value, step, increase=False): \n"
         "\t\treturn ((int(value * 100000000) - int(value * 100000000) % int( \n"
         "\t\t\tfloat(step) * 100000000)) / 100000000) + (float(step) if increase else 0) \n"
-        "\n"
         "\tsell_amount_a = adjust_to_step(kolichestvo, stepSize) \n"
-        "\n"
         "\treturn sell_amount_a \n"
         "\n"
         "\n"
@@ -84,6 +84,8 @@ with open(all_pairs_btc, 'a') as file3:
 ########################################################################################################
 # Вычесляем 'stepSize' для пары 'c'
 ########################################################################################################
+
+stepSize_c = []
 
 for i in all_symbols_c:
     symbol_c = i
@@ -166,19 +168,22 @@ def f_test():
 
 ########################################################################################################
 
+
 for i in f_test():
     symbol_a = i['symbol_a']
     symbol_aa = symbol_a.lower()
     stepSize_a = i['stepSize_a']
+    commission_a = i['commission_a']
 
     symbol_b = i['symbol_b']
     symbol_bb = symbol_b.lower()
     stepSize_b = i['stepSize_b']
+    commission_b = i['commission_b']
 
     symbol_c = i['symbol_c']
     symbol_cc = symbol_c.lower()
     stepSize_c = i['stepSize_c']
-
+    commission_c = i['commission_c']
 
     with open(all_pairs_btc, 'a') as file3:
         file3.write(
@@ -281,8 +286,8 @@ for i in f_test():
                 f"\t\t\t# Покупаем {i['baseAsset_c']} продаем {i['quoteAsset_c']} \n"
                 f"\t\t\tquantity_pair_c_raschet = usdt_count * float(price_asks_c_g_{symbol_c})  # Определяем, сколько нужно валюты 'c', для торговли в паре 'b' \n"
                 f"\t\t\tquantity_pair_c_raschet = round(quantity_pair_c_raschet, 14)  # Округляем (обрезаем кучу 0, если таковые есть) \n"
-                #f"\t\t\tquantity_pair_c_raschet = float(f_minqty_size_up(quantity_pair_c_raschet, stepSize_{symbol_c}))  # Округляем согласно шагу Binance 'stepSize' \n"
-                #f"\t\t\tquantity_pair_c_raschet = round(quantity_pair_c_raschet, 14)  # Округляем (обрезаем кучу 0, если таковые есть) \n"
+                #  f"\t\t\tquantity_pair_c_raschet = float(f_minqty_size_up(quantity_pair_c_raschet, stepSize_{symbol_c}))  # Округляем согласно шагу Binance 'stepSize' \n"
+                #  f"\t\t\tquantity_pair_c_raschet = round(quantity_pair_c_raschet, 14)  # Округляем (обрезаем кучу 0, если таковые есть) \n"
                 f"\t\t\t# quantity_pair_c_raschet = количество '{i['quoteAsset_c']}' \n"
                 f"\t\t\ttrade_pair_c = 'buy' \n"
                 "\n"
@@ -296,7 +301,7 @@ for i in f_test():
                 f"\t\t\ttrade_pair_b = 'sell' \n"
                 "\n"
                 f"\t\t\tquantity_pair_a_raschet = float(f_minqty_size_down(quantity_pair_b_raschet, stepSize_{symbol_a}_{symbol_b})) \n"
-			    f"\t\t\tquantity_pair_a_raschet = round(quantity_pair_a_raschet, 14) \n"
+                f"\t\t\tquantity_pair_a_raschet = round(quantity_pair_a_raschet, 14) \n"
                 "\n"
                 f"\t\t\tprice_a = float(quantity_pair_a_raschet) * float(price_asks_a_g_{symbol_a}_{symbol_b}) \n"
                 f"\t\t\tprice_a = round(price_a, 14) \n"
@@ -316,9 +321,14 @@ for i in f_test():
                 f"\t\t\ta = float(price_cc) \n"
                 f"\t\t\tb = float(price_a) \n"
                 f"\t\t\tc = (a / b - 1) * 100 \n"
-                f"\t\t\tif c > 0.225: \n"
+                f"\t\t\tcommission_a = {commission_a} \n"
+                f"\t\t\tcommission_b = {commission_b} \n"
+                f"\t\t\tcommission_c = {commission_c} \n"
+                f"\t\t\tcommission_all = commission_a + commission_b + commission_c \n"
+                f"\t\t\tif c > commission_all: \n"
                 "\n"
                 f"\t\t\t\tprint('################################################################################################################', time_test) \n"
+                f"\t\t\t\tprint('Общая коммисия:', commission_all) \n"
                 f"\t\t\t\tprint('Пара_А:', symbol_a_g_{symbol_a}_{symbol_b}) \n"
                 f"\t\t\t\tprint('Покупаем', quantity_pair_b_raschet, '{i['baseAsset_a']}', 'за', price_a, '{i['quoteAsset_a']}', 'по цене', price_asks_a_g_{symbol_a}_{symbol_b}) \n"
                 f"\t\t\t\tprint('Пара_B:', symbol_b_g_{symbol_b}_{symbol_a}) \n"
@@ -327,7 +337,7 @@ for i in f_test():
                 f"\t\t\t\tprint('Покупаем', price_c, '{i['baseAsset_c']}', 'за', price_b, '{i['quoteAsset_c']}', 'по цене', price_asks_c_g_{symbol_c}) \n"
                 f"\t\t\t\tprint(price_cc, c, '%') \n"
                 "\n"
-                f"\t\t\t\ttime.sleep(1) \n"
+                f"\t\t\t\ttime.sleep(1.0) \n"
                 f"Thread(target=loop_{symbol_a}_{symbol_b}_Trade).start() \n"
                 "\n"
             )
@@ -338,51 +348,52 @@ for i in f_test():
 
                 # Вычисляем сколько нужно продать в конце (пара С) BTC при депозите main_currency.
                 f"\t\t\t# Цепочка: {symbol_a} -> {symbol_b} -> {symbol_c} \n"
-                "\n"
-                f"\t\t\t# Продаем {i['baseAsset_c']} покупаем {i['quoteAsset_c']} \n"
-                f"\t\t\tquantity_pair_c_raschet = usdt_count / float(price_bids_c_g_{symbol_c})  # Определяем, сколько нужно валюты 'c', для торговли в паре 'b' \n"
-                f"\t\t\tquantity_pair_c_raschet = round(quantity_pair_c_raschet, 14)  # Округляем (обрезаем кучу 0, если таковые есть) \n"
-                f"\t\t\tquantity_pair_c_raschet = float(f_minqty_size_up(quantity_pair_c_raschet, stepSize_{symbol_c}))  # Округляем согласно шагу Binance 'stepSize' \n"
-                f"\t\t\tquantity_pair_c_raschet = round(quantity_pair_c_raschet, 14)  # Округляем (обрезаем кучу 0, если таковые есть) \n"
-                f"\t\t\t# quantity_pair_c_raschet = количество '{i['quoteAsset_c']}' \n"
-                f"\t\t\ttrade_pair_c = 'sell' \n"
-                "\n"
-                f"\t\t\t# Продаем {i['baseAsset_b']} покупаем {i['quoteAsset_b']} \n"
-
-                f"\t\t\tquantity_pair_b_raschet = float(quantity_pair_c_raschet) / float(price_bids_b_g_{symbol_b}_{symbol_a})  # Определяем, сколько нужно валюты 'b', для торговли в паре 'a' \n"
-                f"\t\t\tquantity_pair_b_raschet = round(quantity_pair_b_raschet, 14)  # Округляем (обрезаем кучу 0, если таковые есть) \n"
-                f"\t\t\tquantity_pair_b_raschet = float(f_minqty_size_up(quantity_pair_b_raschet, stepSize_{symbol_b}_{symbol_a}))  # Округляем согласно шагу Binance 'stepSize' \n"
-                f"\t\t\tquantity_pair_b_raschet = round(quantity_pair_b_raschet, 14)  # Округляем (обрезаем кучу 0, если таковые есть) \n"
-                f"\t\t\t# quantity_pair_c_raschet = количество '{i['baseAsset_b']}' \n"
-                f"\t\t\ttrade_pair_b = 'sell' \n"
-                "\n"
-                f"\t\t\tprice_a = float(quantity_pair_b_raschet) * float(price_asks_a_g_{symbol_a}_{symbol_b}) \n"
-                f"\t\t\tprice_a = round(price_a, 14) \n"
-                f"\t\t\t# price_a = сколько потребуется '{i['quoteAsset_a']}' \n"
-                "\n"
-                f"\t\t\tprice_b = float(price_bids_b_g_{symbol_b}_{symbol_a}) * float(quantity_pair_b_raschet) \n"
-                f"\t\t\tprice_b = round(price_b, 14) \n"
-                f"\t\t\t# price_b = сколько получим '{i['quoteAsset_b']}' \n"
-                "\n"
-                f"\t\t\tprice_c = float(price_b) * float(price_bids_c_g_{symbol_c}) \n"
-                f"\t\t\tprice_cc = float(f_minqty_size_down(price_c, stepSize_{symbol_c})) \n"
-                f"\t\t\t# price_c = сколько получим '{i['baseAsset_c']}' \n"
-                "\n"
-                f"\t\t\tpribil = float(price_cc) - float(price_a) \n"
-                "\n"
-                f"\t\t\tif pribil > 0: \n"
-                "\n"
-                f"\t\t\t\tprint('################################################################################################################') \n"
-                f"\t\t\t\tprint('Пара_А:', symbol_a_g_{symbol_a}_{symbol_b}) \n"
-                f"\t\t\t\tprint('Покупаем', quantity_pair_b_raschet, '{i['baseAsset_a']}', 'за', price_a, '{i['quoteAsset_a']}', 'по цене', price_asks_a_g_{symbol_a}_{symbol_b}) \n"
-                f"\t\t\t\tprint('Пара_B:', symbol_b_g_{symbol_b}_{symbol_a}) \n"
-                f"\t\t\t\tprint('Продаем', quantity_pair_b_raschet, '{i['baseAsset_b']}', 'за', price_b, '{i['quoteAsset_b']}', 'по цене', price_bids_b_g_{symbol_b}_{symbol_a}) \n"
-                f"\t\t\t\tprint('Пара_C:', symbol_c_g_{symbol_c}) \n"
-                f"\t\t\t\tprint('Продаем', price_b, '{i['baseAsset_c']}', 'за', price_c, '{i['quoteAsset_c']}', 'по цене', price_bids_c_g_{symbol_c}) \n"
-                f"\t\t\t\tprint('Потратили', price_a, 'получили', price_cc) \n"
-                f"\t\t\t\ttime.sleep(1) \n"
-                f"Thread(target=loop_{symbol_a}_{symbol_b}_Trade).start() \n"
-                "\n"
+                f"\t\t\tdsfsdf = 'dsf' \n"
+                # "\n"
+                # f"\t\t\t# Продаем {i['baseAsset_c']} покупаем {i['quoteAsset_c']} \n"
+                # f"\t\t\tquantity_pair_c_raschet = usdt_count / float(price_bids_c_g_{symbol_c})  # Определяем, сколько нужно валюты 'c', для торговли в паре 'b' \n"
+                # f"\t\t\tquantity_pair_c_raschet = round(quantity_pair_c_raschet, 14)  # Округляем (обрезаем кучу 0, если таковые есть) \n"
+                # f"\t\t\tquantity_pair_c_raschet = float(f_minqty_size_up(quantity_pair_c_raschet, stepSize_{symbol_c}))  # Округляем согласно шагу Binance 'stepSize' \n"
+                # f"\t\t\tquantity_pair_c_raschet = round(quantity_pair_c_raschet, 14)  # Округляем (обрезаем кучу 0, если таковые есть) \n"
+                # f"\t\t\t# quantity_pair_c_raschet = количество '{i['quoteAsset_c']}' \n"
+                # f"\t\t\ttrade_pair_c = 'sell' \n"
+                # "\n"
+                # f"\t\t\t# Продаем {i['baseAsset_b']} покупаем {i['quoteAsset_b']} \n"
+                #
+                # f"\t\t\tquantity_pair_b_raschet = float(quantity_pair_c_raschet) / float(price_bids_b_g_{symbol_b}_{symbol_a})  # Определяем, сколько нужно валюты 'b', для торговли в паре 'a' \n"
+                # f"\t\t\tquantity_pair_b_raschet = round(quantity_pair_b_raschet, 14)  # Округляем (обрезаем кучу 0, если таковые есть) \n"
+                # f"\t\t\tquantity_pair_b_raschet = float(f_minqty_size_up(quantity_pair_b_raschet, stepSize_{symbol_b}_{symbol_a}))  # Округляем согласно шагу Binance 'stepSize' \n"
+                # f"\t\t\tquantity_pair_b_raschet = round(quantity_pair_b_raschet, 14)  # Округляем (обрезаем кучу 0, если таковые есть) \n"
+                # f"\t\t\t# quantity_pair_c_raschet = количество '{i['baseAsset_b']}' \n"
+                # f"\t\t\ttrade_pair_b = 'sell' \n"
+                # "\n"
+                # f"\t\t\tprice_a = float(quantity_pair_b_raschet) * float(price_asks_a_g_{symbol_a}_{symbol_b}) \n"
+                # f"\t\t\tprice_a = round(price_a, 14) \n"
+                # f"\t\t\t# price_a = сколько потребуется '{i['quoteAsset_a']}' \n"
+                # "\n"
+                # f"\t\t\tprice_b = float(price_bids_b_g_{symbol_b}_{symbol_a}) * float(quantity_pair_b_raschet) \n"
+                # f"\t\t\tprice_b = round(price_b, 14) \n"
+                # f"\t\t\t# price_b = сколько получим '{i['quoteAsset_b']}' \n"
+                # "\n"
+                # f"\t\t\tprice_c = float(price_b) * float(price_bids_c_g_{symbol_c}) \n"
+                # f"\t\t\tprice_cc = float(f_minqty_size_down(price_c, stepSize_{symbol_c})) \n"
+                # f"\t\t\t# price_c = сколько получим '{i['baseAsset_c']}' \n"
+                # "\n"
+                # f"\t\t\tpribil = float(price_cc) - float(price_a) \n"
+                # "\n"
+                # f"\t\t\tif pribil > 0: \n"
+                # "\n"
+                # f"\t\t\t\tprint('################################################################################################################') \n"
+                # f"\t\t\t\tprint('Пара_А:', symbol_a_g_{symbol_a}_{symbol_b}) \n"
+                # f"\t\t\t\tprint('Покупаем', quantity_pair_b_raschet, '{i['baseAsset_a']}', 'за', price_a, '{i['quoteAsset_a']}', 'по цене', price_asks_a_g_{symbol_a}_{symbol_b}) \n"
+                # f"\t\t\t\tprint('Пара_B:', symbol_b_g_{symbol_b}_{symbol_a}) \n"
+                # f"\t\t\t\tprint('Продаем', quantity_pair_b_raschet, '{i['baseAsset_b']}', 'за', price_b, '{i['quoteAsset_b']}', 'по цене', price_bids_b_g_{symbol_b}_{symbol_a}) \n"
+                # f"\t\t\t\tprint('Пара_C:', symbol_c_g_{symbol_c}) \n"
+                # f"\t\t\t\tprint('Продаем', price_b, '{i['baseAsset_c']}', 'за', price_c, '{i['quoteAsset_c']}', 'по цене', price_bids_c_g_{symbol_c}) \n"
+                # f"\t\t\t\tprint('Потратили', price_a, 'получили', price_cc) \n"
+                # f"\t\t\t\ttime.sleep(1) \n"
+                # f"Thread(target=loop_{symbol_a}_{symbol_b}_Trade).start() \n"
+                # "\n"
 
             )
 
@@ -405,12 +416,12 @@ for i in f_test():
     #             f"\t\t\t# price_a = сколько потребуется '{i['quoteAsset_a']}' \n"
     #             "\n"
     #             f"\t\t\tprice_b = float(price_bids_b_g_{symbol_b}_{symbol_a}) * float(quantity_pair_b_raschet) \n"
-	# 		    f"\t\t\tprice_b = round(price_b, 14) \n"
-	# 		    f"\t\t\t# price_b = сколько получим '{i['quoteAsset_b']}' \n"
+    # 		      f"\t\t\tprice_b = round(price_b, 14) \n"
+    # 		      f"\t\t\t# price_b = сколько получим '{i['quoteAsset_b']}' \n"
     #             "\n"
     #             f"\t\t\tprice_c = float(price_b) / float(price_asks_c_g_{symbol_c}) \n"
     #             f"\t\t\tprice_cc = float(f_minqty_size_down(price_c, stepSize_{symbol_c})) \n"
-	# 		    f"\t\t\t# price_c = сколько получим '{i['baseAsset_c']}' \n"
+    # 		      f"\t\t\t# price_c = сколько получим '{i['baseAsset_c']}' \n"
     #             "\n"
     #             f"\t\t\tprint('################################################################################################################') \n"
     #             f"\t\t\tprint('Пара_А:', symbol_a_g_{symbol_a}_{symbol_b}) \n"
@@ -436,5 +447,3 @@ for i in f_test():
 
     if i['quoteAsset_a'] == main_currency and i['baseAsset_a'] == i['quoteAsset_b']:
         print("Есть проблема, проверить: if i['quoteAsset_a'] == main_currency and i['baseAsset_a'] == i['quoteAsset_b']:")
-
-

@@ -19,6 +19,7 @@ DOT
 #################################
 AUD
 BIDR
+BIDR
 BRL
 EUR
 GBR
