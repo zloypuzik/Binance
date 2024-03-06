@@ -1,0 +1,144 @@
+/* color: grey;                     - цвет */
+/* transform: scale(1.15);          - Размер увеличения в процентах ( 1.05 это 5 % ) */
+/* margin-right: 25px;              - Отступы между ссылками */
+/* text-decoration: none;           - Подчеркивать или нет текст */
+/* text-decoration-color: ref;      - Цвет подчеркивания */
+/* cursor: pointer;                 - Изменяет вид курсора при наведении */
+
+/* псевдоклассы (:)
+/* :hover                           - Применить стиль при наведении на объект */
+/* :active                          - Применить стиль нажатии */
+
+
+body {
+    background: #141540;
+    color: #fff;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background: #1F618D ;
+    margin-left: 1%;
+    width: 98%;
+    border-radius: 6px;
+
+}
+
+.logo {
+    text-decoration: none;
+    display: block;
+}
+
+.logo, .top_menu {
+    display: inline-block;
+
+
+}
+
+.top_menu li {
+    margin-right: 25px; /* Отступы между ссылками */
+    display: inline-block;
+    color: #fff;
+    font-size: 20px;
+}
+
+/* Эффект увеличения и смены цвета при наведении на ссылку */
+.top_menu ul li:hover, ul a:hover {
+    color: grey;
+    text-decoration: none;
+    transform: scale(1.15); /* Размер увеличения в процентах ( 1.05 это 5 % ) */
+}
+
+/*.exchange_logo {
+    width: 50%;
+    margin-top: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}*/
+.a, .b {
+    margin-top: 40px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+.a:hover, .b:hover {
+    transform: scale(1.15);
+    transition: transform .4s ease;
+}
+
+.a {
+    width: 200px;
+}
+
+.b {
+    position: relative;
+    top: -6px;
+}
+
+.exchange_logo {
+    float: top;
+    margin-left: 35%;
+
+
+}
+.table_1
+{
+    margin-left: 1%;
+    width: 98%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    background: #1F618D   ;
+    margin-bottom: 10px;
+    height: 120px;
+    border-radius: 6px;
+    box-shadow: none;
+    transition: box-shadow .3s;
+
+}
+
+.table_2
+{
+    width: 20%;
+    margin-left: 10px;
+    color: #CCD1D1 ;
+
+}
+
+.table_2 a
+{
+    color: white;
+    text-decoration: none;
+    transform: scale(1.15);
+    font-weight: bold;
+}
+
+.profit_perc {
+    width: 20%;
+    margin-left: 10px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #11e79e;
+}
+
+.coin_icon {
+
+    min-width: 40px;
+    max-width: 40px;
+    height: 40px;
+}
+
+.form
+{
+
+    justify-content: space-between;
+    align-items: center;
+    background: #1F618D ;
+    margin-left: 1%;
+    width: 98%;
+    border-radius: 6px;
+
+}

@@ -72,7 +72,7 @@ def loop_BTCUSDT():
 
 Thread(target=loop_BTCUSDT).start() 
 
-streamethusdt = 'ethusdt@bookTicker'
+#####################################################################streamethusdt = 'ethusdt@bookTicker'
 streamethbtc  = 'ethbtc@bookTicker'
 
 symbol_a_g_ETHUSDT = 'ETHUSDT' 

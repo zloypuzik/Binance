@@ -1,0 +1,232 @@
+[
+  {
+    "symbol_b": "ETHBTC",
+    "baseAsset_b": "ETH",
+    "quoteAsset_b": "BTC"
+  },
+  {
+    "symbol_b": "XRPBTC",
+    "baseAsset_b": "XRP",
+    "quoteAsset_b": "BTC"
+  },
+  {
+    "symbol_b": "BITBTC",
+    "baseAsset_b": "BIT",
+    "quoteAsset_b": "BTC"
+  },
+  {
+    "symbol_b": "XLMBTC",
+    "baseAsset_b": "XLM",
+    "quoteAsset_b": "BTC"
+  },
+  {
+    "symbol_b": "ALGOBTC",
+    "baseAsset_b": "ALGO",
+    "quoteAsset_b": "BTC"
+  },
+  {
+    "symbol_b": "SOLBTC",
+    "baseAsset_b": "SOL",
+    "quoteAsset_b": "BTC"
+  },
+  {
+    "symbol_b": "MANABTC",
+    "baseAsset_b": "MANA",
+    "quoteAsset_b": "BTC"
+  },
+  {
+    "symbol_b": "MATICBTC",
+    "baseAsset_b": "MATIC",
+    "quoteAsset_b": "BTC"
+  },
+  {
+    "symbol_b": "LTCBTC",
+    "baseAsset_b": "LTC",
+    "quoteAsset_b": "BTC"
+  },
+  {
+    "symbol_b": "DOTBTC",
+    "baseAsset_b": "DOT",
+    "quoteAsset_b": "BTC"
+  },
+  {
+    "symbol_b": "SANDBTC",
+    "baseAsset_b": "SAND",
+    "quoteAsset_b": "BTC"
+  },
+  {
+    "symbol_b": "WBTCBTC",
+    "baseAsset_b": "WBTC",
+    "quoteAsset_b": "BTC"
+  },
+  {
+    "symbol_b": "BITUSDC",
+    "baseAsset_b": "BIT",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "ETHUSDC",
+    "baseAsset_b": "ETH",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "BTCUSDC",
+    "baseAsset_b": "BTC",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "XLMUSDC",
+    "baseAsset_b": "XLM",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "SOLUSDC",
+    "baseAsset_b": "SOL",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "XRPUSDC",
+    "baseAsset_b": "XRP",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "LTCUSDC",
+    "baseAsset_b": "LTC",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "MANAUSDC",
+    "baseAsset_b": "MANA",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "MATICUSDC",
+    "baseAsset_b": "MATIC",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "SANDUSDC",
+    "baseAsset_b": "SAND",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "DOTUSDC",
+    "baseAsset_b": "DOT",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "LUNCUSDC",
+    "baseAsset_b": "LUNC",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "DOGEUSDC",
+    "baseAsset_b": "DOGE",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "EOSUSDC",
+    "baseAsset_b": "EOS",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "SLGUSDC",
+    "baseAsset_b": "SLG",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "AVAXUSDC",
+    "baseAsset_b": "AVAX",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "ADAUSDC",
+    "baseAsset_b": "ADA",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "OPUSDC",
+    "baseAsset_b": "OP",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "OKSEUSDC",
+    "baseAsset_b": "OKSE",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "APEXUSDC",
+    "baseAsset_b": "APEX",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "TRXUSDC",
+    "baseAsset_b": "TRX",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "ICPUSDC",
+    "baseAsset_b": "ICP",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "LINKUSDC",
+    "baseAsset_b": "LINK",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "GMTUSDC",
+    "baseAsset_b": "GMT",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "CHZUSDC",
+    "baseAsset_b": "CHZ",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "SHIBUSDC",
+    "baseAsset_b": "SHIB",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "LDOUSDC",
+    "baseAsset_b": "LDO",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "APEUSDC",
+    "baseAsset_b": "APE",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "FILUSDC",
+    "baseAsset_b": "FIL",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "APTUSDC",
+    "baseAsset_b": "APT",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "HFTUSDC",
+    "baseAsset_b": "HFT",
+    "quoteAsset_b": "USDC"
+  },
+  {
+    "symbol_b": "ETHDAI",
+    "baseAsset_b": "ETH",
+    "quoteAsset_b": "DAI"
+  },
+  {
+    "symbol_b": "BTCDAI",
+    "baseAsset_b": "BTC",
+    "quoteAsset_b": "DAI"
+  },
+  {
+    "symbol_b": "BITDAI",
+    "baseAsset_b": "BIT",
+    "quoteAsset_b": "DAI"
+  }
+]

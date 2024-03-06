@@ -1,0 +1,2564 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "immutableNameBaseAsset": "BTC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BTC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "immutableNameBaseAsset": "ETH",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ETH",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "immutableNameBaseAsset": "BNB",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BNB",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "NEOUSDT",
+    "immutableNameBaseAsset": "NEO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "NEO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "immutableNameBaseAsset": "LTC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "LTC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "QTUMUSDT",
+    "immutableNameBaseAsset": "QTUM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "QTUM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ADAUSDT",
+    "immutableNameBaseAsset": "ADA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ADA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "XRPUSDT",
+    "immutableNameBaseAsset": "XRP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "XRP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "EOSUSDT",
+    "immutableNameBaseAsset": "EOS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "EOS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "TUSDUSDT",
+    "immutableNameBaseAsset": "TUSD",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "TUSD",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "IOTAUSDT",
+    "immutableNameBaseAsset": "IOTA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "IOTA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "immutableNameBaseAsset": "XLM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "XLM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ONTUSDT",
+    "immutableNameBaseAsset": "ONT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ONT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "TRXUSDT",
+    "immutableNameBaseAsset": "TRX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "TRX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "immutableNameBaseAsset": "ETC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ETC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ICXUSDT",
+    "immutableNameBaseAsset": "ICX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ICX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "NULSUSDT",
+    "immutableNameBaseAsset": "NULS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "NULS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "VETUSDT",
+    "immutableNameBaseAsset": "VET",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "VET",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "USDCUSDT",
+    "immutableNameBaseAsset": "USDC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "USDC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "LINKUSDT",
+    "immutableNameBaseAsset": "LINK",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "LINK",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "WAVESUSDT",
+    "immutableNameBaseAsset": "WAVES",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "WAVES",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ONGUSDT",
+    "immutableNameBaseAsset": "ONG",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ONG",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "immutableNameBaseAsset": "HOT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "HOT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ZILUSDT",
+    "immutableNameBaseAsset": "ZIL",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ZIL",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "immutableNameBaseAsset": "ZRX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ZRX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FETUSDT",
+    "immutableNameBaseAsset": "FET",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FET",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BATUSDT",
+    "immutableNameBaseAsset": "BAT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BAT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "immutableNameBaseAsset": "XMR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "XMR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "immutableNameBaseAsset": "ZEC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ZEC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "IOSTUSDT",
+    "immutableNameBaseAsset": "IOST",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "IOST",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "CELRUSDT",
+    "immutableNameBaseAsset": "CELR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CELR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DASHUSDT",
+    "immutableNameBaseAsset": "DASH",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DASH",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "OMGUSDT",
+    "immutableNameBaseAsset": "OMG",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "OMG",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "THETAUSDT",
+    "immutableNameBaseAsset": "THETA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "THETA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ENJUSDT",
+    "immutableNameBaseAsset": "ENJ",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ENJ",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "MATICUSDT",
+    "immutableNameBaseAsset": "MATIC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "MATIC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ATOMUSDT",
+    "immutableNameBaseAsset": "ATOM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ATOM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "TFUELUSDT",
+    "immutableNameBaseAsset": "TFUEL",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "TFUEL",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ONEUSDT",
+    "immutableNameBaseAsset": "ONE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ONE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FTMUSDT",
+    "immutableNameBaseAsset": "FTM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FTM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ALGOUSDT",
+    "immutableNameBaseAsset": "ALGO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ALGO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "immutableNameBaseAsset": "DOGE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DOGE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DUSKUSDT",
+    "immutableNameBaseAsset": "DUSK",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DUSK",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ANKRUSDT",
+    "immutableNameBaseAsset": "ANKR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ANKR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "WINUSDT",
+    "immutableNameBaseAsset": "WIN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "WIN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "COSUSDT",
+    "immutableNameBaseAsset": "COS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "COS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "COCOSUSDT",
+    "immutableNameBaseAsset": "COCOS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "COCOS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "immutableNameBaseAsset": "MTL",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "MTL",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "TOMOUSDT",
+    "immutableNameBaseAsset": "TOMO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "TOMO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "PERLUSDT",
+    "immutableNameBaseAsset": "PERL",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "PERL",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DENTUSDT",
+    "immutableNameBaseAsset": "DENT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DENT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "KEYUSDT",
+    "immutableNameBaseAsset": "KEY",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "KEY",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DOCKUSDT",
+    "immutableNameBaseAsset": "DOCK",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DOCK",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "WANUSDT",
+    "immutableNameBaseAsset": "WAN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "WAN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FUNUSDT",
+    "immutableNameBaseAsset": "FUN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FUN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "CVCUSDT",
+    "immutableNameBaseAsset": "CVC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CVC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "CHZUSDT",
+    "immutableNameBaseAsset": "CHZ",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CHZ",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BANDUSDT",
+    "immutableNameBaseAsset": "BAND",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BAND",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BUSDUSDT",
+    "immutableNameBaseAsset": "BUSD",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BUSD",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "XTZUSDT",
+    "immutableNameBaseAsset": "XTZ",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "XTZ",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "RENUSDT",
+    "immutableNameBaseAsset": "REN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "REN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "RVNUSDT",
+    "immutableNameBaseAsset": "RVN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "RVN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "immutableNameBaseAsset": "HBAR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "HBAR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "NKNUSDT",
+    "immutableNameBaseAsset": "NKN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "NKN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "STXUSDT",
+    "immutableNameBaseAsset": "STX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "STX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "KAVAUSDT",
+    "immutableNameBaseAsset": "KAVA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "KAVA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ARPAUSDT",
+    "immutableNameBaseAsset": "ARPA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ARPA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "IOTXUSDT",
+    "immutableNameBaseAsset": "IOTX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "IOTX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "RLCUSDT",
+    "immutableNameBaseAsset": "RLC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "RLC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "CTXCUSDT",
+    "immutableNameBaseAsset": "CTXC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CTXC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "immutableNameBaseAsset": "BCH",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BCH",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "TROYUSDT",
+    "immutableNameBaseAsset": "TROY",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "TROY",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "VITEUSDT",
+    "immutableNameBaseAsset": "VITE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "VITE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "USDTTRY",
+    "immutableNameBaseAsset": "USDT",
+    "immutableNameQuoteAsset": "TRY",
+    "baseAsset": "USDT",
+    "quoteAsset": "TRY"
+  },
+  {
+    "symbol": "USDTRUB",
+    "immutableNameBaseAsset": "USDT",
+    "immutableNameQuoteAsset": "RUB",
+    "baseAsset": "USDT",
+    "quoteAsset": "RUB"
+  },
+  {
+    "symbol": "EURUSDT",
+    "immutableNameBaseAsset": "EUR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "EUR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "OGNUSDT",
+    "immutableNameBaseAsset": "OGN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "OGN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DREPUSDT",
+    "immutableNameBaseAsset": "DREP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DREP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "WRXUSDT",
+    "immutableNameBaseAsset": "WRX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "WRX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BTSUSDT",
+    "immutableNameBaseAsset": "BTS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BTS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "LSKUSDT",
+    "immutableNameBaseAsset": "LSK",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "LSK",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BNTUSDT",
+    "immutableNameBaseAsset": "BNT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BNT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "LTOUSDT",
+    "immutableNameBaseAsset": "LTO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "LTO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "MBLUSDT",
+    "immutableNameBaseAsset": "MBL",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "MBL",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "COTIUSDT",
+    "immutableNameBaseAsset": "COTI",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "COTI",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "immutableNameBaseAsset": "STPT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "STPT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "WTCUSDT",
+    "immutableNameBaseAsset": "WTC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "WTC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DATAUSDT",
+    "immutableNameBaseAsset": "DATA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DATA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SOLUSDT",
+    "immutableNameBaseAsset": "SOL",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SOL",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "USDTIDRT",
+    "immutableNameBaseAsset": "USDT",
+    "immutableNameQuoteAsset": "IDRT",
+    "baseAsset": "USDT",
+    "quoteAsset": "IDRT"
+  },
+  {
+    "symbol": "CTSIUSDT",
+    "immutableNameBaseAsset": "CTSI",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CTSI",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "HIVEUSDT",
+    "immutableNameBaseAsset": "HIVE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "HIVE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "CHRUSDT",
+    "immutableNameBaseAsset": "CHR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CHR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BTCUPUSDT",
+    "immutableNameBaseAsset": "BTCUP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BTCUP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BTCDOWNUSDT",
+    "immutableNameBaseAsset": "BTCDOWN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BTCDOWN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ARDRUSDT",
+    "immutableNameBaseAsset": "ARDR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ARDR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "MDTUSDT",
+    "immutableNameBaseAsset": "MDT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "MDT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "STMXUSDT",
+    "immutableNameBaseAsset": "STMX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "STMX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "KNCUSDT",
+    "immutableNameBaseAsset": "KNC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "KNC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "immutableNameBaseAsset": "LRC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "LRC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "PNTUSDT",
+    "immutableNameBaseAsset": "PNT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "PNT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "USDTUAH",
+    "immutableNameBaseAsset": "USDT",
+    "immutableNameQuoteAsset": "UAH",
+    "baseAsset": "USDT",
+    "quoteAsset": "UAH"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "immutableNameBaseAsset": "COMP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "COMP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "USDTBIDR",
+    "immutableNameBaseAsset": "USDT",
+    "immutableNameQuoteAsset": "BIDR",
+    "baseAsset": "USDT",
+    "quoteAsset": "BIDR"
+  },
+  {
+    "symbol": "SCUSDT",
+    "immutableNameBaseAsset": "SC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ZENUSDT",
+    "immutableNameBaseAsset": "ZEN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ZEN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SNXUSDT",
+    "immutableNameBaseAsset": "SNX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SNX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ETHUPUSDT",
+    "immutableNameBaseAsset": "ETHUP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ETHUP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ETHDOWNUSDT",
+    "immutableNameBaseAsset": "ETHDOWN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ETHDOWN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ADAUPUSDT",
+    "immutableNameBaseAsset": "ADAUP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ADAUP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ADADOWNUSDT",
+    "immutableNameBaseAsset": "ADADOWN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ADADOWN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "VTHOUSDT",
+    "immutableNameBaseAsset": "VTHO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "VTHO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DGBUSDT",
+    "immutableNameBaseAsset": "DGB",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DGB",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "GBPUSDT",
+    "immutableNameBaseAsset": "GBP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "GBP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SXPUSDT",
+    "immutableNameBaseAsset": "SXP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SXP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "MKRUSDT",
+    "immutableNameBaseAsset": "MKR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "MKR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DCRUSDT",
+    "immutableNameBaseAsset": "DCR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DCR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "immutableNameBaseAsset": "STORJ",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "STORJ",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BNBUPUSDT",
+    "immutableNameBaseAsset": "BNBUP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BNBUP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BNBDOWNUSDT",
+    "immutableNameBaseAsset": "BNBDOWN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BNBDOWN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "immutableNameBaseAsset": "MANA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "MANA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "AUDUSDT",
+    "immutableNameBaseAsset": "AUD",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "AUD",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "YFIUSDT",
+    "immutableNameBaseAsset": "YFI",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "YFI",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BALUSDT",
+    "immutableNameBaseAsset": "BAL",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BAL",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BLZUSDT",
+    "immutableNameBaseAsset": "BLZ",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BLZ",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "IRISUSDT",
+    "immutableNameBaseAsset": "IRIS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "IRIS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "KMDUSDT",
+    "immutableNameBaseAsset": "KMD",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "KMD",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "USDTDAI",
+    "immutableNameBaseAsset": "USDT",
+    "immutableNameQuoteAsset": "DAI",
+    "baseAsset": "USDT",
+    "quoteAsset": "DAI"
+  },
+  {
+    "symbol": "JSTUSDT",
+    "immutableNameBaseAsset": "JST",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "JST",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ANTUSDT",
+    "immutableNameBaseAsset": "ANT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ANT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "CRVUSDT",
+    "immutableNameBaseAsset": "CRV",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CRV",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SANDUSDT",
+    "immutableNameBaseAsset": "SAND",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SAND",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "OCEANUSDT",
+    "immutableNameBaseAsset": "OCEAN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "OCEAN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "NMRUSDT",
+    "immutableNameBaseAsset": "NMR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "NMR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "immutableNameBaseAsset": "DOT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DOT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "LUNAUSDT",
+    "immutableNameBaseAsset": "LUNA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "LUNA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "RSRUSDT",
+    "immutableNameBaseAsset": "RSR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "RSR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "PAXGUSDT",
+    "immutableNameBaseAsset": "PAXG",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "PAXG",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "WNXMUSDT",
+    "immutableNameBaseAsset": "WNXM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "WNXM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "TRBUSDT",
+    "immutableNameBaseAsset": "TRB",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "TRB",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SUSHIUSDT",
+    "immutableNameBaseAsset": "SUSHI",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SUSHI",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "YFIIUSDT",
+    "immutableNameBaseAsset": "YFII",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "YFII",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "KSMUSDT",
+    "immutableNameBaseAsset": "KSM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "KSM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "EGLDUSDT",
+    "immutableNameBaseAsset": "EGLD",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "EGLD",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DIAUSDT",
+    "immutableNameBaseAsset": "DIA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DIA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "RUNEUSDT",
+    "immutableNameBaseAsset": "RUNE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "RUNE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FIOUSDT",
+    "immutableNameBaseAsset": "FIO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FIO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "UMAUSDT",
+    "immutableNameBaseAsset": "UMA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "UMA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "USDTNGN",
+    "immutableNameBaseAsset": "USDT",
+    "immutableNameQuoteAsset": "NGN",
+    "baseAsset": "USDT",
+    "quoteAsset": "NGN"
+  },
+  {
+    "symbol": "BELUSDT",
+    "immutableNameBaseAsset": "BEL",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BEL",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "WINGUSDT",
+    "immutableNameBaseAsset": "WING",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "WING",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "immutableNameBaseAsset": "UNI",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "UNI",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "OXTUSDT",
+    "immutableNameBaseAsset": "OXT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "OXT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SUNUSDT",
+    "immutableNameBaseAsset": "SUN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SUN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "AVAXUSDT",
+    "immutableNameBaseAsset": "AVAX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "AVAX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FLMUSDT",
+    "immutableNameBaseAsset": "FLM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FLM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ORNUSDT",
+    "immutableNameBaseAsset": "ORN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ORN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "UTKUSDT",
+    "immutableNameBaseAsset": "UTK",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "UTK",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "XVSUSDT",
+    "immutableNameBaseAsset": "XVS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "XVS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "immutableNameBaseAsset": "ALPHA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ALPHA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "USDTBRL",
+    "immutableNameBaseAsset": "USDT",
+    "immutableNameQuoteAsset": "BRL",
+    "baseAsset": "USDT",
+    "quoteAsset": "BRL"
+  },
+  {
+    "symbol": "AAVEUSDT",
+    "immutableNameBaseAsset": "AAVE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "AAVE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "NEARUSDT",
+    "immutableNameBaseAsset": "NEAR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "NEAR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FILUSDT",
+    "immutableNameBaseAsset": "FIL",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FIL",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "INJUSDT",
+    "immutableNameBaseAsset": "INJ",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "INJ",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "AUDIOUSDT",
+    "immutableNameBaseAsset": "AUDIO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "AUDIO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "CTKUSDT",
+    "immutableNameBaseAsset": "CTK",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CTK",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "AKROUSDT",
+    "immutableNameBaseAsset": "AKRO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "AKRO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "immutableNameBaseAsset": "AXS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "AXS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "HARDUSDT",
+    "immutableNameBaseAsset": "HARD",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "HARD",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "STRAXUSDT",
+    "immutableNameBaseAsset": "STRAX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "STRAX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "UNFIUSDT",
+    "immutableNameBaseAsset": "UNFI",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "UNFI",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ROSEUSDT",
+    "immutableNameBaseAsset": "ROSE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ROSE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "AVAUSDT",
+    "immutableNameBaseAsset": "AVA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "AVA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "XEMUSDT",
+    "immutableNameBaseAsset": "XEM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "XEM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "immutableNameBaseAsset": "SKL",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SKL",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "immutableNameBaseAsset": "GRT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "GRT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "JUVUSDT",
+    "immutableNameBaseAsset": "JUV",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "JUV",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "PSGUSDT",
+    "immutableNameBaseAsset": "PSG",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "PSG",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "1INCHUSDT",
+    "immutableNameBaseAsset": "1INCH",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "1INCH",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "REEFUSDT",
+    "immutableNameBaseAsset": "REEF",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "REEF",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "OGUSDT",
+    "immutableNameBaseAsset": "OG",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "OG",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ATMUSDT",
+    "immutableNameBaseAsset": "ATM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ATM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ASRUSDT",
+    "immutableNameBaseAsset": "ASR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ASR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "CELOUSDT",
+    "immutableNameBaseAsset": "CELO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CELO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "RIFUSDT",
+    "immutableNameBaseAsset": "RIF",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "RIF",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "TRUUSDT",
+    "immutableNameBaseAsset": "TRU",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "TRU",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "CKBUSDT",
+    "immutableNameBaseAsset": "CKB",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CKB",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "TWTUSDT",
+    "immutableNameBaseAsset": "TWT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "TWT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FIROUSDT",
+    "immutableNameBaseAsset": "FIRO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FIRO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "LITUSDT",
+    "immutableNameBaseAsset": "LIT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "LIT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "immutableNameBaseAsset": "SFP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SFP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DODOUSDT",
+    "immutableNameBaseAsset": "DODO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DODO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "CAKEUSDT",
+    "immutableNameBaseAsset": "CAKE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CAKE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ACMUSDT",
+    "immutableNameBaseAsset": "ACM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ACM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BADGERUSDT",
+    "immutableNameBaseAsset": "BADGER",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BADGER",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FISUSDT",
+    "immutableNameBaseAsset": "FIS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FIS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "OMUSDT",
+    "immutableNameBaseAsset": "OM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "OM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "PONDUSDT",
+    "immutableNameBaseAsset": "POND",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "POND",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DEGOUSDT",
+    "immutableNameBaseAsset": "DEGO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DEGO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ALICEUSDT",
+    "immutableNameBaseAsset": "ALICE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ALICE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "LINAUSDT",
+    "immutableNameBaseAsset": "LINA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "LINA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "PERPUSDT",
+    "immutableNameBaseAsset": "PERP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "PERP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SUPERUSDT",
+    "immutableNameBaseAsset": "SUPER",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SUPER",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "CFXUSDT",
+    "immutableNameBaseAsset": "CFX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CFX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "TKOUSDT",
+    "immutableNameBaseAsset": "TKO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "TKO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "PUNDIXUSDT",
+    "immutableNameBaseAsset": "PUNDIX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "PUNDIX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "TLMUSDT",
+    "immutableNameBaseAsset": "TLM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "TLM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BARUSDT",
+    "immutableNameBaseAsset": "BAR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BAR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FORTHUSDT",
+    "immutableNameBaseAsset": "FORTH",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FORTH",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BAKEUSDT",
+    "immutableNameBaseAsset": "BAKE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BAKE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BURGERUSDT",
+    "immutableNameBaseAsset": "BURGER",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BURGER",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SLPUSDT",
+    "immutableNameBaseAsset": "SLP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SLP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SHIBUSDT",
+    "immutableNameBaseAsset": "SHIB",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SHIB",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ICPUSDT",
+    "immutableNameBaseAsset": "ICP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ICP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ARUSDT",
+    "immutableNameBaseAsset": "AR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "AR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "POLSUSDT",
+    "immutableNameBaseAsset": "POLS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "POLS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "MDXUSDT",
+    "immutableNameBaseAsset": "MDX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "MDX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "MASKUSDT",
+    "immutableNameBaseAsset": "MASK",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "MASK",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "LPTUSDT",
+    "immutableNameBaseAsset": "LPT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "LPT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "XVGUSDT",
+    "immutableNameBaseAsset": "XVG",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "XVG",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ATAUSDT",
+    "immutableNameBaseAsset": "ATA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ATA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "GTCUSDT",
+    "immutableNameBaseAsset": "GTC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "GTC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ERNUSDT",
+    "immutableNameBaseAsset": "ERN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ERN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "KLAYUSDT",
+    "immutableNameBaseAsset": "KLAY",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "KLAY",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "PHAUSDT",
+    "immutableNameBaseAsset": "PHA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "PHA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BONDUSDT",
+    "immutableNameBaseAsset": "BOND",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BOND",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "MLNUSDT",
+    "immutableNameBaseAsset": "MLN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "MLN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DEXEUSDT",
+    "immutableNameBaseAsset": "DEXE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DEXE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "C98USDT",
+    "immutableNameBaseAsset": "C98",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "C98",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "CLVUSDT",
+    "immutableNameBaseAsset": "CLV",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CLV",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "QNTUSDT",
+    "immutableNameBaseAsset": "QNT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "QNT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FLOWUSDT",
+    "immutableNameBaseAsset": "FLOW",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FLOW",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "TVKUSDT",
+    "immutableNameBaseAsset": "TVK",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "TVK",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "MINAUSDT",
+    "immutableNameBaseAsset": "MINA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "MINA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "RAYUSDT",
+    "immutableNameBaseAsset": "RAY",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "RAY",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FARMUSDT",
+    "immutableNameBaseAsset": "FARM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FARM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ALPACAUSDT",
+    "immutableNameBaseAsset": "ALPACA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ALPACA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "QUICKUSDT",
+    "immutableNameBaseAsset": "QUICK",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "QUICK",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "MBOXUSDT",
+    "immutableNameBaseAsset": "MBOX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "MBOX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FORUSDT",
+    "immutableNameBaseAsset": "FOR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FOR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "REQUSDT",
+    "immutableNameBaseAsset": "REQ",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "REQ",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "GHSTUSDT",
+    "immutableNameBaseAsset": "GHST",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "GHST",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "WAXPUSDT",
+    "immutableNameBaseAsset": "WAXP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "WAXP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "GNOUSDT",
+    "immutableNameBaseAsset": "GNO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "GNO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "XECUSDT",
+    "immutableNameBaseAsset": "XEC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "XEC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ELFUSDT",
+    "immutableNameBaseAsset": "ELF",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ELF",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DYDXUSDT",
+    "immutableNameBaseAsset": "DYDX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DYDX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "IDEXUSDT",
+    "immutableNameBaseAsset": "IDEX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "IDEX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "VIDTUSDT",
+    "immutableNameBaseAsset": "VIDT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "VIDT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "USDPUSDT",
+    "immutableNameBaseAsset": "USDP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "USDP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "GALAUSDT",
+    "immutableNameBaseAsset": "GALA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "GALA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ILVUSDT",
+    "immutableNameBaseAsset": "ILV",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ILV",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "YGGUSDT",
+    "immutableNameBaseAsset": "YGG",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "YGG",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SYSUSDT",
+    "immutableNameBaseAsset": "SYS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SYS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DFUSDT",
+    "immutableNameBaseAsset": "DF",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DF",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FIDAUSDT",
+    "immutableNameBaseAsset": "FIDA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FIDA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FRONTUSDT",
+    "immutableNameBaseAsset": "FRONT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FRONT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "CVPUSDT",
+    "immutableNameBaseAsset": "CVP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CVP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "AGLDUSDT",
+    "immutableNameBaseAsset": "AGLD",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "AGLD",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "RADUSDT",
+    "immutableNameBaseAsset": "RAD",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "RAD",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BETAUSDT",
+    "immutableNameBaseAsset": "BETA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BETA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "RAREUSDT",
+    "immutableNameBaseAsset": "RARE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "RARE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "LAZIOUSDT",
+    "immutableNameBaseAsset": "LAZIO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "LAZIO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "CHESSUSDT",
+    "immutableNameBaseAsset": "CHESS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CHESS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ADXUSDT",
+    "immutableNameBaseAsset": "ADX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ADX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "AUCTIONUSDT",
+    "immutableNameBaseAsset": "AUCTION",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "AUCTION",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "DARUSDT",
+    "immutableNameBaseAsset": "DAR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "DAR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BNXUSDT",
+    "immutableNameBaseAsset": "BNX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BNX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "MOVRUSDT",
+    "immutableNameBaseAsset": "MOVR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "MOVR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "CITYUSDT",
+    "immutableNameBaseAsset": "CITY",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CITY",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ENSUSDT",
+    "immutableNameBaseAsset": "ENS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ENS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "KP3RUSDT",
+    "immutableNameBaseAsset": "KP3R",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "KP3R",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "QIUSDT",
+    "immutableNameBaseAsset": "QI",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "QI",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "PORTOUSDT",
+    "immutableNameBaseAsset": "PORTO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "PORTO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "POWRUSDT",
+    "immutableNameBaseAsset": "POWR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "POWR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "VGXUSDT",
+    "immutableNameBaseAsset": "VGX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "VGX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "JASMYUSDT",
+    "immutableNameBaseAsset": "JASMY",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "JASMY",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "AMPUSDT",
+    "immutableNameBaseAsset": "AMP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "AMP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "PLAUSDT",
+    "immutableNameBaseAsset": "PLA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "PLA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "PYRUSDT",
+    "immutableNameBaseAsset": "PYR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "PYR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "RNDRUSDT",
+    "immutableNameBaseAsset": "RNDR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "RNDR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ALCXUSDT",
+    "immutableNameBaseAsset": "ALCX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ALCX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SANTOSUSDT",
+    "immutableNameBaseAsset": "SANTOS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SANTOS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "MCUSDT",
+    "immutableNameBaseAsset": "MC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "MC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BICOUSDT",
+    "immutableNameBaseAsset": "BICO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BICO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FLUXUSDT",
+    "immutableNameBaseAsset": "FLUX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FLUX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FXSUSDT",
+    "immutableNameBaseAsset": "FXS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FXS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "VOXELUSDT",
+    "immutableNameBaseAsset": "VOXEL",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "VOXEL",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "HIGHUSDT",
+    "immutableNameBaseAsset": "HIGH",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "HIGH",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "immutableNameBaseAsset": "CVX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "CVX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "PEOPLEUSDT",
+    "immutableNameBaseAsset": "PEOPLE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "PEOPLE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "OOKIUSDT",
+    "immutableNameBaseAsset": "OOKI",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "OOKI",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SPELLUSDT",
+    "immutableNameBaseAsset": "SPELL",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SPELL",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "JOEUSDT",
+    "immutableNameBaseAsset": "JOE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "JOE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ACHUSDT",
+    "immutableNameBaseAsset": "ACH",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ACH",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "IMXUSDT",
+    "immutableNameBaseAsset": "IMX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "IMX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "GLMRUSDT",
+    "immutableNameBaseAsset": "GLMR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "GLMR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "LOKAUSDT",
+    "immutableNameBaseAsset": "LOKA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "LOKA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SCRTUSDT",
+    "immutableNameBaseAsset": "SCRT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SCRT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "API3USDT",
+    "immutableNameBaseAsset": "API3",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "API3",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BTTCUSDT",
+    "immutableNameBaseAsset": "BTTC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BTTC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ACAUSDT",
+    "immutableNameBaseAsset": "ACA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ACA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "XNOUSDT",
+    "immutableNameBaseAsset": "XNO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "XNO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "WOOUSDT",
+    "immutableNameBaseAsset": "WOO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "WOO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ALPINEUSDT",
+    "immutableNameBaseAsset": "ALPINE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ALPINE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "TUSDT",
+    "immutableNameBaseAsset": "T",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "T",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ASTRUSDT",
+    "immutableNameBaseAsset": "ASTR",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ASTR",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "GMTUSDT",
+    "immutableNameBaseAsset": "GMT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "GMT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "KDAUSDT",
+    "immutableNameBaseAsset": "KDA",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "KDA",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "APEUSDT",
+    "immutableNameBaseAsset": "APE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "APE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BSWUSDT",
+    "immutableNameBaseAsset": "BSW",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BSW",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BIFIUSDT",
+    "immutableNameBaseAsset": "BIFI",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BIFI",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "MULTIUSDT",
+    "immutableNameBaseAsset": "MULTI",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "MULTI",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "STEEMUSDT",
+    "immutableNameBaseAsset": "STEEM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "STEEM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "MOBUSDT",
+    "immutableNameBaseAsset": "MOB",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "MOB",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "NEXOUSDT",
+    "immutableNameBaseAsset": "NEXO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "NEXO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "REIUSDT",
+    "immutableNameBaseAsset": "REI",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "REI",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "GALUSDT",
+    "immutableNameBaseAsset": "GAL",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "GAL",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "LDOUSDT",
+    "immutableNameBaseAsset": "LDO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "LDO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "EPXUSDT",
+    "immutableNameBaseAsset": "EPX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "EPX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "OPUSDT",
+    "immutableNameBaseAsset": "OP",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "OP",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "LEVERUSDT",
+    "immutableNameBaseAsset": "LEVER",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "LEVER",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "STGUSDT",
+    "immutableNameBaseAsset": "STG",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "STG",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "LUNCUSDT",
+    "immutableNameBaseAsset": "LUNC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "LUNC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "GMXUSDT",
+    "immutableNameBaseAsset": "GMX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "GMX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "POLYXUSDT",
+    "immutableNameBaseAsset": "POLYX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "POLYX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "APTUSDT",
+    "immutableNameBaseAsset": "APT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "APT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "OSMOUSDT",
+    "immutableNameBaseAsset": "OSMO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "OSMO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "HFTUSDT",
+    "immutableNameBaseAsset": "HFT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "HFT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "PHBUSDT",
+    "immutableNameBaseAsset": "PHB",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "PHB",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "HOOKUSDT",
+    "immutableNameBaseAsset": "HOOK",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "HOOK",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "MAGICUSDT",
+    "immutableNameBaseAsset": "MAGIC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "MAGIC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "HIFIUSDT",
+    "immutableNameBaseAsset": "HIFI",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "HIFI",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "RPLUSDT",
+    "immutableNameBaseAsset": "RPL",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "RPL",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "PROSUSDT",
+    "immutableNameBaseAsset": "PROS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "PROS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "AGIXUSDT",
+    "immutableNameBaseAsset": "AGIX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "AGIX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "GNSUSDT",
+    "immutableNameBaseAsset": "GNS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "GNS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SYNUSDT",
+    "immutableNameBaseAsset": "SYN",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SYN",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "VIBUSDT",
+    "immutableNameBaseAsset": "VIB",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "VIB",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SSVUSDT",
+    "immutableNameBaseAsset": "SSV",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SSV",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "LQTYUSDT",
+    "immutableNameBaseAsset": "LQTY",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "LQTY",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "AMBUSDT",
+    "immutableNameBaseAsset": "AMB",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "AMB",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "BETHUSDT",
+    "immutableNameBaseAsset": "BETH",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "BETH",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "USTCUSDT",
+    "immutableNameBaseAsset": "USTC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "USTC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "GASUSDT",
+    "immutableNameBaseAsset": "GAS",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "GAS",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "GLMUSDT",
+    "immutableNameBaseAsset": "GLM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "GLM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "PROMUSDT",
+    "immutableNameBaseAsset": "PROM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "PROM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "QKCUSDT",
+    "immutableNameBaseAsset": "QKC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "QKC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "UFTUSDT",
+    "immutableNameBaseAsset": "UFT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "UFT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "IDUSDT",
+    "immutableNameBaseAsset": "ID",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ID",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ARBUSDT",
+    "immutableNameBaseAsset": "ARB",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "ARB",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "LOOMUSDT",
+    "immutableNameBaseAsset": "LOOM",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "LOOM",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "OAXUSDT",
+    "immutableNameBaseAsset": "OAX",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "OAX",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "RDNTUSDT",
+    "immutableNameBaseAsset": "RDNT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "RDNT",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "USDTPLN",
+    "immutableNameBaseAsset": "USDT",
+    "immutableNameQuoteAsset": "PLN",
+    "baseAsset": "USDT",
+    "quoteAsset": "PLN"
+  },
+  {
+    "symbol": "USDTRON",
+    "immutableNameBaseAsset": "USDT",
+    "immutableNameQuoteAsset": "RON",
+    "baseAsset": "USDT",
+    "quoteAsset": "RON"
+  },
+  {
+    "symbol": "USDTARS",
+    "immutableNameBaseAsset": "USDT",
+    "immutableNameQuoteAsset": "ARS",
+    "baseAsset": "USDT",
+    "quoteAsset": "ARS"
+  },
+  {
+    "symbol": "WBTCUSDT",
+    "immutableNameBaseAsset": "WBTC",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "WBTC",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "EDUUSDT",
+    "immutableNameBaseAsset": "EDU",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "EDU",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SUIUSDT",
+    "immutableNameBaseAsset": "SUI",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SUI",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "AERGOUSDT",
+    "immutableNameBaseAsset": "AERGO",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "AERGO",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "PEPEUSDT",
+    "immutableNameBaseAsset": "PEPE",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "PEPE",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "FLOKIUSDT",
+    "immutableNameBaseAsset": "FLOKI",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "FLOKI",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "ASTUSDT",
+    "immutableNameBaseAsset": "AST",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "AST",
+    "quoteAsset": "USDT"
+  },
+  {
+    "symbol": "SNTUSDT",
+    "immutableNameBaseAsset": "SNT",
+    "immutableNameQuoteAsset": "USDT",
+    "baseAsset": "SNT",
+    "quoteAsset": "USDT"
+  }
+]

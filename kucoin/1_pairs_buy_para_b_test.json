@@ -1,0 +1,26 @@
+[
+  {
+    "main_currency": "USDT",
+    "symbol_a_original": "BTC-USDT",
+    "symbol_a": "BTCUSDT",
+    "baseCurrency_a": "BTC",
+    "quoteCurrency_a": "USDT",
+    "stepSize_base_a": "0.00000001",
+    "stepSize_quote_a": "0.000001",
+    "commission_a": "0.08",
+    "symbol_b_original": "AGIX-BTC",
+    "symbol_b": "AGIXBTC",
+    "baseCurrency_b": "AGIX",
+    "quoteCurrency_b": "BTC",
+    "stepSize_base_b": "0.0001",
+    "stepSize_quote_b": "0.000000001",
+    "commission_b": "0.08",
+    "symbol_c_original": "AGIX-USDT",
+    "symbol_c": "AGIXUSDT",
+    "baseCurrency_c": "AGIX",
+    "quoteCurrency_c": "USDT",
+    "stepSize_base_c": "0.0001",
+    "stepSize_quote_c": "0.00001",
+    "commission_c": "0.08"
+  }
+]

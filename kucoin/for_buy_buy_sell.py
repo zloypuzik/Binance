@@ -1,0 +1,1 @@
+tr_a_pair_c_1 = AGIX

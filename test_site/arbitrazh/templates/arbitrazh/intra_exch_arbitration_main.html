@@ -1,0 +1,192 @@
+{% extends 'main/templatepage.html' %}
+
+{% load static %}
+
+{% block title %}
+    Внутрибиржевой арбитраж
+{% endblock %}
+
+<html lang="ru">
+<head>
+    <link rel="stylesheet" href="{% static 'arbitrazh/css/main2.css' %}">
+</head>
+
+
+{% block firstblock %}
+
+    <div class="exchange_logo">
+        <a href="{% url 'intra_exch_arbitration_main' %}binance"><img class="a" src="{% static 'main/images/exchange_logo/Binance-Logo.png' %}" alt=""></a>
+        <a href="{% url 'intra_exch_arbitration_main' %}bybit"><img class="b" src="{% static 'main/images/exchange_logo/Bybit-Logo.svg' %}" alt=""></a>
+        <a href="{% url 'intra_exch_arbitration_main' %}"><img class="b" src="{% static 'main/images/exchange_logo/Kucoin-Logo.svg' %}" alt=""></a>
+    </div>
+
+    {% block javascript %}
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    {% endblock %}
+    <div>
+    <p>
+        {% if name_currency_exchange %}
+
+            <form  action="#" class="form" id="intraExchangeTradingFilter" method="POST">
+
+                {% csrf_token %}
+
+                {% for i in MainCurrency %}
+
+                    <input type="checkbox" name="selectedMainCurrencies" value="{{ i.0 }}" id="selected_main_currencies">{{ i.0 }}
+
+                {% endfor %}
+
+                <br>
+                <button type="submit" > Применить </button>
+                <button type="reset" > Сбросить </button>
+
+            </form>
+    </div>
+
+    <p>
+    <div>
+        {% for i in get_bd_profitTrade_bss_sec %}
+             <div class="table_1" id="test-item-container">
+                <div class="table_2">
+                    <a href="https://www.binance.com/ru/trade/{{i.baseCurrency_a}}_{{ i.quoteAsset_a}}?type=spot" target="_blank"><img class="coin_icon" src="{% get_static_prefix %}main/images/coin_logo/{{ i.baseCurrency_a}}.png" alt=""></a>
+                    <a href="https://www.binance.com/ru/trade/{{i.baseCurrency_a}}_{{ i.quoteAsset_a}}?type=spot" target="_blank"><img class="coin_icon" src="{% get_static_prefix %}main/images/coin_logo/{{ i.quoteAsset_a}}.png" alt=""></a>
+                    <br>
+                    Валютная пара: <a href="https://www.binance.com/ru/trade/{{i.baseCurrency_a}}_{{ i.quoteAsset_a}}?type=spot" target="_blank">{{ i.baseCurrency_a}}/{{ i.quoteAsset_a}}</a>
+                    <br>
+                    Покупка: <a href="https://www.binance.com/ru/trade/{{i.baseCurrency_a}}_{{ i.quoteAsset_a}}?type=spot" target="_blank">{{ i.baseCurrency_a}}</a>
+                    <br>
+                    по цене: <a href="https://www.binance.com/ru/trade/{{i.baseCurrency_a}}_{{ i.quoteAsset_a}}?type=spot" target="_blank">{{ i.bidPrice_a}}</a>
+                </div>
+                <div class="table_2">
+                    <a href="https://www.binance.com/ru/trade/{{i.baseCurrency_b}}_{{ i.quoteAsset_b}}?type=spot" target="_blank"><img class="coin_icon" src="{% get_static_prefix %}main/images/coin_logo/{{ i.baseCurrency_b}}.png" alt=""></a>
+                    <a href="https://www.binance.com/ru/trade/{{i.baseCurrency_b}}_{{ i.quoteAsset_b}}?type=spot" target="_blank"><img class="coin_icon" src="{% get_static_prefix %}main/images/coin_logo/{{ i.quoteAsset_b}}.png" alt=""></a>
+                    <br>
+                     Валютная пара: <a href="https://www.binance.com/ru/trade/{{i.baseCurrency_b}}_{{ i.quoteAsset_b}}?type=spot" target="_blank">{{ i.baseCurrency_b}}/{{ i.quoteAsset_b}}</a>
+                    <br>
+                    Продажа: <a href="https://www.binance.com/ru/trade/{{i.baseCurrency_b}}_{{ i.quoteAsset_b}}?type=spot" target="_blank">{{ i.baseCurrency_b}}</a>
+                    <br>
+                    по цене: <a href="https://www.binance.com/ru/trade/{{i.baseCurrency_b}}_{{ i.quoteAsset_b}}?type=spot" target="_blank">{{ i.askPrice_b}}</a>
+                </div>
+                <div class="table_2">
+                    <a href="https://www.binance.com/ru/trade/{{i.baseCurrency_c}}_{{ i.quoteAsset_c}}?type=spot" target="_blank"><img class="coin_icon" src="{% get_static_prefix %}main/images/coin_logo/{{ i.baseCurrency_c}}.png" alt=""></a>
+                    <a href="https://www.binance.com/ru/trade/{{i.baseCurrency_c}}_{{ i.quoteAsset_c}}?type=spot" target="_blank"><img class="coin_icon" src="{% get_static_prefix %}main/images/coin_logo/{{ i.quoteAsset_c}}.png" alt=""></a>
+                    <br>
+                    Валютная пара: <a href="https://www.binance.com/ru/trade/{{i.baseCurrency_c}}_{{ i.quoteAsset_c}}?type=spot" target="_blank">{{ i.baseCurrency_c}}/{{ i.quoteAsset_c}}</a>
+                    <br>
+                    Продажа: <a href="https://www.binance.com/ru/trade/{{i.baseCurrency_c}}_{{ i.quoteAsset_c}}?type=spot" target="_blank">{{ i.baseCurrency_c}}</a>
+                    <br>
+                    по цене: <a href="https://www.binance.com/ru/trade/{{i.baseCurrency_c}}_{{ i.quoteAsset_c}}?type=spot" target="_blank">{{ i.askPrice_c}}</a>
+                </div>
+
+
+                <div class="table_2">
+                    Затрачено: {{ i.costs_main_currency_makerStrategy }} {{ i.quoteAsset_a}}
+                    <br>
+                    Получено: {{ i.final_quantity_coins_circle_c_with_percent_makerStrategy }} {{ i.quoteAsset_a}}
+                    <br>
+                    Связка работает: {{ i.time_create }}
+
+                </div>
+                <div class="profit_perc">
+                    Прибыль:
+                    <br>
+                    {{ i.profit_with_percents }} {{ i.quoteAsset_a}}
+                    <br>
+                    + {{ i.profit_percent }} %
+                </div>
+
+            </div>
+    </div>
+        {% endfor %}
+        {% endif %}
+
+<!--Скрипт для применения формы без перезагрузки страницы-->
+<script type="text/javascript">
+
+    // let selected_main_currencies;
+    // Объявление глобальной переменной
+
+    // function GetSelected() {
+
+        //Create an Array.
+    var selected = ['BNB'];
+
+    //     //Reference the Table.
+    //     var postform = document.getElementById("intraExchangeTradingFilter");
+    //
+    //     //Reference all the CheckBoxes in Table.
+    //     var chks = postform.getElementsByTagName("INPUT");
+    //
+    //     // Loop and push the checked CheckBox value in Array.
+    //     for (var i = 0; i < chks.length; i++) {
+    //         if (chks[i].checked) {
+    //             selected.push(chks[i].value);
+    //             selected_main_currencies = selected;
+    //             console.log(selected_main_currencies);
+    //         }
+    //     }
+    // }
+
+    // Для применения формы без перезагрузки страницы
+    $(document).on('submit', '#intraExchangeTradingFilter', function(e){
+        e.preventDefault();
+
+        $.ajax({
+            type: 'POST',
+            url: '',
+            data: {
+                selected_main_currencies: selected,
+                // amount_main_currency: $('#amount_main_currency').val(),
+                // commission: $('#commission').val(),
+                // profit_procent: $('#profit_procent').val(),
+                csrfmiddlewaretoken: $('input[name=csrfmiddlewaretoken]').val(),
+            },
+            dataType: 'json',
+            success: function (data) {
+                // success.Message.html(data.message);
+                console.log(data);
+                // var testItemContainer = $('#test-item-container');
+                // testItemContainer.html(data.test-item-container);
+            }
+            // success: function (response) {
+            //     $('#').html(response);
+            //     console.log(response);
+            // }
+            // success: function () {
+            //     console.log(selected);
+            // }
+            // success: function (response) {
+            //     console.log(response);
+            // }
+             });
+        });
+
+
+
+
+    function updateToUserTabel(user){
+    $("#userTable #user-" + user.id).children(".userData").each(function() {
+        var attr = $(this).attr("name");
+        if (attr == "name") {
+          $(this).text(user.name);
+        } else if (attr == "address") {
+          $(this).text(user.address);
+        } else {
+          $(this).text(user.age);
+        }
+      });
+    }
+
+    //Для срабатывания кнопки при любом изминении
+    // $('#selected_main_currencies, #amount_main_currency, #commission, #profit_procent').click(function()
+    //     {
+    //         $('#intraExchangeTradingFilter').submit()
+    //     });
+
+</script>
+
+
+{% endblock %}
+
+</html>

@@ -1,0 +1,37 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>
+       {% block title %}
+        {% endblock %}
+    </title>
+    <link rel="stylesheet" href="{% static 'main/css/main2.css' %}">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+</head>
+
+<body>
+    <header>
+        <div class="header_menu">
+            <div class="logo">
+                <a href="{% url 'index' %}"><h1>ZloyPuzik</h1></a>
+            </div>
+            <div class="top_menu">
+                <ul>
+                    <a href="{% url 'index' %}"><li><i class="fa-solid fa-house"></i>Главная</li></a>
+                    <a href="{% url 'test' %}"><li>Тестовая</li></a>
+                    <a href="{% url 'arbitration_main' %}"><li><i class="fa-solid fa-house"></i>Арбитраж</li></a>
+
+                </ul>
+            </div>
+        </div>
+    </header>
+    <main>
+        {% block firstblock %}
+        {% endblock %}
+    </main>
+
+
+</body>

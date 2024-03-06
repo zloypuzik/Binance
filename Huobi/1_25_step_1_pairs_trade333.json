@@ -1,0 +1,31 @@
+[
+  {
+    "symbol": "btcusdt",
+    "state": "online",
+    "bc": "btc",
+    "qc": "usdt",
+    "pp": 2,
+    "ap": 6,
+    "sp": "main",
+    "vp": 8,
+    "minoa": 0.0001,
+    "maxoa": 1000,
+    "minov": 1,
+    "lominoa": 0.0001,
+    "lomaxoa": 1000,
+    "lomaxba": 1000,
+    "lomaxsa": 1000,
+    "smminoa": 0.0001,
+    "blmlt": 1.1,
+    "slmgt": 0.9,
+    "smmaxoa": 100,
+    "bmmaxov": 1000000,
+    "msormlt": 0.1,
+    "mbormlt": 0.1,
+    "lr": 5,
+    "smlr": 3,
+    "flr": 3,
+    "at": "enabled",
+    "tags": "activities"
+  }
+]

@@ -1,0 +1,23 @@
+{% extends 'main/templatepage.html' %}
+
+{% block title %}
+    Арбитраж
+{% endblock %}
+
+{% block firstblock %}
+    <div class="features">
+
+        <p></p>
+         <h1>
+             Выберите вид биржи
+         </h1>
+         <a href="{% url 'intra_exch_arbitration_main' %}">Внутрибиржевая торговля</a>
+         <a href="{% url 'intra_exch_arbitration_main' %}">Межбиржевая торговля</a>
+
+
+        <p></p>
+
+
+
+    </div>
+{% endblock %}

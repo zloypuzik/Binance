@@ -1,0 +1,3 @@
+2022-11-10 05:35:58,404 WARNING websocket connected
+2022-11-10 05:36:21,419 ERROR  - goodbye
+2022-11-10 05:36:21,619 ERROR error from callback <function on_close at 0x0000023152A603A0>: on_close() takes 1 positional argument but 3 were given

@@ -42,6 +42,7 @@ info = (session_unauth.query_symbol())
 all_symbol_info = []
 for i in (info['result']):
     all_symbol_info.append(i)
+    print(i)
 # print(all_symbol_info)
 #
 # for ii in all_symbol_info:

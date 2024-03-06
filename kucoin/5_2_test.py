@@ -3,7 +3,7 @@ import json
 import time
 from collections import OrderedDict  # модуль для удаления повторения
 
-check_quote_pairs = '../Binance_ETH/1_pairs_buy_para_b_test.json'
+check_quote_pairs = '../kucoin/1_pairs_buy_para_b_test.json'
 
 
 def f_file_step_1_pairs_trade():
@@ -39,8 +39,8 @@ with open(all_pairs_btc, 'a', encoding="cp1251") as file3:
         "from decimal import Decimal \n"
         "import json \n"
         "import websocket \n"
+        "from kucoin.client import Client \n"
         "from threading import * \n"
-        "from binance.client import Client \n"
         "\n"
         "\n"
         "def f_minqty_size_up(kolichestvo, stepSize): \n"
@@ -55,10 +55,10 @@ with open(all_pairs_btc, 'a', encoding="cp1251") as file3:
         "\treturn sell_amount_a \n"
         "\n"
         "\n"
-        "api_key = 'GQJCOxFdjrcGGbjsKjCvxSMkRY3CPuaL0lv59POZ5FdQ8NH4PnRqDwoT5ofsYDmF' \n"
-        "secret_key = 'jIvDMfcT56G7ZcKR5oxU2XGCCZnOA0NJzpbo0iOfmqYyDChCcPcUdQKYUh0fepyY' \n"
+        "api_key = '63cc9d027675230001bba629' \n"
+        "api_secret = '0e8444e7-0594-4a57-a058-92d34decd0d7' \n"
         "\n"
-        "client = Client(api_key, secret_key) \n"
+        "client = Client(api_key, api_secret, passphrase='4796212') \n"
         "\n"
         "usdt_count = Decimal(input('Укажите количество монет:')) \n"
         "\n"
@@ -74,26 +74,28 @@ main_pairs = ['BUSD', 'USDT', 'BNB', 'BTC', 'ETH', 'XRP', 'TRX', 'DOGE', 'DOT', 
               'RUB', 'TRY', 'DAI', 'UAH', 'ZAR', 'VAI', 'IDRT', 'NGN', 'PLN']
 
 ########################################################################################################
-# Проверяем пары 'a','b' и 'c' в файле 'f_file_step_1_pairs_trade' и если в этих парах 'baseAsset' и 'quoteAsset' равно 'main_pairs', добавляем пару в переменную 'all_main_currency_pairs'
+# Проверяем пары 'a','b' и 'c' в файле 'f_file_step_1_pairs_trade' и если в этих парах 'baseCurrency' и 'quoteCurrency' равно 'main_pairs', добавляем пару в переменную 'all_main_currency_pairs'
 ########################################################################################################
 
-all_main_currency_pairs = []  # Список пар в которых 'baseAsset' и 'quoteAsset' равно 'main_pairs'
+all_main_currency_pairs = []  # Список пар в которых 'baseCurrency' и 'quoteCurrency' равно 'main_pairs'
 count_pairs_a = 0
 
 all_pairs = []
 
 for i in f_file_step_1_pairs_trade():
     if count_pairs_a == 0:
+        symbol_original = (i['symbol_a_original'])
         symbol = (i['symbol_a'])
-        baseAsset = (i['baseAsset_a'])
-        quoteAsset = (i['quoteAsset_a'])
+        baseCurrency = (i['baseCurrency_a'])
+        quoteCurrency = (i['quoteCurrency_a'])
         stepSize = (i['stepSize_a'])
         commission = (i['commission_a'])
         all_pairs.append(
             {
+                'symbol_original_g': symbol_original,
                 'symbol_g': symbol,
-                'baseAsset_g': baseAsset,
-                'quoteAsset_g': quoteAsset,
+                'baseCurrency_g': baseCurrency,
+                'quoteCurrency_g': quoteCurrency,
                 'stepSize_g': stepSize,
                 'commission_g': commission
             }
@@ -109,17 +111,18 @@ for i in f_file_step_1_pairs_trade():
             break
 
     if not a:
-
+        symbol_original = (i['symbol_a_original'])
         symbol = (i['symbol_a'])
-        baseAsset = (i['baseAsset_a'])
-        quoteAsset = (i['quoteAsset_a'])
+        baseCurrency = (i['baseCurrency_a'])
+        quoteCurrency = (i['quoteCurrency_a'])
         stepSize = (i['stepSize_a'])
         commission = (i['commission_a'])
         all_pairs.append(
             {
+                'symbol_original_g': symbol_original,
                 'symbol_g': symbol,
-                'baseAsset_g': baseAsset,
-                'quoteAsset_g': quoteAsset,
+                'baseCurrency_g': baseCurrency,
+                'quoteCurrency_g': quoteCurrency,
                 'stepSize_g': stepSize,
                 'commission_g': commission
             }
@@ -136,17 +139,18 @@ for i in f_file_step_1_pairs_trade():
             break
 
     if not a:
-
+        symbol_original = (i['symbol_b_original'])
         symbol = (i['symbol_b'])
-        baseAsset = (i['baseAsset_b'])
-        quoteAsset = (i['quoteAsset_b'])
+        baseCurrency = (i['baseCurrency_b'])
+        quoteCurrency = (i['quoteCurrency_b'])
         stepSize = (i['stepSize_b'])
         commission = (i['commission_b'])
         all_pairs.append(
             {
+                'symbol_original_g': symbol_original,
                 'symbol_g': symbol,
-                'baseAsset_g': baseAsset,
-                'quoteAsset_g': quoteAsset,
+                'baseCurrency_g': baseCurrency,
+                'quoteCurrency_g': quoteCurrency,
                 'stepSize_g': stepSize,
                 'commission_g': commission
             }
@@ -163,17 +167,18 @@ for i in f_file_step_1_pairs_trade():
             break
 
     if not a:
-
+        symbol_original = (i['symbol_c_original'])
         symbol = (i['symbol_c'])
-        baseAsset = (i['baseAsset_c'])
-        quoteAsset = (i['quoteAsset_c'])
+        baseCurrency = (i['baseCurrency_c'])
+        quoteCurrency = (i['quoteCurrency_c'])
         stepSize = (i['stepSize_c'])
         commission = (i['commission_c'])
         all_pairs.append(
             {
+                'symbol_original_g': symbol_original,
                 'symbol_g': symbol,
-                'baseAsset_g': baseAsset,
-                'quoteAsset_g': quoteAsset,
+                'baseCurrency_g': baseCurrency,
+                'quoteCurrency_g': quoteCurrency,
                 'stepSize_g': stepSize,
                 'commission_g': commission
             }
@@ -189,6 +194,7 @@ for i in all_pairs:
     symbol_gg = symbol_gg.lower()
     with open(all_pairs_btc, 'a', encoding="cp1251") as file3:
         file3.write(
+            f"symbol_original_g_{i['symbol_g']} = '{i['symbol_original_g']}' \n"
             f"symbol_g_{i['symbol_g']} = '{i['symbol_g']}' \n"
             f"price_bids_g_{i['symbol_g']} = Decimal('0.0') \n"
             f"qty_bids_g_{i['symbol_g']} = Decimal('0.0') \n"
@@ -197,37 +203,41 @@ for i in all_pairs:
             f"stepSize_g_{i['symbol_g']} = Decimal('{i['stepSize_g']}') \n"
             "\n"
             "\n"
-            f"def on_message_{i['symbol_g']}(ws, message): \n"
+            f"def on_message_{i['symbol_g']}(): \n"
             "\n"
-            "\tdata = json.loads(message) \n"
+            "\twhile True: \n"
+            f"\t\tdata = client.get_ticker(symbol='{i['symbol_original_g']}') \n"
             "\n"
-            f"\tsymbol_c_l_{i['symbol_g']} = '{i['symbol_g']}' \n"
-            f"\tprice_bids_c_l_{i['symbol_g']} = data['b'] \n"
-            f"\tqty_bids_c_l_{i['symbol_g']} = data['B'] \n"
-            f"\tprice_asks_c_l_{i['symbol_g']} = data['a'] \n"
-            f"\tqty_asks_c_l_{i['symbol_g']} = data['A'] \n"
+            # f"\t\tsymbol_original_c_l_{i['symbol_g']} = '{i['symbol_original_g']}' \n"
+            f"\t\tsymbol_c_l_{i['symbol_g']} = '{i['symbol_g']}' \n"
+            f"\t\tprice_bids_c_l_{i['symbol_g']} = data['bestBid'] \n"
+            f"\t\tqty_bids_c_l_{i['symbol_g']} = data['bestBidSize'] \n"
+            f"\t\tprice_asks_c_l_{i['symbol_g']} = data['bestAsk'] \n"
+            f"\t\tqty_asks_c_l_{i['symbol_g']} = data['bestAskSize'] \n"
             "\n"
-            f"\tglobal symbol_g_{i['symbol_g']} \n"
-            f"\tglobal price_bids_g_{i['symbol_g']} \n"
-            f"\tglobal qty_bids_g_{i['symbol_g']} \n"
-            f"\tglobal price_asks_g_{i['symbol_g']} \n"
-            f"\tglobal qty_asks_g_{i['symbol_g']} \n"
+            f"\t\tglobal symbol_g_{i['symbol_g']} \n"
+            f"\t\tglobal price_bids_g_{i['symbol_g']} \n"
+            f"\t\tglobal qty_bids_g_{i['symbol_g']} \n"
+            f"\t\tglobal price_asks_g_{i['symbol_g']} \n"
+            f"\t\tglobal qty_asks_g_{i['symbol_g']} \n"
             "\n"
-            f"\tsymbol_g_{i['symbol_g']} = symbol_c_l_{i['symbol_g']} \n"
-            f"\tprice_bids_g_{i['symbol_g']} = Decimal(price_bids_c_l_{i['symbol_g']}) \n"
-            f"\tqty_bids_g_{i['symbol_g']} = Decimal(qty_bids_c_l_{i['symbol_g']}) \n"
-            f"\tprice_asks_g_{i['symbol_g']} = Decimal(price_asks_c_l_{i['symbol_g']}) \n"
-            f"\tqty_asks_g_{i['symbol_g']} = Decimal(qty_asks_c_l_{i['symbol_g']}) \n"
-            "\n"
-            "\n"
-            f"def loop_{i['symbol_g']}(): \n"
-            "\n"
-            f"\tsocket1 = f'wss://stream.binance.com:9443/ws/{symbol_gg}@bookTicker' \n"
-            f"\tws = websocket.WebSocketApp(socket1, on_message=on_message_{i['symbol_g']}) \n"
-            "\tws.run_forever() \n"
+            f"\t\tsymbol_g_{i['symbol_g']} = symbol_c_l_{i['symbol_g']} \n"
+            f"\t\tprice_bids_g_{i['symbol_g']} = Decimal(price_bids_c_l_{i['symbol_g']}) \n"
+            f"\t\tqty_bids_g_{i['symbol_g']} = Decimal(qty_bids_c_l_{i['symbol_g']}) \n"
+            f"\t\tprice_asks_g_{i['symbol_g']} = Decimal(price_asks_c_l_{i['symbol_g']}) \n"
+            f"\t\tqty_asks_g_{i['symbol_g']} = Decimal(qty_asks_c_l_{i['symbol_g']}) \n"
             "\n"
             "\n"
-            f"Thread(target=loop_{i['symbol_g']}).start() \n"
+            f"Thread(target=on_message_{i['symbol_g']}).start() \n"
+            "\n"
+            # f"def loop_{i['symbol_g']}(): \n"
+            # "\n"
+            # f"\tsocket1 = f'wss://stream.binance.com:9443/ws/{symbol_gg}@bookTicker' \n"
+            # f"\tws = websocket.WebSocketApp(socket1, on_message=on_message_{i['symbol_g']}) \n"
+            # "\tws.run_forever() \n"
+            # "\n"
+            # "\n"
+            # f"Thread(target=loop_{i['symbol_g']}).start() \n"
         )
 
 for i in f_file_step_1_pairs_trade():
@@ -236,7 +246,6 @@ for i in f_file_step_1_pairs_trade():
     symbol_aa = symbol_a.lower()
     stepSize_a = i['stepSize_a']
     commission_a = i['commission_a']
-
     symbol_b = i['symbol_b']
     symbol_bb = symbol_b.lower()
     stepSize_b = i['stepSize_b']
@@ -247,19 +256,19 @@ for i in f_file_step_1_pairs_trade():
     stepSize_c = i['stepSize_c']
     commission_c = i['commission_c']
 
-    if i['quoteAsset_a'] == main_currency:
+    if i['quoteCurrency_a'] == main_currency:
         trade_a_pair = 'buy'
-        tr_a_pair_a_1 = i['baseAsset_a']
+        tr_a_pair_a_1 = i['baseCurrency_a']
         tr_a_pair_a_2 = main_currency
         tr_n_a = 'asks'
 
-        if i['baseAsset_a'] == i['quoteAsset_b']:
+        if i['baseCurrency_a'] == i['quoteCurrency_b']:
             trade_b_pair = 'buy'
             tr_n_b = 'asks'
-            tr_a_pair_b_1 = i['baseAsset_b']
-            tr_a_pair_b_2 = i['quoteAsset_b']
+            tr_a_pair_b_1 = i['baseCurrency_b']
+            tr_a_pair_b_2 = i['quoteCurrency_b']
 
-            if i['baseAsset_b'] == i['quoteAsset_c']:
+            if i['baseCurrency_b'] == i['quoteCurrency_c']:
                 trade_c_pair = 'buy'
                 tr_n_c = 'asks'
                 trade_all = 'buy -> buy -> buy'
@@ -267,10 +276,10 @@ for i in f_file_step_1_pairs_trade():
                 tr_b = 'Покупаем'
                 tr_c = 'Покупаем'
 
-            elif i['baseAsset_b'] == i['baseAsset_c']:
+            elif i['baseCurrency_b'] == i['baseCurrency_c']:
                 trade_c_pair = 'sell'
-                tr_a_pair_c_1 = i['baseAsset_c']
-                tr_a_pair_c_2 = i['quoteAsset_c']
+                tr_a_pair_c_1 = i['baseCurrency_c']
+                tr_a_pair_c_2 = i['quoteCurrency_c']
                 tr_n_c = 'bids'
                 trade_all = 'buy -> buy -> sell'
                 tr_a = 'Покупаем'
@@ -278,50 +287,50 @@ for i in f_file_step_1_pairs_trade():
                 tr_c = 'Продаем'
 
             else:
-                print("1 Проверьте пару 'C', в ней отсутствует монета:", i['baseAsset_b'])
+                print("1 Проверьте пару 'C', в ней отсутствует монета:", i['baseCurrency_b'])
 
-        elif i['baseAsset_a'] == i['baseAsset_b']:
+        elif i['baseCurrency_a'] == i['baseCurrency_b']:
             trade_b_pair = 'sell'
             tr_n_b = 'bids'
-            tr_a_pair_b_1 = i['baseAsset_b']
-            tr_a_pair_b_2 = i['quoteAsset_b']
+            tr_a_pair_b_1 = i['baseCurrency_b']
+            tr_a_pair_b_2 = i['quoteCurrency_b']
 
-            if i['quoteAsset_b'] == i['quoteAsset_c']:
+            if i['quoteCurrency_b'] == i['quoteCurrency_c']:
                 trade_c_pair = 'buy'
                 tr_n_c = 'asks'
                 trade_all = 'buy -> sell -> buy'
                 tr_a = 'Покупаем'
                 tr_b = 'Продаем'
                 tr_c = 'Покупаем'
-                tr_a_pair_c_1 = i['baseAsset_c']
-                tr_a_pair_c_2 = i['quoteAsset_c']
+                tr_a_pair_c_1 = i['baseCurrency_c']
+                tr_a_pair_c_2 = i['quoteCurrency_c']
 
-            elif i['quoteAsset_b'] == i['baseAsset_c']:
+            elif i['quoteCurrency_b'] == i['baseCurrency_c']:
                 trade_c_pair = 'sell'
                 tr_n_c = 'bids'
                 trade_all = 'buy -> sell -> sell'
                 tr_a = 'Покупаем'
                 tr_b = 'Продаем'
                 tr_c = 'Продаем'
-                tr_a_pair_c_1 = i['baseAsset_c']
-                tr_a_pair_c_2 = i['quoteAsset_c']
+                tr_a_pair_c_1 = i['baseCurrency_c']
+                tr_a_pair_c_2 = i['quoteCurrency_c']
             else:
-                print("2 Проверьте пару 'C', в ней отсутствует монета:", i['quoteAsset_b'])
+                print("2 Проверьте пару 'C', в ней отсутствует монета:", i['quoteCurrency_b'])
 
         else:
-            print("Проверьте пару 'Б', в ней отсутствует монета:", i['baseAsset'])
+            print("Проверьте пару 'Б', в ней отсутствует монета:", i['baseCurrency'])
     #####################################################################################################################
-    elif i['baseAsset_a'] == main_currency:
+    elif i['baseCurrency_a'] == main_currency:
         trade_a_pair = 'sell'
         tr_n_a = 'bids'
         tr_a_pair_a_1 = main_currency
-        tr_a_pair_a_2 = i['quoteAsset_a']
+        tr_a_pair_a_2 = i['quoteCurrency_a']
 
-        if i['quoteAsset_a'] == i['quoteAsset_b']:
+        if i['quoteCurrency_a'] == i['quoteCurrency_b']:
             trade_b_pair = 'buy'
             tr_n_b = 'asks'
 
-            if i['baseAsset_b'] == i['quoteAsset_c']:
+            if i['baseCurrency_b'] == i['quoteCurrency_c']:
                 trade_c_pair = 'buy'
                 tr_n_c = 'asks'
                 trade_all = 'sell -> buy -> buy'
@@ -329,7 +338,7 @@ for i in f_file_step_1_pairs_trade():
                 tr_b = 'Покупаем'
                 tr_c = 'Покупаем'
 
-            elif i['baseAsset_b'] == i['baseAsset_c']:
+            elif i['baseCurrency_b'] == i['baseCurrency_c']:
                 trade_c_pair = 'sell'
                 tr_n_c = 'bids'
                 trade_all = 'sell -> buy -> sell'
@@ -337,13 +346,13 @@ for i in f_file_step_1_pairs_trade():
                 tr_b = 'Покупаем'
                 tr_c = 'Продаем'
             else:
-                print("1 Проверьте пару 'C', в ней отсутствует монета:", i['baseAsset_b'])
+                print("1 Проверьте пару 'C', в ней отсутствует монета:", i['baseCurrency_b'])
 
-        elif i['quoteAsset_a'] == i['baseAsset_b']:
+        elif i['quoteCurrency_a'] == i['baseCurrency_b']:
             trade_b_pair = 'sell'
             tr_n_b = 'bids'
 
-            if i['quoteAsset_b'] == i['quoteAsset_c']:
+            if i['quoteCurrency_b'] == i['quoteCurrency_c']:
                 trade_c_pair = 'buy'
                 tr_n_c = 'asks'
                 trade_all = 'sell -> sell -> buy'
@@ -351,7 +360,7 @@ for i in f_file_step_1_pairs_trade():
                 tr_b = 'Продаем'
                 tr_c = 'Покупаем'
 
-            elif i['quoteAsset_b'] == i['baseAsset_c']:
+            elif i['quoteCurrency_b'] == i['baseCurrency_c']:
                 trade_c_pair = 'sell'
                 tr_n_c = 'bids'
                 trade_all = 'sell -> sell -> sell'
@@ -360,10 +369,10 @@ for i in f_file_step_1_pairs_trade():
                 tr_c = 'Продаем'
 
             else:
-                print("2 Проверьте пару 'C', в ней отсутствует монета:", i['quoteAsset_b'])
+                print("2 Проверьте пару 'C', в ней отсутствует монета:", i['quoteCurrency_b'])
 
         else:
-            print("Проверьте пару 'Б', в ней отсутствует монета:", i['quoteAsset'])
+            print("Проверьте пару 'Б', в ней отсутствует монета:", i['quoteCurrency'])
 
     else:
         print("Проверьте пару 'А', в ней отсутствует монета:", main_currency)
@@ -372,7 +381,7 @@ for i in f_file_step_1_pairs_trade():
     quantity_pair_c_raschet_buy = [
         f"\t\t\tquantity_pair_c_raschet = Decimal(usdt_count) * Decimal(price_asks_g_{symbol_c})  # Определяем, сколько нужно валюты 'c', для торговли в паре 'b' \n"
         f"\t\t\tquantity_pair_c_raschet = Decimal(f_minqty_size_down(quantity_pair_c_raschet, stepSize_g_{symbol_c}))  # Округляем согласно шагу Binance 'stepSize' \n"
-        f"\t\t\t# quantity_pair_c_raschet = количество '{i['quoteAsset_c']}' \n"
+        f"\t\t\t# quantity_pair_c_raschet = количество '{i['quoteCurrency_c']}' \n"
         ]
     quantity_pair_c_raschet_sell = [
         f"\t\t\tquantity_pair_c_raschet = Decimal(usdt_count) / Decimal(price_bids_g_{symbol_c}) \n"
@@ -416,7 +425,7 @@ for i in f_file_step_1_pairs_trade():
     ]
     trade_pair_a_sell = [
         f"\t\t\tprice_a = Decimal(quantity_pair_b_raschet) / Decimal(price_bids_g_{symbol_a}) \n"
-        f"\t\t\t# price_a = сколько потребуется '{i['baseAsset_a']}' \n"
+        f"\t\t\t# price_a = сколько потребуется '{i['baseCurrency_a']}' \n"
     ]
     #####################################################################################################################
     trade_pair_b_buy = [
@@ -428,7 +437,7 @@ for i in f_file_step_1_pairs_trade():
     #####################################################################################################################
     trade_pair_c_buy = [
         f"\t\t\tprice_c = Decimal(price_b) * Decimal(price_asks_g_{symbol_c}) \n"
-        f"\t\t\t# price_c = сколько получим '{i['baseAsset_c']}' \n"
+        f"\t\t\t# price_c = сколько получим '{i['baseCurrency_c']}' \n"
     ]
     trade_pair_c_sell = [
         f"\t\t\tprice_c = Decimal(quantity_pair_c) * Decimal(price_bids_g_{symbol_c}) \n"
@@ -482,7 +491,7 @@ for i in f_file_step_1_pairs_trade():
         # f"\t\t\t\tprint_all = print_itog(time_test, commission_all, quantity_pair_a, quantity_pair_b, quantity_pair_c, price_a, price_b, price_c, pribil, c) \n"
         # f"\t\t\t\tprint(print_all) \n"
         #"\n"
-        # "\t\t\t\tlocker.acquire()\n"
+        "\t\t\t\tlocker.acquire()\n"
         f"\t\t\t\tprint('################################################################################################################') \n"
         f"\t\t\t\tprint(time_test) \n"
         f"\t\t\t\tprint('Общая коммисия:', commission_all) \n"
@@ -578,10 +587,9 @@ for i in f_file_step_1_pairs_trade():
         for p in test_bribil:
             with open(all_pairs_btc, 'a', encoding="cp1251") as file3:
                 file3.write(p)
-        for p in test_buy:
-            with open(all_pairs_btc, 'a', encoding="cp1251") as file3:
-                file3.write(p)
+        # for p in test_buy:
+        #     with open(all_pairs_btc, 'a', encoding="cp1251") as file3:
+        #         file3.write(p)
         for p in testtest:
             with open(all_pairs_btc, 'a', encoding="cp1251") as file3:
                 file3.write(p)
-

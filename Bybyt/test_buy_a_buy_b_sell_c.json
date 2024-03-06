@@ -1,0 +1,232 @@
+[
+  {
+    "symbol_a": "ETHUSDT",
+    "symbol_b": "ETHBTC",
+    "symbol_c": "BTCUSDT"
+  },
+  {
+    "symbol_a": "XRPUSDT",
+    "symbol_b": "XRPBTC",
+    "symbol_c": "BTCUSDT"
+  },
+  {
+    "symbol_a": "BITUSDT",
+    "symbol_b": "BITBTC",
+    "symbol_c": "BTCUSDT"
+  },
+  {
+    "symbol_a": "XLMUSDT",
+    "symbol_b": "XLMBTC",
+    "symbol_c": "BTCUSDT"
+  },
+  {
+    "symbol_a": "ALGOUSDT",
+    "symbol_b": "ALGOBTC",
+    "symbol_c": "BTCUSDT"
+  },
+  {
+    "symbol_a": "SOLUSDT",
+    "symbol_b": "SOLBTC",
+    "symbol_c": "BTCUSDT"
+  },
+  {
+    "symbol_a": "MANAUSDT",
+    "symbol_b": "MANABTC",
+    "symbol_c": "BTCUSDT"
+  },
+  {
+    "symbol_a": "MATICUSDT",
+    "symbol_b": "MATICBTC",
+    "symbol_c": "BTCUSDT"
+  },
+  {
+    "symbol_a": "LTCUSDT",
+    "symbol_b": "LTCBTC",
+    "symbol_c": "BTCUSDT"
+  },
+  {
+    "symbol_a": "DOTUSDT",
+    "symbol_b": "DOTBTC",
+    "symbol_c": "BTCUSDT"
+  },
+  {
+    "symbol_a": "SANDUSDT",
+    "symbol_b": "SANDBTC",
+    "symbol_c": "BTCUSDT"
+  },
+  {
+    "symbol_a": "WBTCUSDT",
+    "symbol_b": "WBTCBTC",
+    "symbol_c": "BTCUSDT"
+  },
+  {
+    "symbol_a": "BITUSDT",
+    "symbol_b": "BITUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "ETHUSDT",
+    "symbol_b": "ETHUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "BTCUSDT",
+    "symbol_b": "BTCUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "XLMUSDT",
+    "symbol_b": "XLMUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "SOLUSDT",
+    "symbol_b": "SOLUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "XRPUSDT",
+    "symbol_b": "XRPUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "LTCUSDT",
+    "symbol_b": "LTCUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "MANAUSDT",
+    "symbol_b": "MANAUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "MATICUSDT",
+    "symbol_b": "MATICUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "SANDUSDT",
+    "symbol_b": "SANDUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "DOTUSDT",
+    "symbol_b": "DOTUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "LUNCUSDT",
+    "symbol_b": "LUNCUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "DOGEUSDT",
+    "symbol_b": "DOGEUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "EOSUSDT",
+    "symbol_b": "EOSUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "SLGUSDT",
+    "symbol_b": "SLGUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "AVAXUSDT",
+    "symbol_b": "AVAXUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "ADAUSDT",
+    "symbol_b": "ADAUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "OPUSDT",
+    "symbol_b": "OPUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "OKSEUSDT",
+    "symbol_b": "OKSEUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "APEXUSDT",
+    "symbol_b": "APEXUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "TRXUSDT",
+    "symbol_b": "TRXUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "ICPUSDT",
+    "symbol_b": "ICPUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "LINKUSDT",
+    "symbol_b": "LINKUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "GMTUSDT",
+    "symbol_b": "GMTUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "CHZUSDT",
+    "symbol_b": "CHZUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "SHIBUSDT",
+    "symbol_b": "SHIBUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "LDOUSDT",
+    "symbol_b": "LDOUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "APEUSDT",
+    "symbol_b": "APEUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "FILUSDT",
+    "symbol_b": "FILUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "APTUSDT",
+    "symbol_b": "APTUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "HFTUSDT",
+    "symbol_b": "HFTUSDC",
+    "symbol_c": "USDCUSDT"
+  },
+  {
+    "symbol_a": "ETHUSDT",
+    "symbol_b": "ETHDAI",
+    "symbol_c": "DAIUSDT"
+  },
+  {
+    "symbol_a": "BTCUSDT",
+    "symbol_b": "BTCDAI",
+    "symbol_c": "DAIUSDT"
+  },
+  {
+    "symbol_a": "BITUSDT",
+    "symbol_b": "BITDAI",
+    "symbol_c": "DAIUSDT"
+  }
+]

@@ -1,0 +1,8255 @@
+[
+  {
+    "symbol": "AGLD",
+    "name": "AGLD",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 21.0,
+        "withdrawMin": 42.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "STPT",
+    "name": "STPT",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 181.0,
+        "withdrawMin": 362.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "GLM",
+    "name": "GLM",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 37.0,
+        "withdrawMin": 74.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "RAY",
+    "name": "RAY",
+    "networkList": [
+      {
+        "network": "SOL",
+        "secondaryNameNetwork": "Solana",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.77,
+        "withdrawMin": 1.54,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "NEAR",
+    "name": "NEAR",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.039,
+        "withdrawMin": 0.078,
+        "minConfirm": 15
+      },
+      {
+        "network": "NEAR",
+        "secondaryNameNetwork": "NEAR Protocol",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 0.2,
+        "minConfirm": 1
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.093,
+        "withdrawMin": 0.19,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "AUDIO",
+    "name": "AUDIO",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 33.0,
+        "withdrawMin": 66.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ADADOWN",
+    "name": "ADADOWN",
+    "networkList": [
+      {
+        "network": "ETF",
+        "secondaryNameNetwork": "ETF",
+        "depositEnable": false,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "FARM",
+    "name": "FARM",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0023,
+        "withdrawMin": 0.0046,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.28,
+        "withdrawMin": 0.56,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "XNO",
+    "name": "XNO",
+    "networkList": [
+      {
+        "network": "NANO",
+        "secondaryNameNetwork": "NANO",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.032,
+        "withdrawMin": 0.064,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "DGB",
+    "name": "DGB",
+    "networkList": [
+      {
+        "network": "DGB",
+        "secondaryNameNetwork": "DigiByte",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.2,
+        "withdrawMin": 0.4,
+        "minConfirm": 10
+      }
+    ]
+  },
+  {
+    "symbol": "ZRX",
+    "name": "ZRX",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 36.0,
+        "withdrawMin": 72.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "SANTOS",
+    "name": "SANTOS",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.017,
+        "withdrawMin": 0.034,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "WING",
+    "name": "WING",
+    "networkList": [
+      {
+        "network": "ONT",
+        "secondaryNameNetwork": "Ontology",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0019,
+        "withdrawMin": 0.0038,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "WNXM",
+    "name": "WNXM",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.31,
+        "withdrawMin": 0.62,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BCH",
+    "name": "BCH",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.00068,
+        "withdrawMin": 0.0014,
+        "minConfirm": 15
+      },
+      {
+        "network": "BCH",
+        "secondaryNameNetwork": "Bitcoin Cash",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.00064,
+        "withdrawMin": 0.002,
+        "minConfirm": 2
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0013,
+        "withdrawMin": 0.0026,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.071,
+        "withdrawMin": 0.14,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "JST",
+    "name": "JST",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.02,
+        "withdrawMin": 6.04,
+        "minConfirm": 15
+      },
+      {
+        "network": "TRX",
+        "secondaryNameNetwork": "Tron (TRC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 50.0,
+        "withdrawMin": 100.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "ADAUP",
+    "name": "ADAUP",
+    "networkList": [
+      {
+        "network": "ETF",
+        "secondaryNameNetwork": "ETF",
+        "depositEnable": false,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "HOT",
+    "name": "HOT",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 4891.0,
+        "withdrawMin": 9782.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "GMT",
+    "name": "GMT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.24,
+        "withdrawMin": 0.48,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 28.0,
+        "withdrawMin": 56.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "SOL",
+        "secondaryNameNetwork": "Solana",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.57,
+        "withdrawMin": 1.14,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "AR",
+    "name": "AR",
+    "networkList": [
+      {
+        "network": "AR",
+        "secondaryNameNetwork": "Arweave",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.03,
+        "withdrawMin": 0.1,
+        "minConfirm": 20
+      }
+    ]
+  },
+  {
+    "symbol": "IRIS",
+    "name": "IRIS",
+    "networkList": [
+      {
+        "network": "IRIS",
+        "secondaryNameNetwork": "IRISnet",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 2.0,
+        "minConfirm": 10
+      }
+    ]
+  },
+  {
+    "symbol": "GMX",
+    "name": "GMX",
+    "networkList": [
+      {
+        "network": "AVAXC",
+        "secondaryNameNetwork": "AVAX C-Chain",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.02,
+        "withdrawMin": 0.1,
+        "minConfirm": 12
+      },
+      {
+        "network": "ARBITRUM",
+        "secondaryNameNetwork": "Arbitrum One",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.006,
+        "withdrawMin": 0.1,
+        "minConfirm": 100
+      }
+    ]
+  },
+  {
+    "symbol": "FLM",
+    "name": "FLM",
+    "networkList": [
+      {
+        "network": "NEO3",
+        "secondaryNameNetwork": "NEO N3",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.5,
+        "withdrawMin": 2.0,
+        "minConfirm": 5
+      },
+      {
+        "network": "NEO",
+        "secondaryNameNetwork": "Neo Legacy",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.5,
+        "withdrawMin": 2.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "GNO",
+    "name": "GNO",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.071,
+        "withdrawMin": 0.14,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "VITE",
+    "name": "VITE",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.91,
+        "withdrawMin": 5.82,
+        "minConfirm": 15
+      },
+      {
+        "network": "VITE",
+        "secondaryNameNetwork": "VITE",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 2.0,
+        "minConfirm": 150
+      }
+    ]
+  },
+  {
+    "symbol": "GNS",
+    "name": "GNS",
+    "networkList": [
+      {
+        "network": "ARBITRUM",
+        "secondaryNameNetwork": "Arbitrum One",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.3,
+        "withdrawMin": 1.0,
+        "minConfirm": 100
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.033,
+        "withdrawMin": 0.066,
+        "minConfirm": 300
+      }
+    ]
+  },
+  {
+    "symbol": "CFX",
+    "name": "CFX",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": false,
+        "withdrawEnable": false,
+        "withdrawFee": 0.41,
+        "withdrawMin": 0.82,
+        "minConfirm": 15
+      },
+      {
+        "network": "CFX",
+        "secondaryNameNetwork": "CFX",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 0.1,
+        "minConfirm": 400
+      },
+      {
+        "network": "CFXEVM",
+        "secondaryNameNetwork": "CFX eSpace",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.01,
+        "withdrawMin": 0.1,
+        "minConfirm": 400
+      }
+    ]
+  },
+  {
+    "symbol": "T",
+    "name": "T",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 290.0,
+        "withdrawMin": 580.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "SFP",
+    "name": "SFP",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.17,
+        "withdrawMin": 0.34,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "DIA",
+    "name": "DIA",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.22,
+        "withdrawMin": 0.44,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 27.0,
+        "withdrawMin": 54.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ACA",
+    "name": "ACA",
+    "networkList": [
+      {
+        "network": "ACA",
+        "secondaryNameNetwork": "Acala",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.2,
+        "withdrawMin": 1.0,
+        "minConfirm": 4
+      }
+    ]
+  },
+  {
+    "symbol": "ARDR",
+    "name": "ARDR",
+    "networkList": [
+      {
+        "network": "ARDR",
+        "secondaryNameNetwork": "Ardor",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.0,
+        "withdrawMin": 4.0,
+        "minConfirm": 30
+      }
+    ]
+  },
+  {
+    "symbol": "ACH",
+    "name": "ACH",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.3,
+        "withdrawMin": 4.6,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 312.0,
+        "withdrawMin": 624.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BEL",
+    "name": "BEL",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.12,
+        "withdrawMin": 0.24,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.23,
+        "withdrawMin": 0.46,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 12.0,
+        "withdrawMin": 24.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "JUV",
+    "name": "JUV",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 0.02,
+        "minConfirm": 15
+      },
+      {
+        "network": "CHZ",
+        "secondaryNameNetwork": "Chiliz Chain (CHZ)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 1.0,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "ACM",
+    "name": "ACM",
+    "networkList": [
+      {
+        "network": "CHZ",
+        "secondaryNameNetwork": "Chiliz Chain (CHZ)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 1.0,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "MINA",
+    "name": "MINA",
+    "networkList": [
+      {
+        "network": "MINA",
+        "secondaryNameNetwork": "Mina",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.5,
+        "withdrawMin": 2.5,
+        "minConfirm": 20
+      }
+    ]
+  },
+  {
+    "symbol": "VTHO",
+    "name": "VTHO",
+    "networkList": [
+      {
+        "network": "VET",
+        "secondaryNameNetwork": "VeChain",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 200.0,
+        "withdrawMin": 400.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "WOO",
+    "name": "WOO",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.42,
+        "withdrawMin": 0.84,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 35.0,
+        "withdrawMin": 70.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "REI",
+    "name": "REI",
+    "networkList": [
+      {
+        "network": "REI",
+        "secondaryNameNetwork": "REI Network",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.03,
+        "withdrawMin": 0.06,
+        "minConfirm": 5
+      }
+    ]
+  },
+  {
+    "symbol": "REN",
+    "name": "REN",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 105.0,
+        "withdrawMin": 210.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ADA",
+    "name": "ADA",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.25,
+        "withdrawMin": 0.5,
+        "minConfirm": 15
+      },
+      {
+        "network": "ADA",
+        "secondaryNameNetwork": "Cardano",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.8,
+        "withdrawMin": 10.0,
+        "minConfirm": 30
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.42,
+        "withdrawMin": 0.84,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "ELF",
+    "name": "ELF",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.34,
+        "withdrawMin": 0.68,
+        "minConfirm": 15
+      },
+      {
+        "network": "ELF",
+        "secondaryNameNetwork": "AELF",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 2.0,
+        "minConfirm": 10
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.55,
+        "withdrawMin": 1.1,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 29.0,
+        "withdrawMin": 58.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "REQ",
+    "name": "REQ",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 90.0,
+        "withdrawMin": 180.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "STORJ",
+    "name": "STORJ",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 26.0,
+        "withdrawMin": 52.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "DF",
+    "name": "DF",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.65,
+        "withdrawMin": 3.3,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 172.0,
+        "withdrawMin": 344.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "RARE",
+    "name": "RARE",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 81.0,
+        "withdrawMin": 162.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "PAXG",
+    "name": "PAXG",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0041,
+        "withdrawMin": 0.0082,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "CHR",
+    "name": "CHR",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.52,
+        "withdrawMin": 1.04,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 58.0,
+        "withdrawMin": 116.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "WAVES",
+    "name": "WAVES",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.036,
+        "withdrawMin": 0.072,
+        "minConfirm": 15
+      },
+      {
+        "network": "WAVES",
+        "secondaryNameNetwork": "Waves",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0016,
+        "withdrawMin": 0.0032,
+        "minConfirm": 10
+      }
+    ]
+  },
+  {
+    "symbol": "CHZ",
+    "name": "CHZ",
+    "networkList": [
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.45,
+        "withdrawMin": 2.9,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 76.0,
+        "withdrawMin": 152.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ADX",
+    "name": "ADX",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.47,
+        "withdrawMin": 0.94,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 48.0,
+        "withdrawMin": 96.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "XRP",
+    "name": "XRP",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.24,
+        "withdrawMin": 0.48,
+        "minConfirm": 15
+      },
+      {
+        "network": "XRP",
+        "secondaryNameNetwork": "Ripple",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.2,
+        "withdrawMin": 30.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.33,
+        "withdrawMin": 0.66,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 17.0,
+        "withdrawMin": 34.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "FLOKI",
+    "name": "FLOKI",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2617.0,
+        "withdrawMin": 5234.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 252257.0,
+        "withdrawMin": 504514.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "JASMY",
+    "name": "JASMY",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 15.0,
+        "withdrawMin": 30.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1684.0,
+        "withdrawMin": 3368.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "FIDA",
+    "name": "FIDA",
+    "networkList": [
+      {
+        "network": "SOL",
+        "secondaryNameNetwork": "Solana",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.47,
+        "withdrawMin": 0.94,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "SAND",
+    "name": "SAND",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.13,
+        "withdrawMin": 0.26,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 15.0,
+        "withdrawMin": 30.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.33,
+        "withdrawMin": 0.66,
+        "minConfirm": 300
+      }
+    ]
+  },
+  {
+    "symbol": "OCEAN",
+    "name": "OCEAN",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.23,
+        "withdrawMin": 0.46,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 24.0,
+        "withdrawMin": 48.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "FOR",
+    "name": "FOR",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.74,
+        "withdrawMin": 7.48,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 426.0,
+        "withdrawMin": 852.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "UMA",
+    "name": "UMA",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.78,
+        "withdrawMin": 7.56,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "SCRT",
+    "name": "SCRT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.11,
+        "withdrawMin": 0.22,
+        "minConfirm": 15
+      },
+      {
+        "network": "SCRT",
+        "secondaryNameNetwork": "Secret",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.1,
+        "withdrawMin": 0.2,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "TUSD",
+    "name": "TUSD",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.44,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.6,
+        "withdrawMin": 10.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 9.0,
+        "withdrawMin": 30.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "TRX",
+        "secondaryNameNetwork": "Tron (TRC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.8,
+        "withdrawMin": 10.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "TKO",
+    "name": "TKO",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.25,
+        "withdrawMin": 0.5,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "IDRT",
+    "name": "IDRT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1394.0,
+        "withdrawMin": 2788.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 2300.0,
+        "withdrawMin": 4600.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 121490.0,
+        "withdrawMin": 242980.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3000.0,
+        "withdrawMin": 6000.0,
+        "minConfirm": 300
+      }
+    ]
+  },
+  {
+    "symbol": "ENJ",
+    "name": "ENJ",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 23.0,
+        "withdrawMin": 46.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "YFII",
+    "name": "YFII",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 6.9e-05,
+        "withdrawMin": 0.00014,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.00017,
+        "withdrawMin": 0.00034,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0091,
+        "withdrawMin": 0.018,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "OAX",
+    "name": "OAX",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.39,
+        "withdrawMin": 0.78,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 35.0,
+        "withdrawMin": 70.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "GRT",
+    "name": "GRT",
+    "networkList": [
+      {
+        "network": "ARBITRUM",
+        "secondaryNameNetwork": "Arbitrum One",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 5.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 100
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 66.0,
+        "withdrawMin": 132.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.42,
+        "withdrawMin": 2.84,
+        "minConfirm": 300
+      }
+    ]
+  },
+  {
+    "symbol": "HARD",
+    "name": "HARD",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.42,
+        "withdrawMin": 0.84,
+        "minConfirm": 15
+      },
+      {
+        "network": "KAVA",
+        "secondaryNameNetwork": "KAVA",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.068,
+        "withdrawMin": 0.14,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "TFUEL",
+    "name": "TFUEL",
+    "networkList": [
+      {
+        "network": "THETA",
+        "secondaryNameNetwork": "Theta Token",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.49,
+        "withdrawMin": 4.98,
+        "minConfirm": 10
+      }
+    ]
+  },
+  {
+    "symbol": "ENS",
+    "name": "ENS",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.79,
+        "withdrawMin": 1.58,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "TROY",
+    "name": "TROY",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 27.0,
+        "withdrawMin": 54.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 57.0,
+        "withdrawMin": 114.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3062.0,
+        "withdrawMin": 6124.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "UNI",
+    "name": "UNI",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.014,
+        "withdrawMin": 0.028,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.029,
+        "withdrawMin": 0.058,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.54,
+        "withdrawMin": 3.08,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BTCDOWN",
+    "name": "BTCDOWN",
+    "networkList": [
+      {
+        "network": "ETF",
+        "secondaryNameNetwork": "ETF",
+        "depositEnable": false,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "TLM",
+    "name": "TLM",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 4.01,
+        "withdrawMin": 8.02,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 496.0,
+        "withdrawMin": 992.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "CKB",
+    "name": "CKB",
+    "networkList": [
+      {
+        "network": "CKB",
+        "secondaryNameNetwork": "Nervos Network",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 100.0,
+        "minConfirm": 24
+      }
+    ]
+  },
+  {
+    "symbol": "WRX",
+    "name": "WRX",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.48,
+        "withdrawMin": 0.96,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.26,
+        "withdrawMin": 2.52,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 66.0,
+        "withdrawMin": 132.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "LUNC",
+    "name": "LUNC",
+    "networkList": [
+      {
+        "network": "LUNC",
+        "secondaryNameNetwork": "Terra Classic",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 22.66,
+        "withdrawMin": 30000.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "XTZ",
+    "name": "XTZ",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.02,
+        "withdrawMin": 0.1,
+        "minConfirm": 15
+      },
+      {
+        "network": "XTZ",
+        "secondaryNameNetwork": "Tezos",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.1,
+        "withdrawMin": 1.0,
+        "minConfirm": 4
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.17,
+        "withdrawMin": 0.34,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "LUNA",
+    "name": "LUNA",
+    "networkList": [
+      {
+        "network": "LUNA",
+        "secondaryNameNetwork": "Terra",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 10.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "ETHDOWN",
+    "name": "ETHDOWN",
+    "networkList": [
+      {
+        "network": "ETF",
+        "secondaryNameNetwork": "ETF",
+        "depositEnable": false,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "EOS",
+    "name": "EOS",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.081,
+        "withdrawMin": 0.16,
+        "minConfirm": 15
+      },
+      {
+        "network": "EOS",
+        "secondaryNameNetwork": "EOS",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.08,
+        "withdrawMin": 0.2,
+        "minConfirm": 1
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.18,
+        "withdrawMin": 0.36,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "RIF",
+    "name": "RIF",
+    "networkList": [
+      {
+        "network": "RSK",
+        "secondaryNameNetwork": "RSK",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.0,
+        "withdrawMin": 6.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "SKL",
+    "name": "SKL",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 250.0,
+        "withdrawMin": 500.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "GTC",
+    "name": "GTC",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 5.75,
+        "withdrawMin": 11.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BURGER",
+    "name": "BURGER",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.12,
+        "withdrawMin": 0.24,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.33,
+        "withdrawMin": 0.66,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "HOOK",
+    "name": "HOOK",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.039,
+        "withdrawMin": 0.078,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "WTC",
+    "name": "WTC",
+    "networkList": [
+      {
+        "network": "WTC",
+        "secondaryNameNetwork": "Walton",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 1.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 48.0,
+        "withdrawMin": 96.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "XVG",
+    "name": "XVG",
+    "networkList": [
+      {
+        "network": "XVG",
+        "secondaryNameNetwork": "Verge",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.1,
+        "withdrawMin": 0.2,
+        "minConfirm": 30
+      }
+    ]
+  },
+  {
+    "symbol": "CLV",
+    "name": "CLV",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.15,
+        "withdrawMin": 2.3,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 167.0,
+        "withdrawMin": 334.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "EPX",
+    "name": "EPX",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 253.0,
+        "withdrawMin": 506.0,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "FLOW",
+    "name": "FLOW",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.076,
+        "withdrawMin": 0.15,
+        "minConfirm": 15
+      },
+      {
+        "network": "FLOW",
+        "secondaryNameNetwork": "Flow",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.008,
+        "withdrawMin": 2.7,
+        "minConfirm": 20
+      }
+    ]
+  },
+  {
+    "symbol": "XVS",
+    "name": "XVS",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.016,
+        "withdrawMin": 0.032,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "STEEM",
+    "name": "STEEM",
+    "networkList": [
+      {
+        "network": "STEEM",
+        "secondaryNameNetwork": "Steem",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 0.02,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "SLP",
+    "name": "SLP",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 27.0,
+        "withdrawMin": 54.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3625.0,
+        "withdrawMin": 7250.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "RON",
+        "secondaryNameNetwork": "Ronin",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 154.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ID",
+    "name": "ID",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 2.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 16.0,
+        "withdrawMin": 32.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "LAZIO",
+    "name": "LAZIO",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.028,
+        "withdrawMin": 0.056,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "DOT",
+    "name": "DOT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.014,
+        "withdrawMin": 0.028,
+        "minConfirm": 15
+      },
+      {
+        "network": "DOT",
+        "secondaryNameNetwork": "Polkadot",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.08,
+        "withdrawMin": 1.5,
+        "minConfirm": 3
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.029,
+        "withdrawMin": 0.058,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "1INCH",
+    "name": "1INCH",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.16,
+        "withdrawMin": 0.32,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 20.0,
+        "withdrawMin": 40.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "CHESS",
+    "name": "CHESS",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.24,
+        "withdrawMin": 0.48,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "DEGO",
+    "name": "DEGO",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 12.0,
+        "withdrawMin": 20.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 12.0,
+        "withdrawMin": 20.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "UNFI",
+    "name": "UNFI",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.015,
+        "withdrawMin": 0.03,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.86,
+        "withdrawMin": 3.72,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "FTM",
+    "name": "FTM",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.2,
+        "withdrawMin": 0.4,
+        "minConfirm": 15
+      },
+      {
+        "network": "FTM",
+        "secondaryNameNetwork": "Fantom",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.3,
+        "withdrawMin": 10.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.42,
+        "withdrawMin": 0.84,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 22.0,
+        "withdrawMin": 44.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "POWR",
+    "name": "POWR",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 49.0,
+        "withdrawMin": 98.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ERN",
+    "name": "ERN",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 4.17,
+        "withdrawMin": 8.34,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "VOXEL",
+    "name": "VOXEL",
+    "networkList": [
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.93,
+        "withdrawMin": 1.86,
+        "minConfirm": 300
+      }
+    ]
+  },
+  {
+    "symbol": "PHA",
+    "name": "PHA",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.54,
+        "withdrawMin": 1.08,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 16.0,
+        "withdrawMin": 32.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "RLC",
+    "name": "RLC",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 5.08,
+        "withdrawMin": 10.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "PHB",
+    "name": "PHB",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.071,
+        "withdrawMin": 0.14,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "ATOM",
+    "name": "ATOM",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0072,
+        "withdrawMin": 0.014,
+        "minConfirm": 15
+      },
+      {
+        "network": "ATOM",
+        "secondaryNameNetwork": "Cosmos",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.004,
+        "withdrawMin": 0.01,
+        "minConfirm": 10
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.015,
+        "withdrawMin": 0.03,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "QUICK",
+    "name": "QUICK",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.14,
+        "withdrawMin": 0.28,
+        "minConfirm": 12
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.003,
+        "withdrawMin": 0.006,
+        "minConfirm": 300
+      }
+    ]
+  },
+  {
+    "symbol": "BLZ",
+    "name": "BLZ",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.79,
+        "withdrawMin": 1.58,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 126.0,
+        "withdrawMin": 252.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "MBL",
+    "name": "MBL",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 23.0,
+        "withdrawMin": 46.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "ONT",
+        "secondaryNameNetwork": "Ontology",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.83,
+        "withdrawMin": 7.66,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "BNBUP",
+    "name": "BNBUP",
+    "networkList": [
+      {
+        "network": "ETF",
+        "secondaryNameNetwork": "ETF",
+        "depositEnable": false,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "SNT",
+    "name": "SNT",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 333.0,
+        "withdrawMin": 666.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "SNX",
+    "name": "SNX",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.032,
+        "withdrawMin": 0.064,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.065,
+        "withdrawMin": 0.13,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.43,
+        "withdrawMin": 6.86,
+        "minConfirm": 12
+      },
+      {
+        "network": "OPTIMISM",
+        "secondaryNameNetwork": "Optimism",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.2,
+        "withdrawMin": 1.0,
+        "minConfirm": 50
+      }
+    ]
+  },
+  {
+    "symbol": "FUN",
+    "name": "FUN",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1616.0,
+        "withdrawMin": 3232.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "COS",
+    "name": "COS",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 12.0,
+        "withdrawMin": 24.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 26.0,
+        "withdrawMin": 52.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1377.0,
+        "withdrawMin": 2754.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "API3",
+    "name": "API3",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 6.48,
+        "withdrawMin": 12.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "QKC",
+    "name": "QKC",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 7.95,
+        "withdrawMin": 15.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 842.0,
+        "withdrawMin": 1684.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ROSE",
+    "name": "ROSE",
+    "networkList": [
+      {
+        "network": "ROSE",
+        "secondaryNameNetwork": "Oasis Network",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.1,
+        "withdrawMin": 1.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "GLMR",
+    "name": "GLMR",
+    "networkList": [
+      {
+        "network": "GLMR",
+        "secondaryNameNetwork": "Moonbeam",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 1.0,
+        "minConfirm": 30
+      },
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.21,
+        "withdrawMin": 0.42,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "SOL",
+    "name": "SOL",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.004,
+        "withdrawMin": 0.008,
+        "minConfirm": 15
+      },
+      {
+        "network": "SOL",
+        "secondaryNameNetwork": "Solana",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.008,
+        "withdrawMin": 0.02,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "CITY",
+    "name": "CITY",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.02,
+        "withdrawMin": 0.04,
+        "minConfirm": 15
+      },
+      {
+        "network": "CHZ",
+        "secondaryNameNetwork": "Chiliz Chain (CHZ)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 1.0,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "ETC",
+    "name": "ETC",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0043,
+        "withdrawMin": 0.0086,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETC",
+        "secondaryNameNetwork": "Ethereum Classic",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.008,
+        "withdrawMin": 0.02,
+        "minConfirm": 70
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0085,
+        "withdrawMin": 0.017,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "BNB",
+    "name": "BNB",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0005,
+        "withdrawMin": 0.001,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0005,
+        "withdrawMin": 0.01,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.012,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "CELR",
+    "name": "CELR",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 4.38,
+        "withdrawMin": 8.76,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 369.0,
+        "withdrawMin": 738.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "OGN",
+    "name": "OGN",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.66,
+        "withdrawMin": 1.32,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 86.0,
+        "withdrawMin": 172.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ETH",
+    "name": "ETH",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 5.6e-05,
+        "withdrawMin": 0.00011,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0023,
+        "withdrawMin": 0.0098,
+        "minConfirm": 12
+      },
+      {
+        "network": "ARBITRUM",
+        "secondaryNameNetwork": "Arbitrum One",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.00035,
+        "withdrawMin": 0.0008,
+        "minConfirm": 100
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 8.5e-05,
+        "withdrawMin": 0.00017,
+        "minConfirm": 1
+      },
+      {
+        "network": "OPTIMISM",
+        "secondaryNameNetwork": "Optimism",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.00035,
+        "withdrawMin": 0.001,
+        "minConfirm": 50
+      }
+    ]
+  },
+  {
+    "symbol": "NEO",
+    "name": "NEO",
+    "networkList": [
+      {
+        "network": "NEO",
+        "secondaryNameNetwork": "Neo Legacy",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 1.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "NEO3",
+        "secondaryNameNetwork": "NEO N3",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 1.0,
+        "minConfirm": 5
+      }
+    ]
+  },
+  {
+    "symbol": "TOMO",
+    "name": "TOMO",
+    "networkList": [
+      {
+        "network": "TOMO",
+        "secondaryNameNetwork": "TomoChain",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 0.02,
+        "minConfirm": 150
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.15,
+        "withdrawMin": 0.3,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 7.8,
+        "withdrawMin": 15.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "CELO",
+    "name": "CELO",
+    "networkList": [
+      {
+        "network": "CELO",
+        "secondaryNameNetwork": "CELO",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.001,
+        "withdrawMin": 0.002,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "KLAY",
+    "name": "KLAY",
+    "networkList": [
+      {
+        "network": "KLAY",
+        "secondaryNameNetwork": "Klaytn",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.005,
+        "withdrawMin": 1.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "AUCTION",
+    "name": "AUCTION",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.015,
+        "withdrawMin": 0.03,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.62,
+        "withdrawMin": 3.24,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BADGER",
+    "name": "BADGER",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.21,
+        "withdrawMin": 6.42,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "MULTI",
+    "name": "MULTI",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0086,
+        "withdrawMin": 0.017,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "HIGH",
+    "name": "HIGH",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.031,
+        "withdrawMin": 0.062,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 4.91,
+        "withdrawMin": 9.82,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "TRB",
+    "name": "TRB",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.66,
+        "withdrawMin": 1.32,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BNT",
+    "name": "BNT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.19,
+        "withdrawMin": 0.38,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 19.0,
+        "withdrawMin": 38.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BNX",
+    "name": "BNX",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.082,
+        "withdrawMin": 0.16,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "UTK",
+    "name": "UTK",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 75.0,
+        "withdrawMin": 150.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "EGLD",
+        "secondaryNameNetwork": "MultiversX eGold",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 20.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "AMB",
+    "name": "AMB",
+    "networkList": [
+      {
+        "network": "AMB",
+        "secondaryNameNetwork": "Ambrosus",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 2.0,
+        "minConfirm": 25
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 842.0,
+        "withdrawMin": 1684.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "MC",
+    "name": "MC",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.23,
+        "withdrawMin": 0.46,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 34.0,
+        "withdrawMin": 68.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "TRU",
+    "name": "TRU",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.31,
+        "withdrawMin": 2.62,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 166.0,
+        "withdrawMin": 332.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "DREP",
+    "name": "DREP",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.18,
+        "withdrawMin": 0.36,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 22.0,
+        "withdrawMin": 44.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "TRX",
+    "name": "TRX",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.31,
+        "withdrawMin": 2.62,
+        "minConfirm": 15
+      },
+      {
+        "network": "TRX",
+        "secondaryNameNetwork": "Tron (TRC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 2.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 2.17,
+        "withdrawMin": 4.34,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "MDT",
+    "name": "MDT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.52,
+        "withdrawMin": 3.04,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 190.0,
+        "withdrawMin": 380.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "MDX",
+    "name": "MDX",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.92,
+        "withdrawMin": 1.84,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "AERGO",
+    "name": "AERGO",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 69.0,
+        "withdrawMin": 138.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "EUR",
+    "name": "EUR",
+    "networkList": [
+      {
+        "network": "FIAT_MONEY",
+        "secondaryNameNetwork": "FIAT",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "AMP",
+    "name": "AMP",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3031.0,
+        "withdrawMin": 6062.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "HIFI",
+    "name": "HIFI",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 22.0,
+        "withdrawMin": 44.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "NULS",
+    "name": "NULS",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.32,
+        "withdrawMin": 0.64,
+        "minConfirm": 15
+      },
+      {
+        "network": "NULS",
+        "secondaryNameNetwork": "Nuls",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 0.02,
+        "minConfirm": 30
+      }
+    ]
+  },
+  {
+    "symbol": "USTC",
+    "name": "USTC",
+    "networkList": [
+      {
+        "network": "LUNC",
+        "secondaryNameNetwork": "Terra Classic",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.6,
+        "withdrawMin": 200.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "RON",
+    "name": "RON",
+    "networkList": [
+      {
+        "network": "FIAT_MONEY",
+        "secondaryNameNetwork": "FIAT",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "NGN",
+    "name": "NGN",
+    "networkList": [
+      {
+        "network": "FIAT_MONEY",
+        "secondaryNameNetwork": "FIAT",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "EGLD",
+    "name": "EGLD",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0019,
+        "withdrawMin": 0.0038,
+        "minConfirm": 15
+      },
+      {
+        "network": "EGLD",
+        "secondaryNameNetwork": "MultiversX eGold",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0008,
+        "withdrawMin": 0.01,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "SPELL",
+    "name": "SPELL",
+    "networkList": [
+      {
+        "network": "AVAXC",
+        "secondaryNameNetwork": "AVAX C-Chain",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 50.0,
+        "withdrawMin": 100.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 13725.0,
+        "withdrawMin": 27450.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "PUNDIX",
+    "name": "PUNDIX",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 19.0,
+        "withdrawMin": 38.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "FXS",
+    "name": "FXS",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0084,
+        "withdrawMin": 0.017,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.14,
+        "withdrawMin": 2.28,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "PLA",
+    "name": "PLA",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 8.0,
+        "withdrawMin": 16.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.91,
+        "withdrawMin": 1.82,
+        "minConfirm": 300
+      }
+    ]
+  },
+  {
+    "symbol": "CRV",
+    "name": "CRV",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 9.88,
+        "withdrawMin": 19.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BAKE",
+    "name": "BAKE",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.37,
+        "withdrawMin": 0.74,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 1.03,
+        "withdrawMin": 2.06,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "ANT",
+    "name": "ANT",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.43,
+        "withdrawMin": 4.86,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "FLUX",
+    "name": "FLUX",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.11,
+        "withdrawMin": 0.22,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 16.0,
+        "withdrawMin": 32.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "RPL",
+    "name": "RPL",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.17,
+        "withdrawMin": 0.34,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "PLN",
+    "name": "PLN",
+    "networkList": [
+      {
+        "network": "FIAT_MONEY",
+        "secondaryNameNetwork": "FIAT",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "MAGIC",
+    "name": "MAGIC",
+    "networkList": [
+      {
+        "network": "ARBITRUM",
+        "secondaryNameNetwork": "Arbitrum One",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.3,
+        "withdrawMin": 2.0,
+        "minConfirm": 100
+      }
+    ]
+  },
+  {
+    "symbol": "LDO",
+    "name": "LDO",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.78,
+        "withdrawMin": 7.56,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "QNT",
+    "name": "QNT",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.079,
+        "withdrawMin": 0.16,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ALICE",
+    "name": "ALICE",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.047,
+        "withdrawMin": 0.094,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 6.24,
+        "withdrawMin": 12.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "OG",
+    "name": "OG",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.02,
+        "withdrawMin": 0.04,
+        "minConfirm": 15
+      },
+      {
+        "network": "CHZ",
+        "secondaryNameNetwork": "Chiliz Chain (CHZ)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 1.0,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "OM",
+    "name": "OM",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.13,
+        "withdrawMin": 4.26,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 288.0,
+        "withdrawMin": 576.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "OP",
+    "name": "OP",
+    "networkList": [
+      {
+        "network": "OPTIMISM",
+        "secondaryNameNetwork": "Optimism",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.2,
+        "withdrawMin": 2.0,
+        "minConfirm": 50
+      }
+    ]
+  },
+  {
+    "symbol": "BETH",
+    "name": "BETH",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 5.7e-05,
+        "withdrawMin": 0.00011,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "BETA",
+    "name": "BETA",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.87,
+        "withdrawMin": 1.74,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 83.0,
+        "withdrawMin": 166.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "APE",
+    "name": "APE",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.018,
+        "withdrawMin": 0.036,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.39,
+        "withdrawMin": 4.78,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "SSV",
+    "name": "SSV",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.34,
+        "withdrawMin": 0.68,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BUSD",
+    "name": "BUSD",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.7,
+        "withdrawMin": 9.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "AVAXC",
+        "secondaryNameNetwork": "AVAX C-Chain",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.8,
+        "withdrawMin": 10.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.7,
+        "withdrawMin": 10.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 9.2,
+        "withdrawMin": 40.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "OPTIMISM",
+        "secondaryNameNetwork": "Optimism",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.8,
+        "withdrawMin": 10.0,
+        "minConfirm": 50
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.8,
+        "withdrawMin": 10.0,
+        "minConfirm": 300
+      },
+      {
+        "network": "TRX",
+        "secondaryNameNetwork": "Tron (TRC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "CTK",
+    "name": "CTK",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.11,
+        "withdrawMin": 0.22,
+        "minConfirm": 15
+      },
+      {
+        "network": "CTK",
+        "secondaryNameNetwork": "CertiK",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 0.02,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "ARPA",
+    "name": "ARPA",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.15,
+        "withdrawMin": 4.3,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 3.12,
+        "withdrawMin": 6.24,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 165.0,
+        "withdrawMin": 330.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BRL",
+    "name": "BRL",
+    "networkList": [
+      {
+        "network": "FIAT_MONEY",
+        "secondaryNameNetwork": "FIAT",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "ALCX",
+    "name": "ALCX",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.46,
+        "withdrawMin": 0.92,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "MATIC",
+    "name": "MATIC",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.074,
+        "withdrawMin": 0.15,
+        "minConfirm": 15
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.1,
+        "withdrawMin": 10.0,
+        "minConfirm": 300
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.18,
+        "withdrawMin": 0.36,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 9.72,
+        "withdrawMin": 19.44,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "APT",
+    "name": "APT",
+    "networkList": [
+      {
+        "network": "APT",
+        "secondaryNameNetwork": "APT",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 0.02,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "STG",
+    "name": "STG",
+    "networkList": [
+      {
+        "network": "AVAXC",
+        "secondaryNameNetwork": "AVAX C-Chain",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.5,
+        "withdrawMin": 5.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "ARBITRUM",
+        "secondaryNameNetwork": "Arbitrum One",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.2,
+        "withdrawMin": 5.0,
+        "minConfirm": 100
+      },
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.085,
+        "withdrawMin": 0.17,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 13.0,
+        "withdrawMin": 26.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "FTM",
+        "secondaryNameNetwork": "Fantom",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.5,
+        "withdrawMin": 5.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.28,
+        "withdrawMin": 0.56,
+        "minConfirm": 300
+      }
+    ]
+  },
+  {
+    "symbol": "IOTX",
+    "name": "IOTX",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.27,
+        "withdrawMin": 6.54,
+        "minConfirm": 15
+      },
+      {
+        "network": "IOTX",
+        "secondaryNameNetwork": "IoTeX",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.1,
+        "withdrawMin": 1.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 6.83,
+        "withdrawMin": 13.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "SHIB",
+    "name": "SHIB",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 7306.0,
+        "withdrawMin": 14612.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 941366.0,
+        "withdrawMin": 1882732.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "TVK",
+    "name": "TVK",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 242.0,
+        "withdrawMin": 484.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "FRONT",
+    "name": "FRONT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.37,
+        "withdrawMin": 0.74,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 45.0,
+        "withdrawMin": 90.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "KDA",
+    "name": "KDA",
+    "networkList": [
+      {
+        "network": "KDA",
+        "secondaryNameNetwork": "Kadena",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "KDA2",
+        "secondaryNameNetwork": "Kadena",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.1,
+        "withdrawMin": 0.2,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "DOCK",
+    "name": "DOCK",
+    "networkList": [
+      {
+        "network": "DOCK",
+        "secondaryNameNetwork": "DOCK",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 5.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 5
+      }
+    ]
+  },
+  {
+    "symbol": "STX",
+    "name": "STX",
+    "networkList": [
+      {
+        "network": "STX",
+        "secondaryNameNetwork": "Stacks",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.5,
+        "withdrawMin": 5.0,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "PNT",
+    "name": "PNT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.37,
+        "withdrawMin": 0.74,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 63.0,
+        "withdrawMin": 126.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "QI",
+    "name": "QI",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 7.95,
+        "withdrawMin": 15.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "AVAXC",
+        "secondaryNameNetwork": "AVAX C-Chain",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 5.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "DENT",
+    "name": "DENT",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 9574.0,
+        "withdrawMin": 19148.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "MBOX",
+    "name": "MBOX",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.17,
+        "withdrawMin": 0.34,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "IOST",
+    "name": "IOST",
+    "networkList": [
+      {
+        "network": "IOST",
+        "secondaryNameNetwork": "IOST",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 2.0,
+        "minConfirm": 13
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 866.0,
+        "withdrawMin": 1732.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "SUI",
+    "name": "SUI",
+    "networkList": [
+      {
+        "network": "SUI",
+        "secondaryNameNetwork": "Sui",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.02,
+        "withdrawMin": 1.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "CAKE",
+    "name": "CAKE",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.023,
+        "withdrawMin": 0.046,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.084,
+        "withdrawMin": 0.17,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "BSW",
+    "name": "BSW",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.42,
+        "withdrawMin": 0.84,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "ETHUP",
+    "name": "ETHUP",
+    "networkList": [
+      {
+        "network": "ETF",
+        "secondaryNameNetwork": "ETF",
+        "depositEnable": false,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "OMG",
+    "name": "OMG",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 10.0,
+        "withdrawMin": 20.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BAND",
+    "name": "BAND",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.045,
+        "withdrawMin": 0.09,
+        "minConfirm": 15
+      },
+      {
+        "network": "BAND",
+        "secondaryNameNetwork": "BAND",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 0.02,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.1,
+        "withdrawMin": 0.2,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 5.48,
+        "withdrawMin": 10.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "SUN",
+    "name": "SUN",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 13.0,
+        "withdrawMin": 26.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "TRX",
+        "secondaryNameNetwork": "Tron (TRC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 12.0,
+        "withdrawMin": 24.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "ASTR",
+    "name": "ASTR",
+    "networkList": [
+      {
+        "network": "ASTR",
+        "secondaryNameNetwork": "Astar Network",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.0,
+        "withdrawMin": 5.0,
+        "minConfirm": 3
+      }
+    ]
+  },
+  {
+    "symbol": "BTC",
+    "name": "BTC",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.9e-06,
+        "withdrawMin": 7.8e-06,
+        "minConfirm": 15
+      },
+      {
+        "network": "BTC",
+        "secondaryNameNetwork": "Bitcoin",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.00025,
+        "withdrawMin": 0.002,
+        "minConfirm": 1
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 5.7e-06,
+        "withdrawMin": 1.1e-05,
+        "minConfirm": 1
+      },
+      {
+        "network": "SEGWITBTC",
+        "secondaryNameNetwork": "BTC(SegWit)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0005,
+        "withdrawMin": 0.001,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0003,
+        "withdrawMin": 0.0006,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "TWT",
+    "name": "TWT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.067,
+        "withdrawMin": 0.13,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.14,
+        "withdrawMin": 0.28,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "NKN",
+    "name": "NKN",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 81.0,
+        "withdrawMin": 162.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "RSR",
+    "name": "RSR",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2696.0,
+        "withdrawMin": 5392.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ARB",
+    "name": "ARB",
+    "networkList": [
+      {
+        "network": "ARBITRUM",
+        "secondaryNameNetwork": "Arbitrum One",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.3,
+        "withdrawMin": 2.0,
+        "minConfirm": 100
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 7.06,
+        "withdrawMin": 14.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "IOTA",
+    "name": "IOTA",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.37,
+        "withdrawMin": 0.74,
+        "minConfirm": 15
+      },
+      {
+        "network": "IOTA",
+        "secondaryNameNetwork": "MIOTA",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.5,
+        "withdrawMin": 69.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "CVC",
+    "name": "CVC",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 91.0,
+        "withdrawMin": 182.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "REEF",
+    "name": "REEF",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 27.0,
+        "withdrawMin": 54.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "REEF",
+        "secondaryNameNetwork": "Reef",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 10.0,
+        "withdrawMin": 20.0,
+        "minConfirm": 4
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3641.0,
+        "withdrawMin": 7282.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "LOKA",
+    "name": "LOKA",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 22.0,
+        "withdrawMin": 44.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "CVP",
+    "name": "CVP",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": false,
+        "withdrawEnable": false,
+        "withdrawFee": 0.17,
+        "withdrawMin": 0.34,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 21.0,
+        "withdrawMin": 42.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "KEY",
+    "name": "KEY",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1622.0,
+        "withdrawMin": 3244.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BTS",
+    "name": "BTS",
+    "networkList": [
+      {
+        "network": "BTS",
+        "secondaryNameNetwork": "BitShares",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 2.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "ARS",
+    "name": "ARS",
+    "networkList": [
+      {
+        "network": "FIAT_MONEY",
+        "secondaryNameNetwork": "FIAT",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "CVX",
+    "name": "CVX",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.76,
+        "withdrawMin": 3.52,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ONE",
+    "name": "ONE",
+    "networkList": [
+      {
+        "network": "ONE",
+        "secondaryNameNetwork": "Harmony",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.1,
+        "withdrawMin": 60.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0,
+        "withdrawMin": 8.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "ONG",
+    "name": "ONG",
+    "networkList": [
+      {
+        "network": "ONT",
+        "secondaryNameNetwork": "Ontology",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.043,
+        "withdrawMin": 0.086,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "ANKR",
+    "name": "ANKR",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.18,
+        "withdrawMin": 4.36,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 5.98,
+        "withdrawMin": 11.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 315.0,
+        "withdrawMin": 630.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "SUSHI",
+    "name": "SUSHI",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.071,
+        "withdrawMin": 0.14,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.17,
+        "withdrawMin": 0.34,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 9.13,
+        "withdrawMin": 18.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ALGO",
+    "name": "ALGO",
+    "networkList": [
+      {
+        "network": "ALGO",
+        "secondaryNameNetwork": "Algorand",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.008,
+        "withdrawMin": 10.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "SC",
+    "name": "SC",
+    "networkList": [
+      {
+        "network": "SC",
+        "secondaryNameNetwork": "Siacoin",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.1,
+        "withdrawMin": 0.2,
+        "minConfirm": 6
+      }
+    ]
+  },
+  {
+    "symbol": "WBTC",
+    "name": "WBTC",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0003,
+        "withdrawMin": 0.0006,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ONT",
+    "name": "ONT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.35,
+        "withdrawMin": 0.7,
+        "minConfirm": 15
+      },
+      {
+        "network": "ONT",
+        "secondaryNameNetwork": "Ontology",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 2.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.71,
+        "withdrawMin": 1.42,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "BTTC",
+    "name": "BTTC",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 129810.0,
+        "withdrawMin": 259620.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "TRX",
+        "secondaryNameNetwork": "Tron (TRC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 120000.0,
+        "withdrawMin": 240000.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "RUB",
+    "name": "RUB",
+    "networkList": [
+      {
+        "network": "FIAT_MONEY",
+        "secondaryNameNetwork": "FIAT",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "ASR",
+    "name": "ASR",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.02,
+        "withdrawMin": 0.04,
+        "minConfirm": 15
+      },
+      {
+        "network": "CHZ",
+        "secondaryNameNetwork": "Chiliz Chain (CHZ)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 1.0,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "FIRO",
+    "name": "FIRO",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.037,
+        "withdrawMin": 0.074,
+        "minConfirm": 15
+      },
+      {
+        "network": "FIRO",
+        "secondaryNameNetwork": "Firo",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.02,
+        "withdrawMin": 0.04,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "AST",
+    "name": "AST",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 44.0,
+        "withdrawMin": 88.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "MANA",
+    "name": "MANA",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.14,
+        "withdrawMin": 0.28,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 16.0,
+        "withdrawMin": 32.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ATA",
+    "name": "ATA",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.52,
+        "withdrawMin": 1.04,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 62.0,
+        "withdrawMin": 124.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "NMR",
+    "name": "NMR",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.56,
+        "withdrawMin": 1.12,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "MKR",
+    "name": "MKR",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.00012,
+        "withdrawMin": 0.00024,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.00025,
+        "withdrawMin": 0.0005,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.013,
+        "withdrawMin": 0.026,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "DODO",
+    "name": "DODO",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.35,
+        "withdrawMin": 0.7,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 61.0,
+        "withdrawMin": 122.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "LIT",
+    "name": "LIT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.071,
+        "withdrawMin": 0.14,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 9.61,
+        "withdrawMin": 19.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ICP",
+    "name": "ICP",
+    "networkList": [
+      {
+        "network": "ICP",
+        "secondaryNameNetwork": "Internet Computer",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0003,
+        "withdrawMin": 0.001,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "ZEC",
+    "name": "ZEC",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0021,
+        "withdrawMin": 0.0042,
+        "minConfirm": 15
+      },
+      {
+        "network": "ZEC",
+        "secondaryNameNetwork": "Zcash",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.001,
+        "withdrawMin": 0.01,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0046,
+        "withdrawMin": 0.0092,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "ATM",
+    "name": "ATM",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.02,
+        "withdrawMin": 0.04,
+        "minConfirm": 15
+      },
+      {
+        "network": "CHZ",
+        "secondaryNameNetwork": "Chiliz Chain (CHZ)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 1.0,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "ICX",
+    "name": "ICX",
+    "networkList": [
+      {
+        "network": "ICX",
+        "secondaryNameNetwork": "ICON",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.02,
+        "withdrawMin": 0.04,
+        "minConfirm": 3
+      }
+    ]
+  },
+  {
+    "symbol": "POLYX",
+    "name": "POLYX",
+    "networkList": [
+      {
+        "network": "POLYX",
+        "secondaryNameNetwork": "POLYX",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 5.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 4
+      }
+    ]
+  },
+  {
+    "symbol": "LOOM",
+    "name": "LOOM",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.58,
+        "withdrawMin": 3.16,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 157.0,
+        "withdrawMin": 314.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ZEN",
+    "name": "ZEN",
+    "networkList": [
+      {
+        "network": "ZEN",
+        "secondaryNameNetwork": "Horizen",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.002,
+        "withdrawMin": 0.004,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "KP3R",
+    "name": "KP3R",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.13,
+        "withdrawMin": 0.26,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "DOGE",
+    "name": "DOGE",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.1,
+        "withdrawMin": 2.2,
+        "minConfirm": 15
+      },
+      {
+        "network": "DOGE",
+        "secondaryNameNetwork": "dogecoin",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 4.0,
+        "withdrawMin": 80.0,
+        "minConfirm": 6
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.1,
+        "withdrawMin": 4.2,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "DUSK",
+    "name": "DUSK",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.43,
+        "withdrawMin": 0.86,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 1.03,
+        "withdrawMin": 2.06,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 54.0,
+        "withdrawMin": 108.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ALPHA",
+    "name": "ALPHA",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.67,
+        "withdrawMin": 1.34,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 79.0,
+        "withdrawMin": 158.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "HBAR",
+    "name": "HBAR",
+    "networkList": [
+      {
+        "network": "HBAR",
+        "secondaryNameNetwork": "Hedera Hashgraph",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.8,
+        "withdrawMin": 2.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "SXP",
+    "name": "SXP",
+    "networkList": [
+      {
+        "network": "SXP",
+        "secondaryNameNetwork": "Solar",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.1,
+        "withdrawMin": 0.2,
+        "minConfirm": 53
+      }
+    ]
+  },
+  {
+    "symbol": "RVN",
+    "name": "RVN",
+    "networkList": [
+      {
+        "network": "RVN",
+        "secondaryNameNetwork": "Ravencoin",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 2.0,
+        "minConfirm": 30
+      }
+    ]
+  },
+  {
+    "symbol": "MLN",
+    "name": "MLN",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 0.02,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "PEPE",
+    "name": "PEPE",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 5403208.0,
+        "withdrawMin": 10806416.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "AUD",
+    "name": "AUD",
+    "networkList": [
+      {
+        "network": "FIAT_MONEY",
+        "secondaryNameNetwork": "FIAT",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "CTSI",
+    "name": "CTSI",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.54,
+        "withdrawMin": 1.08,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 43.0,
+        "withdrawMin": 86.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "KAVA",
+    "name": "KAVA",
+    "networkList": [
+      {
+        "network": "KAVA",
+        "secondaryNameNetwork": "KAVA",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 2.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.15,
+        "withdrawMin": 0.3,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "C98",
+    "name": "C98",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.33,
+        "withdrawMin": 0.66,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 39.0,
+        "withdrawMin": 78.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "OSMO",
+    "name": "OSMO",
+    "networkList": [
+      {
+        "network": "OSMO",
+        "secondaryNameNetwork": "Osmosis",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.001,
+        "withdrawMin": 0.1,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "PSG",
+    "name": "PSG",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 0.02,
+        "minConfirm": 15
+      },
+      {
+        "network": "CHZ",
+        "secondaryNameNetwork": "Chiliz Chain (CHZ)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 1.0,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "SYN",
+    "name": "SYN",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.07,
+        "withdrawMin": 0.14,
+        "minConfirm": 15
+      },
+      {
+        "network": "AVAXC",
+        "secondaryNameNetwork": "AVAX C-Chain",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.67,
+        "withdrawMin": 3.2,
+        "minConfirm": 12
+      },
+      {
+        "network": "ARBITRUM",
+        "secondaryNameNetwork": "Arbitrum One",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.14,
+        "withdrawMin": 0.28,
+        "minConfirm": 100
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 13.0,
+        "withdrawMin": 26.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "FTM",
+        "secondaryNameNetwork": "Fantom",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 1.67,
+        "withdrawMin": 3.3,
+        "minConfirm": 1
+      },
+      {
+        "network": "OPTIMISM",
+        "secondaryNameNetwork": "Optimism",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.3,
+        "withdrawMin": 0.6,
+        "minConfirm": 50
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.28,
+        "withdrawMin": 0.56,
+        "minConfirm": 300
+      }
+    ]
+  },
+  {
+    "symbol": "VIDT",
+    "name": "VIDT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.16,
+        "withdrawMin": 4.32,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 256.0,
+        "withdrawMin": 512.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "AVA",
+    "name": "AVA",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.12,
+        "withdrawMin": 0.24,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.28,
+        "withdrawMin": 0.56,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 14.0,
+        "withdrawMin": 28.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "SYS",
+    "name": "SYS",
+    "networkList": [
+      {
+        "network": "SYS",
+        "secondaryNameNetwork": "Syscoin",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 2.0,
+        "minConfirm": 2
+      }
+    ]
+  },
+  {
+    "symbol": "COCOS",
+    "name": "COCOS",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.039,
+        "withdrawMin": 0.078,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.09,
+        "withdrawMin": 0.18,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 4.74,
+        "withdrawMin": 9.48,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "STRAX",
+    "name": "STRAX",
+    "networkList": [
+      {
+        "network": "STRAX",
+        "secondaryNameNetwork": "Stratis",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.1,
+        "withdrawMin": 0.2,
+        "minConfirm": 25
+      }
+    ]
+  },
+  {
+    "symbol": "GAL",
+    "name": "GAL",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.047,
+        "withdrawMin": 0.094,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 5.66,
+        "withdrawMin": 11.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "GAS",
+    "name": "GAS",
+    "networkList": [
+      {
+        "network": "NEO3",
+        "secondaryNameNetwork": "NEO N3",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.05,
+        "withdrawMin": 0.1,
+        "minConfirm": 5
+      },
+      {
+        "network": "NEO",
+        "secondaryNameNetwork": "Neo Legacy",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.005,
+        "withdrawMin": 1.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "THETA",
+    "name": "THETA",
+    "networkList": [
+      {
+        "network": "THETA",
+        "secondaryNameNetwork": "Theta Token",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.12,
+        "withdrawMin": 0.24,
+        "minConfirm": 10
+      }
+    ]
+  },
+  {
+    "symbol": "WAN",
+    "name": "WAN",
+    "networkList": [
+      {
+        "network": "WAN",
+        "secondaryNameNetwork": "Wanchain",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.1,
+        "withdrawMin": 0.2,
+        "minConfirm": 30
+      }
+    ]
+  },
+  {
+    "symbol": "ORN",
+    "name": "ORN",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.084,
+        "withdrawMin": 0.17,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 8.47,
+        "withdrawMin": 16.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "PERL",
+    "name": "PERL",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.77,
+        "withdrawMin": 7.54,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 405.0,
+        "withdrawMin": 810.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "NEXO",
+    "name": "NEXO",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 11.0,
+        "withdrawMin": 22.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.25,
+        "withdrawMin": 0.5,
+        "minConfirm": 300
+      }
+    ]
+  },
+  {
+    "symbol": "MASK",
+    "name": "MASK",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.024,
+        "withdrawMin": 0.048,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.86,
+        "withdrawMin": 3.72,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "AAVE",
+    "name": "AAVE",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0011,
+        "withdrawMin": 0.0022,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0024,
+        "withdrawMin": 0.0048,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.13,
+        "withdrawMin": 0.26,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "GBP",
+    "name": "GBP",
+    "networkList": [
+      {
+        "network": "FIAT_MONEY",
+        "secondaryNameNetwork": "FIAT",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "PERP",
+    "name": "PERP",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.095,
+        "withdrawMin": 0.19,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 12.0,
+        "withdrawMin": 24.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BOND",
+    "name": "BOND",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.4,
+        "withdrawMin": 0.8,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "YFI",
+    "name": "YFI",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 9.8e-06,
+        "withdrawMin": 2e-05,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 2.3e-05,
+        "withdrawMin": 4.6e-05,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0012,
+        "withdrawMin": 0.0024,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "MOB",
+    "name": "MOB",
+    "networkList": [
+      {
+        "network": "MOB",
+        "secondaryNameNetwork": "MobileCoin",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.2,
+        "withdrawMin": 0.4,
+        "minConfirm": 10
+      }
+    ]
+  },
+  {
+    "symbol": "LQTY",
+    "name": "LQTY",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 6.34,
+        "withdrawMin": 12.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BICO",
+    "name": "BICO",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 27.0,
+        "withdrawMin": 54.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "XEC",
+    "name": "XEC",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2617.0,
+        "withdrawMin": 5234.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "XEC",
+        "secondaryNameNetwork": "eCash",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1000.0,
+        "withdrawMin": 20000.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "YGG",
+    "name": "YGG",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.29,
+        "withdrawMin": 0.58,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 43.0,
+        "withdrawMin": 86.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "PEOPLE",
+    "name": "PEOPLE",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.42,
+        "withdrawMin": 6.84,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 466.0,
+        "withdrawMin": 932.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "AXS",
+    "name": "AXS",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0092,
+        "withdrawMin": 0.018,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.17,
+        "withdrawMin": 2.34,
+        "minConfirm": 12
+      },
+      {
+        "network": "RON",
+        "secondaryNameNetwork": "Ronin",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.005,
+        "withdrawMin": 0.2,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ZIL",
+    "name": "ZIL",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.84,
+        "withdrawMin": 5.68,
+        "minConfirm": 15
+      },
+      {
+        "network": "ZIL",
+        "secondaryNameNetwork": "Zilliqa",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.2,
+        "withdrawMin": 0.4,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "XEM",
+    "name": "XEM",
+    "networkList": [
+      {
+        "network": "XEM",
+        "secondaryNameNetwork": "NEM",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 4.0,
+        "withdrawMin": 8.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "CTXC",
+    "name": "CTXC",
+    "networkList": [
+      {
+        "network": "CTXC",
+        "secondaryNameNetwork": "Cortex",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.1,
+        "withdrawMin": 0.2,
+        "minConfirm": 12
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 43.0,
+        "withdrawMin": 86.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BIDR",
+    "name": "BIDR",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1392.0,
+        "withdrawMin": 2784.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 2299.0,
+        "withdrawMin": 4598.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "COMP",
+    "name": "COMP",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0018,
+        "withdrawMin": 0.0036,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0043,
+        "withdrawMin": 0.0086,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.23,
+        "withdrawMin": 0.46,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "HFT",
+    "name": "HFT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.13,
+        "withdrawMin": 0.26,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 17.0,
+        "withdrawMin": 34.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "OOKI",
+    "name": "OOKI",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2551.0,
+        "withdrawMin": 5102.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "RUNE",
+    "name": "RUNE",
+    "networkList": [
+      {
+        "network": "RUNE",
+        "secondaryNameNetwork": "THORChain",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.025,
+        "withdrawMin": 0.5,
+        "minConfirm": 4
+      }
+    ]
+  },
+  {
+    "symbol": "FORTH",
+    "name": "FORTH",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.78,
+        "withdrawMin": 5.56,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "KMD",
+    "name": "KMD",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.31,
+        "withdrawMin": 0.62,
+        "minConfirm": 15
+      },
+      {
+        "network": "KMD",
+        "secondaryNameNetwork": "Komodo",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.002,
+        "withdrawMin": 0.004,
+        "minConfirm": 30
+      }
+    ]
+  },
+  {
+    "symbol": "GHST",
+    "name": "GHST",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 8.46,
+        "withdrawMin": 16.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.18,
+        "withdrawMin": 0.36,
+        "minConfirm": 300
+      }
+    ]
+  },
+  {
+    "symbol": "ALPINE",
+    "name": "ALPINE",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.028,
+        "withdrawMin": 0.056,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "LEVER",
+    "name": "LEVER",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 5539.0,
+        "withdrawMin": 11078.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "IDEX",
+    "name": "IDEX",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.49,
+        "withdrawMin": 2.98,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 101.0,
+        "withdrawMin": 202.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BNBDOWN",
+    "name": "BNBDOWN",
+    "networkList": [
+      {
+        "network": "ETF",
+        "secondaryNameNetwork": "ETF",
+        "depositEnable": false,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "DEXE",
+    "name": "DEXE",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.03,
+        "withdrawMin": 0.06,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.07,
+        "withdrawMin": 6.14,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "AVAX",
+    "name": "AVAX",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0051,
+        "withdrawMin": 0.01,
+        "minConfirm": 15
+      },
+      {
+        "network": "AVAX",
+        "secondaryNameNetwork": "Avalanche",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.008,
+        "withdrawMin": 0.1,
+        "minConfirm": 1
+      },
+      {
+        "network": "AVAXC",
+        "secondaryNameNetwork": "AVAX C-Chain",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.008,
+        "withdrawMin": 0.1,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "UAH",
+    "name": "UAH",
+    "networkList": [
+      {
+        "network": "FIAT_MONEY",
+        "secondaryNameNetwork": "FIAT",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "KNC",
+    "name": "KNC",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.11,
+        "withdrawMin": 0.22,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 4.0,
+        "withdrawMin": 8.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "PROS",
+    "name": "PROS",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.14,
+        "withdrawMin": 0.28,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 19.0,
+        "withdrawMin": 38.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "PROM",
+    "name": "PROM",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.017,
+        "withdrawMin": 0.034,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.83,
+        "withdrawMin": 3.66,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BTCUP",
+    "name": "BTCUP",
+    "networkList": [
+      {
+        "network": "ETF",
+        "secondaryNameNetwork": "ETF",
+        "depositEnable": false,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0,
+        "withdrawMin": 0.0,
+        "minConfirm": 0
+      }
+    ]
+  },
+  {
+    "symbol": "LPT",
+    "name": "LPT",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.64,
+        "withdrawMin": 3.28,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "HIVE",
+    "name": "HIVE",
+    "networkList": [
+      {
+        "network": "HIVE",
+        "secondaryNameNetwork": "HIVE",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 0.02,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "BIFI",
+    "name": "BIFI",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0002,
+        "withdrawMin": 0.0004,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.00035,
+        "withdrawMin": 0.0007,
+        "minConfirm": 1
+      },
+      {
+        "network": "FTM",
+        "secondaryNameNetwork": "Fantom",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.00014,
+        "withdrawMin": 0.0003,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "RDNT",
+    "name": "RDNT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.17,
+        "withdrawMin": 0.34,
+        "minConfirm": 15
+      },
+      {
+        "network": "ARBITRUM",
+        "secondaryNameNetwork": "Arbitrum One",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.3,
+        "withdrawMin": 1.0,
+        "minConfirm": 100
+      }
+    ]
+  },
+  {
+    "symbol": "PORTO",
+    "name": "PORTO",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.033,
+        "withdrawMin": 0.066,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "PYR",
+    "name": "PYR",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.42,
+        "withdrawMin": 4.84,
+        "minConfirm": 12
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.051,
+        "withdrawMin": 0.1,
+        "minConfirm": 300
+      }
+    ]
+  },
+  {
+    "symbol": "WAXP",
+    "name": "WAXP",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 139.0,
+        "withdrawMin": 278.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "WAX",
+        "secondaryNameNetwork": "WAX",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.0,
+        "withdrawMin": 7.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "DAI",
+    "name": "DAI",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.8,
+        "withdrawMin": 10.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 4.0,
+        "withdrawMin": 15.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 300
+      }
+    ]
+  },
+  {
+    "symbol": "DAR",
+    "name": "DAR",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.43,
+        "withdrawMin": 0.86,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 58.0,
+        "withdrawMin": 116.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "FET",
+    "name": "FET",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.21,
+        "withdrawMin": 0.42,
+        "minConfirm": 15
+      },
+      {
+        "network": "FET",
+        "secondaryNameNetwork": "Fetch.ai",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.5,
+        "withdrawMin": 1.5,
+        "minConfirm": 5
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 31.0,
+        "withdrawMin": 62.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "LRC",
+    "name": "LRC",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.25,
+        "withdrawMin": 0.5,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 27.0,
+        "withdrawMin": 54.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "VET",
+    "name": "VET",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.3,
+        "withdrawMin": 6.6,
+        "minConfirm": 15
+      },
+      {
+        "network": "VET",
+        "secondaryNameNetwork": "VeChain",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 20.0,
+        "withdrawMin": 40.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "MTL",
+    "name": "MTL",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 7.94,
+        "withdrawMin": 15.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "ALPACA",
+    "name": "ALPACA",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.28,
+        "withdrawMin": 0.56,
+        "minConfirm": 15
+      },
+      {
+        "network": "FTM",
+        "secondaryNameNetwork": "Fantom",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.12,
+        "withdrawMin": 5.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "USDT",
+    "name": "USDT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.29,
+        "withdrawMin": 10.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "EOS",
+        "secondaryNameNetwork": "EOS",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "NEAR",
+        "secondaryNameNetwork": "NEAR Protocol",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "AVAXC",
+        "secondaryNameNetwork": "AVAX C-Chain",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 50.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.8,
+        "withdrawMin": 10.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 9.2,
+        "withdrawMin": 50.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.17,
+        "withdrawMin": 0.34,
+        "minConfirm": 300
+      },
+      {
+        "network": "SOL",
+        "secondaryNameNetwork": "Solana",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 2.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "XTZ",
+        "secondaryNameNetwork": "Tezos",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 4
+      },
+      {
+        "network": "TRX",
+        "secondaryNameNetwork": "Tron (TRC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "OXT",
+    "name": "OXT",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 120.0,
+        "withdrawMin": 240.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "USDP",
+    "name": "USDP",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.8,
+        "withdrawMin": 10.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 9.2,
+        "withdrawMin": 30.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "DASH",
+    "name": "DASH",
+    "networkList": [
+      {
+        "network": "DASH",
+        "secondaryNameNetwork": "Dash",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0016,
+        "withdrawMin": 0.004,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "ILV",
+    "name": "ILV",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0012,
+        "withdrawMin": 0.0024,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.17,
+        "withdrawMin": 0.34,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "EDU",
+    "name": "EDU",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.04,
+        "withdrawMin": 10.0,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "JOE",
+    "name": "JOE",
+    "networkList": [
+      {
+        "network": "AVAXC",
+        "secondaryNameNetwork": "AVAX C-Chain",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.1,
+        "withdrawMin": 1.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "ARBITRUM",
+        "secondaryNameNetwork": "Arbitrum One",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 100
+      }
+    ]
+  },
+  {
+    "symbol": "LSK",
+    "name": "LSK",
+    "networkList": [
+      {
+        "network": "LSK",
+        "secondaryNameNetwork": "Lisk",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.1,
+        "withdrawMin": 0.2,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "DCR",
+    "name": "DCR",
+    "networkList": [
+      {
+        "network": "DCR",
+        "secondaryNameNetwork": "Decred",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 0.02,
+        "minConfirm": 6
+      }
+    ]
+  },
+  {
+    "symbol": "DATA",
+    "name": "DATA",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2.2,
+        "withdrawMin": 4.4,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 283.0,
+        "withdrawMin": 566.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 6.03,
+        "withdrawMin": 12.0,
+        "minConfirm": 300
+      }
+    ]
+  },
+  {
+    "symbol": "IMX",
+    "name": "IMX",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 10.0,
+        "withdrawMin": 20.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "USDC",
+    "name": "USDC",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.145,
+        "withdrawMin": 10.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "AVAXC",
+        "secondaryNameNetwork": "AVAX C-Chain",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 50.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "ALGO",
+        "secondaryNameNetwork": "Algorand",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.8,
+        "withdrawMin": 10.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 9.2,
+        "withdrawMin": 50.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "MATIC",
+        "secondaryNameNetwork": "Polygon",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 300
+      },
+      {
+        "network": "RON",
+        "secondaryNameNetwork": "Ronin",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 50.0,
+        "minConfirm": 12
+      },
+      {
+        "network": "SOL",
+        "secondaryNameNetwork": "Solana",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "XLM",
+        "secondaryNameNetwork": "Stellar Network",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 2.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "TRX",
+        "secondaryNameNetwork": "Tron (TRC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "LTC",
+    "name": "LTC",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.00097,
+        "withdrawMin": 0.0019,
+        "minConfirm": 15
+      },
+      {
+        "network": "LTC",
+        "secondaryNameNetwork": "Litecoin",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.001,
+        "withdrawMin": 0.002,
+        "minConfirm": 3
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.0017,
+        "withdrawMin": 0.0034,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "WIN",
+    "name": "WIN",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 904.0,
+        "withdrawMin": 1808.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 2076.0,
+        "withdrawMin": 4152.0,
+        "minConfirm": 1
+      },
+      {
+        "network": "TRX",
+        "secondaryNameNetwork": "Tron (TRC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 955.0,
+        "withdrawMin": 1910.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "INJ",
+    "name": "INJ",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.025,
+        "withdrawMin": 0.05,
+        "minConfirm": 15
+      },
+      {
+        "network": "INJ",
+        "secondaryNameNetwork": "Injective Protocol",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 0.02,
+        "minConfirm": 1
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.022,
+        "withdrawMin": 0.044,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "LTO",
+    "name": "LTO",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.75,
+        "withdrawMin": 1.5,
+        "minConfirm": 15
+      },
+      {
+        "network": "LTO",
+        "secondaryNameNetwork": "LTO Network",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 5.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 50
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 1.74,
+        "withdrawMin": 3.48,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 91.0,
+        "withdrawMin": 182.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "VGX",
+    "name": "VGX",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 55.0,
+        "withdrawMin": 110.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "DYDX",
+    "name": "DYDX",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.81,
+        "withdrawMin": 7.62,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "AGIX",
+    "name": "AGIX",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 27.0,
+        "withdrawMin": 54.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "POND",
+    "name": "POND",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 7.64,
+        "withdrawMin": 15.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "ARBITRUM",
+        "secondaryNameNetwork": "Arbitrum One",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.0,
+        "withdrawMin": 20.0,
+        "minConfirm": 100
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 918.0,
+        "withdrawMin": 1836.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "LINA",
+    "name": "LINA",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 8.65,
+        "withdrawMin": 17.0,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 797.0,
+        "withdrawMin": 1594.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "XLM",
+    "name": "XLM",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.04,
+        "withdrawMin": 2.08,
+        "minConfirm": 15
+      },
+      {
+        "network": "XLM",
+        "secondaryNameNetwork": "Stellar Network",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.02,
+        "withdrawMin": 40.0,
+        "minConfirm": 1
+      }
+    ]
+  },
+  {
+    "symbol": "LINK",
+    "name": "LINK",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.013,
+        "withdrawMin": 0.026,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.002,
+        "withdrawMin": 0.01,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.26,
+        "withdrawMin": 2.52,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "QTUM",
+    "name": "QTUM",
+    "networkList": [
+      {
+        "network": "QTUM",
+        "secondaryNameNetwork": "Qtum",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 0.02,
+        "minConfirm": 24
+      }
+    ]
+  },
+  {
+    "symbol": "SUPER",
+    "name": "SUPER",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.6,
+        "withdrawMin": 1.2,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 58.0,
+        "withdrawMin": 116.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "UFT",
+    "name": "UFT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.22,
+        "withdrawMin": 0.44,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 22.0,
+        "withdrawMin": 44.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "POLS",
+    "name": "POLS",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.17,
+        "withdrawMin": 0.34,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 22.0,
+        "withdrawMin": 44.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "KSM",
+    "name": "KSM",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0023,
+        "withdrawMin": 0.0046,
+        "minConfirm": 15
+      },
+      {
+        "network": "KSM",
+        "secondaryNameNetwork": "Kusama",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.01,
+        "withdrawMin": 1.01,
+        "minConfirm": 3
+      }
+    ]
+  },
+  {
+    "symbol": "FIL",
+    "name": "FIL",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.013,
+        "withdrawMin": 0.026,
+        "minConfirm": 15
+      },
+      {
+        "network": "FIL",
+        "secondaryNameNetwork": "Filecoin",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.001,
+        "withdrawMin": 0.01,
+        "minConfirm": 60
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.035,
+        "withdrawMin": 0.07,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.82,
+        "withdrawMin": 3.64,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "STMX",
+    "name": "STMX",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1684.0,
+        "withdrawMin": 3368.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "RNDR",
+    "name": "RNDR",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.56,
+        "withdrawMin": 7.12,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BAL",
+    "name": "BAL",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.013,
+        "withdrawMin": 0.026,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.5,
+        "withdrawMin": 3.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "FIO",
+    "name": "FIO",
+    "networkList": [
+      {
+        "network": "FIO",
+        "secondaryNameNetwork": "FIO Protocol",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 5.0,
+        "withdrawMin": 10.0,
+        "minConfirm": 50
+      }
+    ]
+  },
+  {
+    "symbol": "GALA",
+    "name": "GALA",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 265.0,
+        "withdrawMin": 530.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "VIB",
+    "name": "VIB",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 125.0,
+        "withdrawMin": 250.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "FIS",
+    "name": "FIS",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.11,
+        "withdrawMin": 0.22,
+        "minConfirm": 15
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 22.0,
+        "withdrawMin": 44.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BAR",
+    "name": "BAR",
+    "networkList": [
+      {
+        "network": "CHZ",
+        "secondaryNameNetwork": "Chiliz Chain (CHZ)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0,
+        "withdrawMin": 1.0,
+        "minConfirm": 15
+      }
+    ]
+  },
+  {
+    "symbol": "RAD",
+    "name": "RAD",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 3.93,
+        "withdrawMin": 7.86,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "BAT",
+    "name": "BAT",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.3,
+        "withdrawMin": 0.6,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 0.7,
+        "withdrawMin": 1.4,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 36.0,
+        "withdrawMin": 72.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "AKRO",
+    "name": "AKRO",
+    "networkList": [
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 2312.0,
+        "withdrawMin": 4624.0,
+        "minConfirm": 12
+      }
+    ]
+  },
+  {
+    "symbol": "MOVR",
+    "name": "MOVR",
+    "networkList": [
+      {
+        "network": "MOVR",
+        "secondaryNameNetwork": "Moonriver",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.003,
+        "withdrawMin": 0.006,
+        "minConfirm": 30
+      }
+    ]
+  },
+  {
+    "symbol": "XMR",
+    "name": "XMR",
+    "networkList": [
+      {
+        "network": "XMR",
+        "secondaryNameNetwork": "Monero",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 0.0001,
+        "withdrawMin": 0.0002,
+        "minConfirm": 3
+      }
+    ]
+  },
+  {
+    "symbol": "COTI",
+    "name": "COTI",
+    "networkList": [
+      {
+        "network": "BSC",
+        "secondaryNameNetwork": "BNB Smart Chain (BEP20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 1.04,
+        "withdrawMin": 2.08,
+        "minConfirm": 15
+      },
+      {
+        "network": "BNB",
+        "secondaryNameNetwork": "BNB Beacon Chain (BEP2)",
+        "depositEnable": true,
+        "withdrawEnable": false,
+        "withdrawFee": 2.23,
+        "withdrawMin": 4.46,
+        "minConfirm": 1
+      },
+      {
+        "network": "ETH",
+        "secondaryNameNetwork": "Ethereum (ERC20)",
+        "depositEnable": true,
+        "withdrawEnable": true,
+        "withdrawFee": 117.0,
+        "withdrawMin": 234.0,
+        "minConfirm": 12
+      }
+    ]
+  }
+]
